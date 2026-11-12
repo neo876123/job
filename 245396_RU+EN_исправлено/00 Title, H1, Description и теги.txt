@@ -194,6 +194,14 @@ Description: Нужен ли местный счёт для покупки жи�
 Теги: рубрики — Документы на Ближнем Востоке, Недвижимость, Налоги и законы; сценарный — План Б
 
 ====================================================================================================
+26 EN - Can a Foreigner Buy Property in Saudi Arabia, Qatar, Oman and Bahrain
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: In which zones can a foreigner buy a home in Saudi Arabia, Qatar, Oman and Bahrain? Qatar: 10 freehold zones plus usufruct of up to 99 years in 16 districts; Oman: ITC tourism complexes; Bahrain: investment zones; Saudi Arabia: zones on the REGA map since 2026. Rights explained on middle-east.realestate.
+Tags: categories — Real estate, Taxes and laws, Documents in the Middle East; scenario — Plan B
+
+====================================================================================================
 27 RU - Может ли иностранец купить недвижимость в Саудовской Аравии, Катаре, Омане и
 ====================================================================================================
 Title: без изменений

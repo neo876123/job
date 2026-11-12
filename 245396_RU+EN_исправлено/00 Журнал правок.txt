@@ -1840,6 +1840,43 @@
   − пункт списка: В 2025 году в Омане вступил в силу закон, который, по сообщению юридического обзора, сделал эскроу-счёт обязательным при продаже строящихся объектов.
 
 ====================================================================================================
+26 EN - Can a Foreigner Buy Property in Saudi Arabia, Qatar, Oman and Bahrain   (изменено блоков: 8, добавлено: 5, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Residence permits are covered in separate articles: Saudi Arabia , Qatar , Oman and …»
+      удалено: «do you need» [без выделения]
+      «to get» → «for»
+      удалено: «in the Gulf States» [без выделения]
+      удалено: «in the article» [без выделения]
+      удалено: «what taxes and fees does a foreigner pay when» [без выделения]
+      «,» → «are covered separately,»
+      удалено: «in the middle east,» [без выделения]
+      «do you need» → «whether»
+      добавлено: «is needed»
+  • абзац: «Purchases are possible only in zones determined by the Council of Ministers on REGA's …»
+      добавлено: «The Council of Ministers approved the list of zones on 23 June 2026, together with the implementing regulations, and REGA has published a map of them on the Saudi …»
+      «on the REGA website» → «against this map»
+  • абзац: «According to legal commentaries, foreign residents may own one residential property for …»
+      «zones.» → «zones, except in Makkah and Madinah.»
+  • абзац: «A foreigner's rights in Qatar are set by Law No. 16 of 2018 and Cabinet Decision No. 28 …»
+      добавлено: «June»
+  • абзац: «Full ownership is available in zones that include:»
+      «zones that include:» → «ten zones, with Al Dafna taking up two of them in the list:»
+  • абзац: «Usufruct for up to 99 years is available in districts of Doha that include Msheireb, Al …»
+      «districts of Doha that include» → «16 districts, including these in Doha:»
+  • абзац: «A foreigner can buy a property in full ownership in the investment zones. These include, …»
+      «extended.» → «extended: Bilaj Al Jazayer was added in April 2025.»
+  • пункт списка: «In 2026 Qatar amended Decision No. 28 of 2020, which sets foreigners' rights of ownership …»
+      добавлено: «June»
+      добавлено: «The Simaisma resort was added to the ownership zones, which now number ten.»
+ДОБАВЛЕНО:
+  + абзац: Before the deal, a non-resident will need a digital ID, issued through Saudi embassies, and an account with a local bank in their own name.
+  + абзац: "The name of the district in an advert guarantees nothing: the status depends on the plot number. That is why it is checked with the SLRB before the deposit, not after …
+  + абзац: If the purchase is tied to a change of country of residence, the guides on life, documents and the family budget in Saudi Arabia and Qatar will help: moving to Saudi …
+  + абзац: Zones and rules as they stood on 9 November 2026.
+  + пункт списка: The government approved the implementing regulations of the Saudi law and the map of zones for foreigners on 23 June 2026. They also set REGA's fee on the sale of a …
+
+====================================================================================================
 27 RU - Может ли иностранец купить недвижимость в Саудовской Аравии, Катаре, Омане и   (изменено блоков: 8, добавлено: 5, удалено: 0)
 ====================================================================================================
 ИЗМЕНЕНО:
