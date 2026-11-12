@@ -1,0 +1,202 @@
+Title, H1, Description и теги — вставляются в отдельные поля CMS, не в текст статьи.
+Title и H1 приведены только там, где они изменены (выделены жёлтым в .docx).
+
+====================================================================================================
+01 EN - How to move to live in Qatar
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: You can move to Qatar for work, family or study, or by buying property worth from QAR 730,000 (about USD 200,000). A family of four needs from USD 6,100 a month in Doha. How expats live in Qatar — on middle-east.realestate.
+Tags: categories — Immigration, Life in Qatar, Work; scenario — Residence permit and relocation
+
+====================================================================================================
+02 RU - Как переехать жить в Катар
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Переехать в Катар можно по работе, к семье, на учёбу или через покупку жилья от 730 000 QAR (около 200 000 $). Семье из четырёх человек в Дохе нужно от 6100 $ в месяц. Как живут иностранцы — на сайте middle-east.realestate.
+Теги: рубрики — Иммиграция, Жизнь в Катаре, Работа; сценарный — ВНЖ и релокация
+
+====================================================================================================
+03 EN - How to get a residence permit in Saudi Arabia
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: How do you get a residence permit in Saudi Arabia, and what does it cost? Premium Residency costs SAR 100,000 a year or SAR 800,000 for an indefinite permit, or from SAR 4 million (about USD 1.07 million) via property. Terms and fees — on middle-east.realestate.
+Tags: categories — Immigration, Documents in the Middle East, Real estate; scenario — Residence permit and relocation
+
+====================================================================================================
+04 RU - Как получить ВНЖ в Саудовской Аравии
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Как получить ВНЖ в Саудовской Аравии и сколько это стоит? Премиальный ВНЖ — 100 000 SAR в год или 800 000 SAR бессрочно, за покупку жилья — от 4 млн SAR (около 1,07 млн $). Условия и сборы — на сайте middle-east.realestate.
+Теги: рубрики — Иммиграция, Документы на Ближнем Востоке, Недвижимость; сценарный — ВНЖ и релокация
+
+====================================================================================================
+05 EN - How to move to Bahrain in 2026
+====================================================================================================
+Title: How to move to Bahrain in 2026 | Middle East Realestate
+H1: How to move to Bahrain in 2026
+Description: What does it take to move to Bahrain? A 10-year golden visa is granted for property from BHD 130,000 ($345,800), self-sponsorship starts at BHD 50,000, and a family of four needs from BHD 1,580 a month including rent. Prices and standard of living in 2026 — in the middle-east.realestate guide.
+Tags: categories — Immigration, Life in Bahrain, Real estate; scenario — Residence permit and relocation
+
+====================================================================================================
+06 RU - Как переехать в Бахрейн в 2026 году
+====================================================================================================
+Title: Как переехать в Бахрейн в 2026 году | Middle East Realestate
+H1: Как переехать в Бахрейн в 2026 году
+Description: Что нужно, чтобы переехать в Бахрейн? Золотую визу на 10 лет дают за жильё от 130 000 BHD (345 800 $), самоспонсорство — от 50 000 BHD, а семье из четырёх человек нужно от 1580 BHD в месяц с арендой. Цены и уровень жизни 2026 года — в обзоре middle-east.realestate.
+Теги: рубрики — Иммиграция, Жизнь в Бахрейне, Недвижимость; сценарный — ВНЖ и релокация
+
+====================================================================================================
+07 EN - Moving to Saudi Arabia in 2026
+====================================================================================================
+Title: Moving to Saudi Arabia in 2026 | Middle East Realestate
+H1: Moving to Saudi Arabia in 2026
+Description: Moving to Saudi Arabia: a work Iqama costs SAR 650 a year, Premium Residency starts at SAR 100,000, and a family of four spends about USD 2,850 a month excluding rent. Cities, documents and 2026 rules — on middle-east.realestate.
+Tags: categories — Immigration, Life in Saudi Arabia, Work; scenario — Residence permit and relocation
+
+====================================================================================================
+08 RU - Переезд в Саудовскую Аравию
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Переезд в Саудовскую Аравию: рабочая икама стоит 650 риялов в год, премиальный ВНЖ — от 100 000 риялов, бюджет семьи из четырёх человек — около 2850 $ в месяц без аренды. Города, документы и правила 2026 года — на middle-east.realestate.
+Теги: рубрики — Иммиграция, Жизнь в Саудовской Аравии, Работа; сценарный — ВНЖ и релокация
+
+====================================================================================================
+09 EN - How to get a residence permit in Bahrain - 2026
+====================================================================================================
+Title: How to get a residence permit in Bahrain - 2026 | Middle East Realestate
+H1: How to get a residence permit in Bahrain - 2026
+Description: What types of residence permit does Bahrain offer in 2026? The 10-year golden visa is open to buyers of property from BHD 130,000, employees earning BHD 2,000 or more and retirees, and fees for a family of three come to BHD 912. Documents and timelines — explained on middle-east.realestate.
+Tags: categories — Immigration, Investment, Documents in the Middle East; scenario — Residence permit and relocation
+
+====================================================================================================
+10 RU - Как получить ВНЖ в Бахрейне в 2026 году
+====================================================================================================
+Title: Как получить ВНЖ в Бахрейне в 2026 году | Middle East Realestate
+H1: Как получить ВНЖ в Бахрейне в 2026 году
+Description: Какие виды ВНЖ есть в Бахрейне в 2026 году? Золотая виза на 10 лет доступна покупателям жилья от 130 000 BHD, работникам с зарплатой от 2000 BHD и пенсионерам, а пошлины на семью из трёх человек составят 912 BHD. Документы и сроки — в гиде middle-east.realestate.
+Теги: рубрики — Иммиграция, Инвестиции, Документы на Ближнем Востоке; сценарный — ВНЖ и релокация
+
+====================================================================================================
+11 EN - Obtaining a residence permit in Oman - 2026
+====================================================================================================
+Title: Obtaining a residence permit in Oman - 2026 | Middle East Realestate
+H1: Obtaining a residence permit in Oman - 2026
+Description: You can get a residence permit in Oman in 2026 through investment, work, study or retirement. The 10-year Golden Residency costs from OMR 200,000 (about USD 520,000), and since June 2026 homeowners can get residency without a sponsor. Details on middle-east.realestate.
+Tags: categories — Immigration, Investment, Life in Oman; scenario — Residence permit and relocation
+
+====================================================================================================
+12 RU - Получение ВНЖ в Омане в 2026 году
+====================================================================================================
+Title: Получение ВНЖ в Омане в 2026 году | Middle East Realestate
+H1: Получение ВНЖ в Омане в 2026 году
+Description: Получить ВНЖ в Омане в 2026 году можно за инвестиции, работу, учёбу или пенсию. Золотая резиденция на 10 лет стоит от 200 000 OMR (около 520 000 $), а с июня 2026 года владельцам жилья выдают ВНЖ без спонсора. Подробности — на middle-east.realestate.
+Теги: рубрики — Иммиграция, Инвестиции, Жизнь в Омане; сценарный — ВНЖ и релокация
+
+====================================================================================================
+13 EN - Moving to Oman for permanent residence in 2026
+====================================================================================================
+Title: Moving to Oman for permanent residence in 2026 | Middle East Realestate
+H1: Moving to Oman for permanent residence in 2026
+Description: How to move to Oman for permanent residence in 2026? A 10-year Golden Residency requires an investment from OMR 200,000, citizenship now takes 15 years, and a flat in the centre rents for about $590 a month. Muscat, Salalah and Sohar — in the middle-east.realestate article.
+Tags: categories — Immigration, Life in Oman, Real estate; scenario — Residence permit and relocation
+
+====================================================================================================
+14 RU - Переезд в Оман на ПМЖ в 2026 году
+====================================================================================================
+Title: Переезд в Оман на ПМЖ в 2026 году | Middle East Realestate
+H1: Переезд в Оман на ПМЖ в 2026 году
+Description: Как переехать в Оман на ПМЖ в 2026 году? Для золотой резиденции на 10 лет нужно вложить от 200 000 OMR, ждать гражданства — 15 лет, а квартира в центре сдаётся примерно за 590 $ в месяц. Маскат, Салала и Сухар — в материале middle-east.realestate.
+Теги: рубрики — Иммиграция, Жизнь в Омане, Недвижимость; сценарный — ВНЖ и релокация
+
+====================================================================================================
+15 EN - How to get a residence permit in Qatar
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Which Qatar residence permit should you choose in 2026? Property from QAR 730,000 (about USD 200,000) gives residency without a sponsor, a home from QAR 3.65 million adds permanent-residency benefits, and since 2020 workers can change employers without consent. All types compared in a table on middle-east.realestate.
+Tags: categories — Immigration, Work, Documents in the Middle East; scenario — Residence permit and relocation
+
+====================================================================================================
+16 RU - Как получить ВНЖ в Катаре
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Какой ВНЖ в Катаре выбрать в 2026 году? За жильё от 730 000 QAR (около 200 000 $) статус дают без спонсора, объект от 3,65 млн QAR добавляет льготы ПМЖ, а с 2020 года работник может сменить работодателя без его согласия. Виды ВНЖ — в таблице на middle-east.realestate.
+Теги: рубрики — Иммиграция, Работа, Документы на Ближнем Востоке; сценарный — ВНЖ и релокация
+
+====================================================================================================
+17 EN - How to move to UAE permanently
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Moving to the UAE permanently in 2026: a 10-year Golden Visa for property from AED 2 million (about $544,500), a 2-year residence permit from AED 750,000, and a family of four in Dubai needs about $4,100 a month excluding rent. Visas, districts and prices on middle-east.realestate.
+Tags: categories — Immigration, Life in the UAE, Real estate; scenario — Residence permit and relocation
+
+====================================================================================================
+18 RU - Как переехать в ОАЭ на ПМЖ
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Переезд в ОАЭ на ПМЖ в 2026 году: золотая виза на 10 лет — за жильё от 2 млн AED (около 544 500 $), 2-летний ВНЖ — от 750 000 AED, а семье из четырёх человек в Дубае нужно около 4100 $ в месяц без аренды. Визы, районы и цены — на middle-east.realestate.
+Теги: рубрики — Иммиграция, Жизнь в ОАЭ, Недвижимость; сценарный — ВНЖ и релокация
+
+====================================================================================================
+19 EN - How to obtain UAE residency in 2026
+====================================================================================================
+Title: How to obtain UAE residency in 2026 | Middle East Realestate
+H1: How to obtain UAE residency in 2026
+Description: UAE residency in 2026: a 10-year Golden Visa for property from AED 2 million (about USD 544,500), a 5-year Green Visa for freelancers earning AED 360,000 a year, and a 2-year status for buyers of Dubai homes from AED 750,000. All categories and documents on middle-east.realestate.
+Tags: categories — Immigration, Life in the UAE, Documents in the Middle East; scenario — Residence permit and relocation
+
+====================================================================================================
+21 RU - Как получить ВНЖ в ОАЭ в 2026 году
+====================================================================================================
+Title: Как получить ВНЖ в ОАЭ в 2026 году | Middle East Realestate
+H1: Как получить ВНЖ в ОАЭ в 2026 году
+Description: ВНЖ в ОАЭ в 2026 году: золотую визу на 10 лет дают за недвижимость от 2 млн AED (около 544 500 $), зелёную на 5 лет — фрилансерам с доходом от 360 000 AED в год, а покупателям жилья в Дубае от 750 000 AED — 2-летний статус. Все категории и документы — на middle-east.realestate.
+Теги: рубрики — Иммиграция, Жизнь в ОАЭ, Документы на Ближнем Востоке; сценарный — ВНЖ и релокация
+
+====================================================================================================
+22 EN - What Taxes and Fees Does a Foreigner Pay When Buying and Owning Property in the
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Purchase costs in the Gulf: 0.25% in Qatar, 2% in Bahrain, 3% in Oman (plus 5% VAT on new builds) and 5% in Saudi Arabia. Only Bahrain charges an annual municipal tax. A worked example for $300,000 on middle-east.realestate.
+Tags: categories — Taxes and laws, Real estate, Documents in the Middle East; scenario — Yield and rental
+
+====================================================================================================
+23 RU - Какие налоги и сборы платит иностранец при покупке и владении недвижимостью в
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Сборы при покупке жилья в странах Залива: 0,25% в Катаре, 2% в Бахрейне, 3% в Омане (плюс НДС 5% на новостройки) и 5% в Саудовской Аравии. Ежегодный муниципальный налог платят только в Бахрейне. Расчёт на $300 000 — на middle-east.realestate.
+Теги: рубрики — Налоги и законы, Недвижимость, Документы на Ближнем Востоке; сценарный — Доходность и аренда
+
+====================================================================================================
+24 EN - Where to Pay for Property in the Middle East, and Do You Need a Local Account
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Do you need a local account to buy a home in the Middle East? In Saudi Arabia, a non-resident does, along with a digital ID; in Qatar, Oman and Bahrain, off-plan payments go to the project's escrow account. Documents, six transfer steps and fraud warning signs on middle-east.realestate.
+Tags: categories — Documents in the Middle East, Real estate, Taxes and laws; scenario — Plan B
+
+====================================================================================================
+25 RU - Куда платить за недвижимость на Ближнем Востоке и нужен ли местный счёт
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: Нужен ли местный счёт для покупки жилья на Ближнем Востоке? В Саудовской Аравии нерезиденту — да, вместе с цифровым удостоверением личности; в Катаре, Омане и Бахрейне за новостройку платят на эскроу-счёт проекта. Документы, шесть шагов перевода и признаки мошенничества — на middle-east.realestate.
+Теги: рубрики — Документы на Ближнем Востоке, Недвижимость, Налоги и законы; сценарный — План Б
+
+====================================================================================================
+27 RU - Может ли иностранец купить недвижимость в Саудовской Аравии, Катаре, Омане и
+====================================================================================================
+Title: без изменений
+H1: без изменений
+Description: В каких зонах иностранец может купить жильё в Саудовской Аравии, Катаре, Омане и Бахрейне? Катар — 10 зон полной собственности плюс узуфрукт до 99 лет в 16 районах, Оман — туристические комплексы ITC, Бахрейн — инвестиционные зоны, Саудовская Аравия — зоны по карте REGA с 2026 года. Разбор прав — на middle-east.realestate.
+Теги: рубрики — Недвижимость, Налоги и законы, Документы на Ближнем Востоке; сценарный — План Б

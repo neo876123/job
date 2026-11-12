@@ -1,0 +1,1876 @@
+Журнал правок по каждому файлу. «→» — было → стало. [без выделения] — правка есть в .docx, но не выделена жёлтым
+(в основном удаления устаревших фраз и мелкие правки грамматики).
+
+====================================================================================================
+01 EN - How to move to live in Qatar   (изменено блоков: 32, добавлено: 54, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Immigration to Qatar offers the opportunity to live in one of the countries with the …»
+      «100,000.» → «100,000 at purchasing power parity: the IMF estimates it at around USD 104,000 in 2026.»
+      «recognized» → «recognised» [без выделения]
+  • абзац: «First, foreign citizens need to familiarise themselves with the visa requirements and …»
+      «The country offers» → «Expats can choose from»
+      «programmes for expats,» → «programmes,» [без выделения]
+  • абзац: «Another important aspect is studying the healthcare system. The country offers …»
+      «The country offers high-quality medical services.» → «Medical services here are of high quality.»
+      «Many» → «Under Law No. 22 of 2021,»
+      добавлено: «must»
+      добавлено: «a policy for foreign employees and»
+      «employees with insurance policies; however, if this is not offered, purchasing» → «family members. Those who relocate without an employer, for example on a property-based residence permit, need»
+      «insurance may be a good option.» → «insurance.»
+  • пункт списка: «An investment residence permit can be obtained by purchasing an apartment or villa in …»
+      «over» → «QAR 730,000 (about»
+      «200,000.» → «200,000) or more.»
+      добавлено: «remains valid for as long as the property»
+      «usually issued for 1» → «owned and is renewed; the owner needs to spend at least 90 days a»
+      «and can be extended.» → «in Qatar.»
+      «over» → «QAR 3,650,000 (about»
+      «million» → «million) or more»
+      «you can obtain» → «the residence permit comes with the benefits of»
+      «for 5 years immediately.» → «holders: access to public healthcare and education and the right to run certain types of business.»
+      добавлено: «Since June 2026, there are ten such freehold zones, and in 16 more areas a foreign buyer gets a 99-year usufruct right.»
+  • пункт списка: «A work visa requires a job offer from a Qatari employer who will sponsor your stay there. …»
+      «period of» → «period.»
+  • пункт списка: «A family visa allows family members to reunite and live together. It can be issued to a …»
+      добавлено: «A private-sector employee usually needs a salary of at least QAR 10,000 (about USD 2,750) a month.»
+  • абзац: «A foreign national must continually reside in the country for over six months. Otherwise, …»
+      «A» → «If a»
+      «must continually reside in» → «stays outside»
+      «over» → «more than»
+      «months. Otherwise,» → «consecutive months without a re-entry permit,»
+      «will be» → «is»
+  • пункт списка: «Applying to the Ministry of Justice. You can register on the Hukoomi portal, which …»
+      «Applying to» → «Submitting the application. Property-based residence permits are processed by»
+      «Justice.» → «Justice, while work, family and student permits go through the Ministry of Interior, including the Metrash app.»
+  • абзац: «The timeframes for obtaining the status are as follows: 20 years for individuals born …»
+      «kingdom» → «country»
+  • абзац: «Currently, the authorities set a quota of only 100 permanent residency permits per year. …»
+      добавлено: «The application fee is QAR 3,000 (about USD 825) and covers the whole family.»
+  • абзац: «Foreign nationals whose activities are of significant interest to the country or those …»
+      «development, for example, by investing at least USD 1 million in real estate,» → «development» [без выделения]
+      добавлено: «Buying property worth QAR 3,650,000 (about USD 1 million) or more does not grant permanent residency by itself, but it opens the same benefits in healthcare, education …»
+  • абзац: «Additionally, for family relocations, requirements for migration to Qatar may concern …»
+      добавлено: «Documents must be translated into Arabic and legalised: Qatar has not joined the Hague Apostille Convention, so an apostille is not accepted. Documents are certified by …»
+      удалено: «notarised translation of documents into Arabic, along with a» [без выделения]
+      «authorities,» → «authorities» [без выделения]
+  • абзац: «If you ask, «Is it expensive to live in Qatar?», the answer will depend on the income …»
+      «for 2025,» → «as of November 2026,»
+  • пункт списка: «Household needs for a family of 4 – USD 3,099 (The average monthly salary is USD 3,690);»
+      «3,099 (The» → «3,678 (the»
+      «3,690);» → «3,390);»
+  • пункт списка: «Renting a 1-bedroom apartment in Doha is approximately USD 1,550 per month;»
+      «1,550» → «2,050»
+      «month;» → «month in the city centre and USD 1,230 outside it;»
+  • пункт списка: «Utility payments for an 85 m² apartment cost approximately USD 100 monthly, excluding …»
+      «100» → «92»
+  • пункт списка: «Mobile communications are from USD 42 per month;»
+      «42» → «35»
+  • пункт списка: «The price of a litre of petrol is USD 55;»
+      «55;» → «0.56;»
+  • пункт списка: «Tuition fees for a child in school start on average from USD 11,000;»
+      добавлено: «an international primary»
+      удалено: «start on» [без выделения]
+      «from» → «about»
+      «11,000;» → «16,600 a year;»
+  • пункт списка: «Kindergarten costs from USD 750 per month;»
+      «from» → «about»
+      «750» → «730»
+  • пункт списка: «Dinner for two in a restaurant costs approximately USD 48;»
+      «48;» → «72;»
+  • пункт списка: «A grocery basket of essential products, such as bread and milk, costs about USD 65. For …»
+      «65.» → «3.50.»
+      «between» → «about»
+      «4» → «2 in a shop»
+      «11» → «12»
+  • пункт списка: «The country is experiencing an economic boom thanks to substantial natural gas and oil …»
+      «It offers» → «There are»
+      «state;» → «state. The exception is large multinational groups: since 2025, a minimum tax of 15% applies to them;»
+  • пункт списка: «The country's crime rate is very low. In 2022, Qatar was recognised as the safest state …»
+      «2022,» → «the Numbeo Safety Index for mid-2026,»
+      «was recognised as the safest state» → «ranks third»
+      «world,» → «world (84.8 out of 100) after Andorra and the UAE,»
+  • пункт списка: «The region is a convenient hub for tourists and businesspeople travelling to the Middle …»
+      «world,» → «world (second place in the 2025 Skytrax ranking),»
+  • абзац: «Alcohol consumption is strictly controlled. It is simply impossible to buy it in shops; …»
+      «simply impossible to» → «not sold in ordinary shops. Non-Muslim residents»
+      добавлено: «alcohol with a licence at the single store of the state-owned company QDC; others can only get»
+      удалено: «in shops; it is only available» [без выделения]
+  • пункт списка: «Doha is the heart of the emirate and its largest metropolis. Doha houses the country's …»
+      добавлено: «taste.»
+  • пункт списка: «Apartments in modern residential complexes, especially in Doha, are in demand due to …»
+      «centres;» → «centres. Even small apartments in the zones open to foreigners meet the residency threshold: as of November 2026, a 90 m² one-bedroom apartment in Lusail is listed in …»
+  • ответ FAQ: «A tourist visa suffices for a short-term visit and can be obtained upon arrival at the …»
+      удалено: «tourist» [без выделения]
+      «suffices» → «does not need to be arranged in advance»
+      «short-term visit and can be obtained upon» → «short visit: citizens of many countries receive a free visa waiver on»
+      добавлено: «in the»
+  • ответ FAQ: «To obtain a residence permit through property purchase, one must invest a minimum of USD …»
+      добавлено: «QAR 730,000 (about»
+      «200,000.» → «200,000) in a property in a zone open to foreigners.»
+      удалено: «temporary» [без выделения]
+      «can be extended.» → «is renewed for as long as the property is owned.»
+  • ответ FAQ: «To obtain citizenship, foreign nationals must reside in the state legally for at least 20 …»
+      «20» → «25»
+      добавлено: «No more than 50 people a year are granted citizenship.»
+  • ответ FAQ: «Life in Qatar is comfortable. The country with a high GDP offers quality healthcare, …»
+      «The» → «In a»
+      «GDP offers quality» → «GDP,»
+      «infrastructure.» → «infrastructure are of good quality.»
+ДОБАВЛЕНО:
+  + абзац: "Buyers often confuse the two thresholds. An apartment worth QAR 730,000 or more gives a residence permit for as long as you own it. A property worth QAR 3.65 million or …
+  + абзац: "Paperwork delays a move more often than money does. Marriage and birth certificates go through legalisation at several authorities, and the Arabic translation needs to …
+  + абзац: An example for a family of four renting a 3-bedroom apartment:
+  + новая таблица (12 ячеек): Expense | Outside central Doha | Central Doha | Living costs without rent | USD 3,678 | USD 3,678 | Rent of a 3-bedroom apartment | USD 2,454 | USD 3,582 | Total per month | about USD 6,130 | about USD 7,260
+  + абзац: This is almost twice the average salary, so a relocation budget is based on the household income rather than a single wage. Registration fees are not included: they …
+  + абзац: In 2026, tension in the region was added to the cons: in spring, it led to temporary airspace closures. The airspace is now open and flights are operating. Before …
+  + заголовок H2: Who Qatar is not for
+  + абзац: Most limitations are visible in advance, so they can be factored in when deciding how to move to Qatar.
+  + новая таблица (14 ячеек): Situation | Why it will be difficult | You need a second passport within a foreseeable time | Citizenship is granted after 25 years of residence, to no more than 50 people a year | You plan to spend long periods in …
+  + заголовок H2: Rules and prices in 2026: what has changed
+  + абзац: The data in this article was updated on 09.11.2026. Over the year, the property rules, living costs and the situation in the region have changed.
+  + новая таблица (18 ячеек): Indicator | 2025 | 2026 | Freehold zones for foreigners | 9 | 10, Simaisma resort added in June | Monthly costs for a family of 4 without rent, Numbeo | USD 3,099 | USD 3,678 | Rent of a 1-bedroom apartment in central …
+  + абзац: GDP per capita fell because of damage to the Ras Laffan gas complex in spring: according to QatarEnergy, about 17% of the country's LNG capacity is temporarily offline, …
+
+====================================================================================================
+02 RU - Как переехать жить в Катар   (изменено блоков: 30, добавлено: 55, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Иммиграция в Катар открывает возможность проживания в одной из стран с самым высоким …»
+      «населения. Эта» → «населения по паритету покупательной способности: по оценке МВФ, в 2026 году это около 104 000 $. Это»
+  • абзац: «Прежде всего, необходимо ознакомиться с визовыми требованиями и процедурами получения …»
+      «Страна предлагает» → «Для экспатов действуют»
+      «программы для экспатов,» → «программы,» [без выделения]
+  • абзац: «Еще одним важным аспектом является изучение системы здравоохранения. Страна предлагает …»
+      «Страна предлагает высококачественные медицинские услуги,» → «Медицинские услуги здесь качественные,»
+      «Многие работодатели предоставляют своим сотрудникам страховой полис, но если это» → «По закону № 22 2021 года работодатель обязан оформить полис сотруднику-иностранцу и членам его семьи. Тем, кто переезжает»
+      «предусмотрено, стоит рассмотреть возможность приобретения личной страховки.» → «по найму, например по ВНЖ за покупку жилья, нужна личная страховка.»
+  • пункт списка: «Инвестиционный ВНЖ. Его можно получить, купив квартиру или виллу в Катаре стоимостью …»
+      «свыше» → «от 730 000 QAR (около»
+      «$.» → «$).»
+      «обычно выдается на 1 год» → «действует, пока объект остаётся в собственности,»
+      «может быть продлен.» → «продлевается; владельцу нужно проводить в Катаре не меньше 90 дней в году.»
+      «сумму, превышающую» → «от 3 650 000 QAR (около»
+      «$, можно сразу получить ПМЖ» → «$), к виду»
+      «5 лет.» → «жительство добавляются льготы держателей ПМЖ: государственная медицина, образование и право вести часть видов бизнеса.»
+      добавлено: «С июня 2026 года таких зон полной собственности десять, ещё в 16 районах иностранец получает право пользования на 99 лет.»
+  • пункт списка: «Семейная виза – еще один вариант того, как вы можете переехать в Катар. Она позволяет …»
+      добавлено: «Сотруднику частной компании для этого обычно нужна зарплата от 10 000 QAR (около 2 750 $) в месяц.»
+  • абзац: «Иностранец должен проживать в стране более полугода непрерывно, иначе ВНЖ аннулируется.»
+      «Иностранец должен проживать в стране более полугода непрерывно, иначе» → «Если иностранец проведёт за пределами страны больше шести месяцев подряд без разрешения на возвращение,»
+  • пункт списка: «Подача заявления через Министерство юстиции, где можно воспользоваться электронными …»
+      «заявления» → «заявления. ВНЖ за покупку недвижимости оформляют»
+      «где можно воспользоваться электронными услугами.» → «рабочий, семейный и студенческий — через Министерство внутренних дел, в том числе в приложении Metrash.»
+      «этого» → «электронных услуг» [без выделения]
+  • абзац: «Сроки получения статуса предусматривают проживание на территории государства в течение 20 …»
+      «королевства» → «страны»
+  • абзац: «На данный момент власти устанавливают квоту на выдачу ПМЖ – всего 100 разрешений в год. …»
+      добавлено: «Пошлина за рассмотрение заявления — 3000 QAR (около 825 $), она покрывает всю семью.»
+  • абзац: «Иностранцы, чья деятельность представляет значительный интерес для страны, или те, кто …»
+      удалено: «например, инвестировал в недвижимость от 1 млн $,» [без выделения]
+      добавлено: «Покупка недвижимости от 3 650 000 QAR (около 1 млн $) сама по себе статус ПМЖ не даёт, но открывает те же льготы в медицине, образовании и бизнесе. Где и на каких правах …»
+  • абзац: «Дополнительно для семейных переездов требования для миграции в Катар могут касаться …»
+      «заверить нотариально.» → «легализовать: Катар не присоединился к Гаагской конвенции, поэтому апостиль не принимают. Документы заверяют в МИД страны выдачи и в посольстве Катара, а после приезда — …»
+  • абзац: «Дорого ли жить в Катаре – зависит от уровня доходов. Согласно данным индекса Numbeo за …»
+      «за 2025 год,» → «на ноябрь 2026 года,»
+  • пункт списка: «Бытовые нужды семьи из 4 человек – 3099 $ (среднемесячная заработная плата составляет …»
+      «3099» → «3678»
+      «3690» → «3390»
+  • пункт списка: «Стоимость аренды квартиры с 1 спальней в Дохе составляет примерно 1550 $ в месяц.»
+      «1550» → «2050»
+      «месяц.» → «месяц в центре и 1230 $ за его пределами.»
+  • пункт списка: «Коммунальные платежи за квартиру площадью более 85 м² обходятся примерно в 100 $ в месяц, …»
+      удалено: «более» [без выделения]
+      «100» → «92»
+  • пункт списка: «Сотовая связь – от 42 $ в месяц.»
+      «42» → «35»
+  • пункт списка: «Цена литра бензина составляет 0,55 $.»
+      «0,55» → «0,56»
+  • пункт списка: «Образование: плата за обучение ребенка в школе в среднем начинается от 11 000 $.»
+      добавлено: «международной начальной»
+      «начинается от 11 000 $.» → «составляет около 16 600 $ в год.»
+  • пункт списка: «Оплата детского сада обходится минимум в 750 $ в месяц.»
+      удалено: «минимум» [без выделения]
+      «750» → «среднем в 730»
+  • пункт списка: «Питание вне дома: ужин на двоих в ресторане будет стоить примерно 48 $.»
+      «48» → «72»
+  • пункт списка: «Продуктовая корзина из основных продуктов, таких как хлеб и молоко, составляет около 3,65 …»
+      «3,65» → «3,5»
+      «от 4» → «около 2»
+      «11» → «12»
+  • пункт списка: «Страна переживает экономический бум благодаря огромным запасам природного газа и нефти. …»
+      «Она предлагает множество» → «Здесь много»
+      добавлено: «Исключение — крупные международные группы: с 2025 года для них действует минимальный налог 15%.»
+  • пункт списка: «Уровень преступности в стране очень низкий. В 2022 году Катар был признан самым …»
+      «В 2022 году» → «По индексу безопасности Numbeo на середину 2026 года»
+      «был признан самым безопасным государством» → «занимает третье место»
+      «мире,» → «мире (84,8 балла из 100) после Андорры и ОАЭ,»
+  • пункт списка: «Регион является удобным хабом для туристических и деловых поездок по Ближнему Востоку, …»
+      «мире,» → «мире: в 2025 году он занял второе место в рейтинге Skytrax,»
+  • абзац: «Употребление алкоголя строго контролируется, его просто невозможно купить в магазинах, …»
+      «контролируется,» → «контролируется: в обычных магазинах»
+      «просто невозможно купить» → «не продают. Резиденты-немусульмане покупают алкоголь по лицензии»
+      «магазинах, только» → «единственном магазине государственной компании QDC, остальные —»
+  • пункт списка: «Квартиры в современных жилых комплексах, особенно в Дохе, пользуются спросом благодаря …»
+      добавлено: «Порог ВНЖ проходят и небольшие квартиры в зонах для иностранцев: в каталоге на ноябрь 2026 года квартира с одной спальней площадью 90 м² в Лусаиле стоит около 295 000 $.»
+  • ответ FAQ: «Для краткосрочного визита достаточно туристической визы, которую получают в аэропорту по …»
+      «достаточно туристической визы, которую» → «визу заранее оформлять не нужно: граждане России въезжают без визы на срок до 90 дней, жители многих других стран»
+      добавлено: «бесплатное разрешение на въезд»
+  • ответ FAQ: «Для получения вида на жительство через покупку недвижимости необходимо инвестировать от …»
+      добавлено: «730 000 QAR (около»
+      «$.» → «$) в объект в разрешённой для иностранцев зоне.»
+      удалено: «временное» [без выделения]
+      «может быть продлено.» → «продлевают, пока недвижимость остаётся в собственности.»
+  • ответ FAQ: «Для оформления статуса гражданина необходимо прожить в государстве на законных основаниях …»
+      «20» → «25»
+      добавлено: «Гражданство получают не больше 50 человек в год.»
+  • ответ FAQ: «Жизнь в эмирате комфортна. Страна с высоким ВВП предлагает качественное здравоохранение, …»
+      «Страна» → «В стране»
+      удалено: «предлагает» [без выделения]
+      «инфраструктуру.» → «инфраструктура.»
+ДОБАВЛЕНО:
+  + абзац: Для россиян переезд в Катар начинается с ознакомительной поездки без визы: безвизовый режим позволяет находиться в стране до 90 дней. Этого хватает, чтобы посмотреть …
+  + абзац: «Покупатели часто путают два порога. Квартира от 730 000 риалов даёт вид на жительство, пока остаётся в собственности. Объект от 3,65 млн риалов добавляет льготы …
+  + абзац: «Переезд чаще всего задерживают не деньги, а бумаги. Свидетельства о браке и рождении детей проходят легализацию в нескольких ведомствах, а перевод на арабский нужен …
+  + абзац: Пример расчёта для семьи из четырёх человек, которая снимает квартиру с тремя спальнями:
+  + новая таблица (12 ячеек): Статья | За пределами центра Дохи | В центре Дохи | Бытовые расходы без аренды | 3678 $ | 3678 $ | Аренда квартиры с 3 спальнями | 2454 $ | 3582 $ | Итого в месяц | около 6130 $ | около 7260 $
+  + абзац: Это почти вдвое больше средней зарплаты, поэтому бюджет переезда считают от дохода семьи, а не от одной ставки. Сборы за оформление в расчёт не входят: они зависят от …
+  + абзац: В 2026 году к минусам добавилась напряжённость в регионе: весной из-за неё на время закрывали воздушное пространство. Сейчас оно открыто, рейсы выполняются. Перед …
+  + заголовок H2: Кому Катар не подойдёт
+  + абзац: Большинство ограничений видно заранее, и их можно учесть ещё до покупки билетов.
+  + новая таблица (14 ячеек): Ситуация | Почему будет сложно | Нужен второй паспорт в обозримый срок | Гражданство дают после 25 лет проживания, не больше 50 человек в год | Планируете подолгу жить в другой стране | ВНЖ аннулируют после шести …
+  + заголовок H2: Правила и цены 2026 года: что поменялось
+  + абзац: Данные в статье обновлены 09.11.2026. За год изменились правила покупки жилья, расходы и обстановка в регионе.
+  + новая таблица (18 ячеек): Показатель | 2025 год | 2026 год | Зоны полной собственности для иностранцев | 9 | 10, в июне добавлен курорт Симайсма | Расходы семьи из 4 человек без аренды, Numbeo | 3099 $ в месяц | 3678 $ в месяц | Аренда квартиры …
+  + абзац: ВВП на душу населения снизился из-за повреждения газового комплекса Рас-Лаффан весной: по данным QatarEnergy, около 17% мощностей по сжижению газа временно не работают, …
+
+====================================================================================================
+03 EN - How to get a residence permit in Saudi Arabia   (изменено блоков: 15, добавлено: 66, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Several categories, including investors, entrepreneurs and professionals over 21, can …»
+      добавлено: «To compare the thresholds with neighbouring countries, see our article on how much to invest in property for residency in the Gulf.»
+  • пункт списка: «Temporary residency (SP2) is issued for 1 year and can be renewed or converted to …»
+      удалено: «(SP2)» [без выделения]
+  • пункт списка: «Permanent residency (SP1) is an indefinite permit initially issued for 10 years and …»
+      удалено: «(SP1)» [без выделения]
+      «permit initially issued for 10 years» → «permit: the fee is paid once,»
+      «renewable thereafter;» → «the status does not need to be renewed every year;»
+  • пункт списка: «Premium residency is available for investments starting at USD 1 million;»
+      «investments starting at» → «buying property worth SAR 4 million (about»
+      «1 million;» → «1.07 million) or more;»
+  • абзац: «An investor residence permit in Saudi Arabia through the SP2 program requires an …»
+      «SP2» → «temporary Premium Residency»
+  • абзац: «Permanent residence in Saudi Arabia can be obtained with a one-time, non-refundable …»
+      «A residence» → «The»
+      удалено: «in Saudi Arabia for investment» [без выделения]
+      «initially issued for 10 years» → «indefinite»
+      «can» → «does not need to»
+      «renewed if» → «confirmed every year, provided»
+  • абзац: «Foreigners can buy property in Saudi Arabia and get residence permit. Purchasing property …»
+      «1.1» → «1.07»
+      добавлено: «The government fee is SAR 4,000 (about USD 1,070), paid after approval, plus USD 170 for processing.»
+  • абзац: «The cost of a Saudi residence permit depends on the specific program. The main expenses …»
+      добавлено: «On top of that, the employer pays a monthly levy of SAR 800 (about USD 213) for each foreign employee. The dependants fee of SAR 400 (about USD 107) per person per month …»
+      «1.1» → «1.07»
+      добавлено: «The purchase is subject to the real estate transaction tax of 5% of the price: for a SAR 4 million property, that is SAR 200,000 (about USD 53,300). By law, the seller …»
+  • абзац: «Saudi Arabia, one of the largest countries on the Arabian Peninsula, boasts a developed …»
+      добавлено: «What daily life looks like and what moving to Saudi Arabia costs is covered in a separate article.»
+  • пункт списка: «Invite relatives, guests, and foreign workers, with the possibility of obtaining the …»
+      «visas.» → «visas;»
+  • абзац: «The Kingdom’s tax regime is appealing, as it imposes no personal income or inheritance …»
+      «The banking system» → «Saudi Arabia has been a full member of the FATF since 2019 and»
+      «internationally recognised,» → «not on its grey list,»
+  • абзац: «The process starts with choosing the right programme. For a work visa, a job offer from a …»
+      добавлено: «Premium Residency applications are accepted by the Premium Residency Center on the pr.gov.sa portal.»
+  • пункт списка: «A valid passport from the country of origin;»
+      добавлено: «for Premium Residency, it must be valid for at least 6 months;»
+  • ответ FAQ: «Yes, but you must have lived in the country for over 10 years, know Arabic, have a legal …»
+      «cannot own» → «face special rules for owning»
+      добавлено: «where homes can mainly be bought by Muslims, and cannot»
+  • ответ FAQ: «For investment-based permits, select an apartment or house in Saudi Arabia through a …»
+      «applicable taxes,» → «the 5% transaction tax,»
+      добавлено: «After that, you apply to the Premium Residency Center.»
+ДОБАВЛЕНО:
+  + абзац: Since 2024, five more Premium Residency categories have been added for professionals, talents, investors and entrepreneurs. They are described below.
+  + абзац: An Iqama is the residence permit of a foreign worker in Saudi Arabia: an ID with a personal number that you need to open a bank account, get a phone contract and leave …
+  + абзац: Since March 2021, workers depend less on their employer. They can issue an exit and re-entry visa themselves through Absher and, once the contract ends, move to another …
+  + абзац: "Workers have more freedom now, but family costs are still on them. Many people only notice the dependants fee at the first Iqama renewal, so it is worth building it …
+  + абзац: Since 22 January 2026, the law on property ownership by non-Saudis has been in force: foreigners can buy in zones approved by the government, with Riyadh and Jeddah …
+  + абзац: "The SAR 4 million threshold is based on the accredited valuation, not on the price in the contract. If the valuation comes in lower, the property will not qualify for …
+  + заголовок H2: Five new Premium Residency categories
+  + абзац: The programme was expanded in January 2024. The new categories do not require the SAR 100,000 or SAR 800,000 payment: the government fee is SAR 4,000 in every case, plus …
+  + новая таблица (18 ячеек): Category | Main condition | Validity | Real Estate Owner | Mortgage-free residential property worth SAR 4 million or more, accredited valuation | While the property remains in your name | Business Investor | Business …
+  + абзац: How much a worker's family pays in dependants fees:
+  + новая таблица (12 ячеек): Who moves with the worker | Fee per month | Fee per year | Spouse | SAR 400 (about USD 107) | SAR 4,800 (about USD 1,280) | Spouse and a child | SAR 800 (about USD 213) | SAR 9,600 (about USD 2,560) | Spouse and two …
+  + пункт списка: Premium Residency holders and their families do not pay the monthly expat and dependants fees.
+  + заголовок H2: Who this route is not for
+  + абзац: Before applying, compare your situation with this table.
+  + новая таблица (12 ячеек): Situation | What gets in the way | You want residency for buying a small apartment | The threshold is SAR 4 million (about USD 1.07 million), and a mortgage is not allowed | You want to buy a home in Mecca or Medina | …
+  + пункт списка: Health insurance for the applicant and family members; for Premium Residency, it is kept throughout the validity of the status;
+  + заголовок H2: Rules in 2024–2026: what has changed
+  + абзац: The information is current as of 9 November 2026.
+  + новая таблица (8 ячеек): When | What changed | January 2024 | Five new Premium Residency categories were introduced, including one for owners of property worth SAR 4 million or more | July 2025 | The law on property ownership by non-Saudis was …
+  + абзац: The fees for temporary and indefinite Premium Residency have not changed: SAR 100,000 a year and SAR 800,000 once.
+
+====================================================================================================
+04 RU - Как получить ВНЖ в Саудовской Аравии   (изменено блоков: 17, добавлено: 66, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Инвесторы и предприниматели, готовые вложить средства в экономику, имеют высокие шансы на …»
+      добавлено: «Сравнить пороги с соседними странами поможет материал о том, сколько вложить в недвижимость ради ВНЖ в странах Залива.»
+  • абзац: «Страна предлагает иностранцам 4 основных и востребованных типа резидентства на длительный …»
+      «Страна предлагает иностранцам» → «Иностранцам доступны»
+  • пункт списка: «Временное резидентство (SP2): выдается на 1 год с возможностью продления или изменения на …»
+      «резидентство (SP2):» → «резидентство:»
+  • пункт списка: «Постоянное резидентство (SP1): это бессрочное разрешение на проживание. Изначально оно …»
+      «резидентство (SP1):» → «резидентство:»
+      «Изначально оно выдается на 10 лет и может продлеваться по истечении этого срока.» → «Взнос за него платят один раз, ежегодно продлевать статус не нужно.»
+  • пункт списка: «Премиальное резидентство при сумме инвестиций от 1,1 млн $.»
+      «сумме инвестиций» → «покупке жилья стоимостью»
+      «1,1» → «4»
+      «$.» → «SAR (около 1,07 млн $).»
+  • абзац: «ВНЖ в Саудовской Аравии через инвестиции по программе SP2 предусматривает вложения на …»
+      «SP2» → «временного премиального резидентства»
+  • пункт списка: «Получить письмо от спонсора по установленному образцу, а также заверить его в …»
+      «ТТП.» → «ТПП.»
+  • абзац: «Постоянный вид на жительство в Саудовской Аравии можно получить при единоразовом и …»
+      «выдается на 10 лет и в дальнейшем может пролонгироваться.» → «бессрочное, ежегодно его подтверждать не нужно.»
+  • абзац: «Приобретение жилья стоимостью не менее 4 млн SAR (около 1,1 млн $) позволяет оформить …»
+      «1,1» → «1,07»
+      «Пожизненный вид» → «Вид» [без выделения]
+      добавлено: «Госпошлина — 4000 SAR (около 1070 $), её платят после одобрения заявки, плюс 170 $ за рассмотрение.»
+  • абзац: «Основные расходы связаны с оформлением разрешения на проживание. Так, стоимость рабочей …»
+      добавлено: «Сверху он платит ежемесячный сбор за каждого иностранного сотрудника — 800 SAR (около 213 $). Сбор за членов семьи — 400 SAR (около 107 $) в месяц за человека — обычно …»
+  • абзац: «Инвестиционный ВНЖ может обойтись в 27 000 $ ежегодно или в 213 000 $ однократным …»
+      «1,1» → «1,07»
+      добавлено: «При покупке начисляется налог на сделки с недвижимостью — 5% цены: для объекта за 4 млн SAR это 200 000 SAR (около 53 300 $). По закону его платит продавец, но в …»
+  • абзац: «Государство является одним из крупнейших на Аравийском полуострове и обладает развитой …»
+      добавлено: «Как устроен быт и во что обходится переезд в Саудовскую Аравию , рассказано в отдельном материале.»
+  • абзац: «Банковская система страны входит в «зеленый» список мировых финансовых учреждений, что …»
+      «Банковская система страны» → «Саудовская Аравия — полноправный член FATF с 2019 года и не»
+      ««зеленый» список мировых финансовых учреждений,» → «её «серый» список,»
+  • абзац: «После выбора категории необходимо собрать и предоставить все требуемые документы. …»
+      добавлено: «Заявки на премиальный ВНЖ принимает центр Премиального резидентства на портале pr.gov.sa.»
+  • пункт списка: «Действующий заграничный паспорт государства базового гражданства.»
+      добавлено: «Для премиального ВНЖ он должен быть действителен не меньше 6 месяцев.»
+  • ответ FAQ: «Да, но для этого необходимо прожить в стране свыше 10 лет, знать арабский язык, иметь …»
+      «отсутствие возможности владеть» → «особые правила владения»
+      «городах Мекка» → «Мекке»
+      «Медина,» → «Медине, где покупать жильё могут в основном мусульмане, запрет»
+      «выборах,» → «выборах и»
+  • ответ FAQ: «Оформление разрешения за инвестиции включает выбор недвижимости через лицензированного …»
+      «налогов» → «налога на сделку (5%)»
+      добавлено: «После этого подают заявку в центр Премиального резидентства.»
+ДОБАВЛЕНО:
+  + абзац: С 2024 года к ним добавились ещё пять категорий премиального резидентства — для специалистов, талантов, инвесторов и предпринимателей. Они разобраны ниже.
+  + абзац: Икама (Iqama) — это вид на жительство иностранного работника в Саудовской Аравии: удостоверение с личным номером, без которого не открыть банковский счёт, не оформить …
+  + абзац: С марта 2021 года зависимость от работодателя стала меньше. Работник сам оформляет выездную визу через Absher, а после окончания контракта может перейти к другому …
+  + абзац: «Свободы у работника стало больше, но расходы на семью по-прежнему на нём. Сбор за иждивенцев многие замечают только при первом продлении икамы, поэтому его стоит …
+  + абзац: С 22 января 2026 года действует закон о владении недвижимостью иностранцами: покупать можно в зонах, которые утверждает правительство, первыми названы Эр-Рияд и Джидда.
+  + абзац: «Порог в 4 млн риялов считают по оценке аккредитованного оценщика, а не по цене в договоре. Если оценка окажется ниже, объект для ВНЖ не подойдёт, поэтому её заказывают …
+  + заголовок H2: Пять новых категорий премиального резидентства
+  + абзац: В январе 2024 года программу расширили. Новые категории не требуют взноса в 100 000 или 800 000 SAR: госпошлина во всех случаях 4000 SAR плюс 170 $ за рассмотрение.
+  + новая таблица (18 ячеек): Категория | Основное условие | Срок | Владелец недвижимости | Жильё от 4 млн SAR без ипотеки, оценка аккредитованного оценщика | Пока объект в собственности | Инвестор | Вложения в бизнес от 7 млн SAR и не меньше 10 …
+  + абзац: Сколько семья работника платит за иждивенцев:
+  + новая таблица (12 ячеек): Кто переезжает с работником | Сбор в месяц | Сбор в год | Супруга | 400 SAR (около 107 $) | 4800 SAR (около 1280 $) | Супруга и ребёнок | 800 SAR (около 213 $) | 9600 SAR (около 2560 $) | Супруга и двое детей | 1200 SAR …
+  + пункт списка: Держатели премиального ВНЖ и их семьи не платят ежемесячные сборы за иностранцев и иждивенцев.
+  + заголовок H2: Кому этот путь не подойдёт
+  + абзац: Перед подачей заявки полезно сверить свою ситуацию с этой таблицей.
+  + новая таблица (12 ячеек): Ситуация | В чём сложность | Нужен ВНЖ за покупку небольшой квартиры | Порог — 4 млн SAR (около 1,07 млн $), ипотека не допускается | Хотите купить жильё в Мекке или Медине | Владение там в основном ограничено …
+  + пункт списка: Медицинская страховка на заявителя и членов семьи — для премиального ВНЖ её поддерживают весь срок действия статуса.
+  + заголовок H2: Правила 2024–2026 годов: что поменялось
+  + абзац: Сведения актуальны на 9 ноября 2026 года.
+  + новая таблица (8 ячеек): Когда | Что изменилось | Январь 2024 | В программе премиального резидентства появились пять новых категорий, в том числе для владельцев недвижимости от 4 млн SAR | Июль 2025 | Принят закон о владении недвижимостью …
+  + абзац: Взносы за временный и бессрочный премиальный ВНЖ не изменились: 100 000 SAR в год и 800 000 SAR один раз.
+
+====================================================================================================
+05 EN - How to move to Bahrain in 2026   (изменено блоков: 27, добавлено: 41, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «The kingdom also issues golden visas for 10 years when purchasing property worth BHD …»
+      «200,000 ($530,500),» → «130,000 ($345,800),»
+      «20» → «25»
+      «(5» → «(15 years for applicants of Arab origin, 5»
+  • пункт списка: «High standard of living and favorable tax system. The kingdom offers comfortable living …»
+      «The kingdom offers comfortable living conditions,» → «Living conditions here are comfortable,»
+  • пункт списка: «Favorable business climate. The state consistently ranks among the top in terms of ease …»
+      добавлено: «Buying a home is also allowed, but only in designated zones; the rules for each country are set out in a guide on whether a foreigner can buy property in the Gulf .»
+  • пункт списка: «Cosmopolitanism and safety. One of the primary advantages of relocating to Bahrain is its …»
+      «The» → «Numbeo's Safety Index (Mid-Year 2026 edition) gives the»
+      «ranks» → «77.7 points and 11th place»
+      «top 20 of the Numbeo Safety Index in 2025.» → «world.»
+      добавлено: «The grounds for legal residence and the paperwork are explained in a separate piece on a Bahrain residence permit .»
+  • пункт списка: «owners of one or more properties in Bahrain , with a total value of BHD 200,000 …»
+      «200,000 ($530,500)» → «130,000 ($345,800)»
+      «purchase;» → «purchase (the threshold was lowered from BHD 200,000 in November 2025);»
+  • абзац: «If the application is approved, the employer gets an identification number and pays …»
+      «Individuals whose income exceeds» → «An employee earning at least»
+      «1,000 ($2,652) per» → «400 (about $1,060) a»
+      «themselves» → «a spouse»
+      «their family members.» → «children under 24, and with an income of BHD 1,000 ($2,652) or more, also for parents and children over 24.»
+  • абзац: «There is no permanent residence permit in the state. Foreigners can extend their …»
+      «20 years.» → «25 years, or 15 years for applicants of Arab origin.»
+  • абзац: «As of March 2025, the average monthly Bahrain cost of living (excluding rent) for one …»
+      «As» → «According to Numbeo, as»
+      «March 2025,» → «November 2026,»
+      «328.3 ($870)» → «306.2 ($809)»
+      «1,163.4 ($3,084)» → «1,092.7 ($2,888)»
+      «322.5 ($855)» → «383.8 ($1,021)»
+      «225.5 ($598)» → «245.5 ($653)»
+      «958.3 ($2,542)» → «983.7 ($2,616)»
+      «675.1 ($1,791)» → «735.6 ($1,956)»
+      добавлено: «The average net salary is BHD 878.9 ($2,337). To compare the standard of living in Bahrain with its neighbours, GDP per capita adjusted for prices is often used: the IMF …»
+  • ячейка таблицы: «BHD 20 ($53)»
+      «20» → «19.9»
+  • ячейка таблицы: «BHD 0.64 ($1,7)»
+      «0.64 ($1,7)» → «0.53 ($1.41)»
+  • ячейка таблицы: «BHD 0.57 ($1,51)»
+      «0.57 ($1,51)» → «0.41 ($1.08)»
+  • ячейка таблицы: «BHD 2.75 ($7,29)»
+      «2.75 ($7,29)» → «2.43 ($6.47)»
+  • ячейка таблицы: «BHD 0.94 ($2,49)»
+      «0.94 ($2,49)» → «0.88 ($2.33)»
+  • ячейка таблицы: «BHD 0.18 ($0,48)»
+      «0.18 ($0,48)» → «0.25 ($0.66)»
+  • ячейка таблицы: «BHD 30.29 ($80,35)»
+      «30.29 ($80,35)» → «36.6 ($97.46)»
+  • ячейка таблицы: «BHD 4 ($10,61)»
+      «4 ($10,61)» → «3.97 ($10.57)»
+  • ячейка таблицы: «BHD 3,166.15 ($8,399)»
+      «3,166.15 ($8,399)» → «4,326 ($11,505)»
+  • ячейка таблицы: «BHD 48.67 ($129,1)»
+      «48.67 ($129,1)» → «57.4 ($152.6)»
+  • ячейка таблицы: «BHD 16.42 ($43,56)»
+      «16.42 ($43,56)» → «13.2 ($35.02)»
+  • пункт списка: «Riffa is a prestigious city divided into two parts: western and eastern. West Riffa is …»
+      «offers» → «has»
+  • пункт списка: «Jidhafs is a rapidly developing city located near Manama. Affordable residential …»
+      «Mall, offering a» → «Mall with its»
+      «provides» → «has»
+  • пункт списка: «Hamad is a quiet city 20 km from the capital, known for its spacious villas and family …»
+      «It offers less dense traffic» → «Traffic here is lighter,»
+      удалено: «a more affordable cost of» [без выделения]
+      добавлено: «costs are lower»
+      добавлено: «in» [без выделения]
+  • пункт списка: «A golden visa is issued for 10 years, requiring investments in real estate of BHD 200,000 …»
+      «200,000 ($530,500)» → «130,000 ($345,800)»
+  • пункт списка: «Foreigners can apply for citizenship through naturalisation after 20 years of continuous …»
+      «20» → «25»
+      добавлено: «(15 for applicants of Arab origin)»
+  • ответ FAQ: «The minimum investment threshold for obtaining a golden visa through property purchase is …»
+      «$530,500.» → «$345,800.»
+      «$13» → «$11»
+  • ответ FAQ: «One person needs an average of $870 per month for living in Bahrain, and a family of 4 …»
+      «$870» → «$809»
+      «$3,084.» → «$2,888, excluding rent.»
+  • ответ FAQ: «Foreigners can obtain a golden visa by purchasing property worth $530,500.»
+      «$530,500.» → «$345,800 (BHD 130,000) or more.»
+ДОБАВЛЕНО:
+  + абзац: Another drawback in 2026 has been instability in the Middle East: in spring and early summer, air travel was suspended for a time. Since September, Bahrain's airport has …
+  + абзац: The golden visa fee is BHD 300 (about $800) per person, plus BHD 4 (about $11) to submit the application.
+  + абзац: "For buyers of homes under BHD 130,000, self-sponsorship is still an option. The threshold is lower, but you have to prove an income of at least BHD 500 a month and …
+  + абзац: A monthly budget for a family of four might look like this:
+  + пункт списка: living costs excluding rent — BHD 1,092.7 ($2,888);
+  + пункт списка: a 3-bedroom apartment outside the centre — BHD 487.5 ($1,297), in the centre — BHD 809.4 ($2,153);
+  + пункт списка: total — about BHD 1,580 ($4,185) outside the centre or BHD 1,902 ($5,041) in the centre.
+  + абзац: An average salary covers roughly half of this, so one average income will not be enough for a family of four.
+  + заголовок H2: When another country may suit you better
+  + абзац: Below are the cases in which Bahrain is unlikely to be the right choice.
+  + новая таблица (10 ячеек): Your circumstances | The obstacle | You are counting on citizenship in the next few years | Naturalisation takes 25 years (15 for applicants of Arab origin), and dual citizenship is not allowed | You need residency for …
+  + заголовок H2: New thresholds and prices: the November 2026 update
+  + абзац: The figures were checked on 9 November 2026.
+  + новая таблица (18 ячеек): Indicator | March 2025 | November 2026 | Golden visa via property | from BHD 200,000 ($530,500) | from BHD 130,000 ($345,800), lowered in November 2025 | Monthly spending of a family of four, excluding housing | BHD …
+  + абзац: According to Numbeo, everyday costs even fell by 6%, while rent in the centre rose by almost 20%. The biggest change for investors is the 35% lower golden visa threshold.
+
+====================================================================================================
+06 RU - Как переехать в Бахрейн в 2026 году   (изменено блоков: 27, добавлено: 41, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Также королевство выдает золотые визы сроком на 10 лет при покупке недвижимости …»
+      «200» → «130»
+      «(530 500» → «(345 800»
+      «20» → «25»
+      «(5» → «(15 лет для выходцев из арабских стран, 5»
+  • пункт списка: «Высокий уровень жизни и выгодная налоговая система. Королевство предлагает комфортные …»
+      «Королевство предлагает комфортные условия» → «Условия»
+      добавлено: «здесь комфортные»
+  • пункт списка: «Благоприятный бизнес-климат. Государство занимает высокие позиции в рейтингах по легкости …»
+      добавлено: «Купить жильё иностранцам тоже разрешено, но в отдельных зонах. Ответ на вопрос, может ли иностранец купить недвижимость в странах Залива , разобран по каждой стране …»
+  • пункт списка: «Космополитичность и безопасность. Одним из главных плюсов переезда в Бахрейн является его …»
+      «Он предлагает безопасные условия для проживания» → «Жить здесь безопасно»
+      «Королевство входит в топ-20» → «В рейтинге»
+      добавлено: «(выпуск Mid-Year 2026) у королевства 77,7 балла и 11-я строчка»
+      «2025 году.» → «мире.»
+      добавлено: «Основания для легального проживания и документы разобраны в материале про ВНЖ в Бахрейне .»
+  • пункт списка: «владельцам одного или нескольких объектов недвижимости в Бахрейне , общая стоимость …»
+      добавлено: «130 000 BHD (345 800 $) или более (порог снижен с»
+      «(530 500 $) или более;» → «в ноябре 2025 года);»
+  • абзац: «Если заявление будет одобрено, работодателю предоставят идентификационный номер, после …»
+      «Лица, доход которых превышает» → «Сотрудник с зарплатой от 400 BHD (около 1060 $) в месяц может оформить резидентство супругу и детям до 24 лет, а при доходе от»
+      «в месяц, могут оформить резидентство вместе с членами своей семьи.» → «— также родителям и детям старше 24 лет.»
+  • абзац: «В государстве нет постоянного вида на жительство. Иностранцы могут продлевать временный …»
+      «20» → «25 лет, для выходцев из арабских стран — 15»
+  • абзац: «По данным на март 2025 года, средние ежемесячные расходы на проживание в королевстве (без …»
+      добавлено: «Numbeo»
+      «март 2025» → «ноябрь 2026»
+      «328,3» → «306,2»
+      «(870» → «(809»
+      «1163,4 (3084» → «1092,7 BHD (2888»
+      «322,5» → «383,8»
+      «(855» → «(1021»
+      «225,5» → «245,5»
+      «(598» → «(653»
+      «958,3» → «983,7»
+      «(2542» → «(2616»
+      «675,1» → «735,6»
+      «(1791» → «(1956»
+      добавлено: «Средняя зарплата после налогов — 878,9 BHD (2337 $). Для сравнения уровня жизни в Бахрейне с соседями часто берут ВВП на душу населения с поправкой на цены: МВФ …»
+  • ячейка таблицы: «20 BHD (53 $)»
+      «20» → «19,9»
+  • ячейка таблицы: «0,64 BHD (1,7 $)»
+      «0,64» → «0,53»
+      «(1,7» → «(1,41»
+  • ячейка таблицы: «0,57 BHD (1,51 $)»
+      «0,57» → «0,41»
+      «(1,51» → «(1,08»
+  • ячейка таблицы: «2,75 BHD (7,29 $)»
+      «2,75» → «2,43»
+      «(7,29» → «(6,47»
+  • ячейка таблицы: «0,94 BHD (2,49 $)»
+      «0,94» → «0,88»
+      «(2,49» → «(2,33»
+  • ячейка таблицы: «0,18 BHD (0,48 $)»
+      «0,18» → «0,25»
+      «(0,48» → «(0,66»
+  • ячейка таблицы: «30,29 BHD (80,35 $)»
+      «30,29» → «36,6»
+      «(80,35» → «(97,46»
+  • ячейка таблицы: «4 BHD (10,61 $)»
+      «4» → «3,97»
+      «(10,61» → «(10,57»
+  • ячейка таблицы: «3166,15 BHD (8399 $)»
+      «3166,15» → «4326»
+      «(8399» → «(11 505»
+  • ячейка таблицы: «48,67 BHD (129,1 $)»
+      «48,67» → «57,4»
+      «(129,1» → «(152,6»
+  • ячейка таблицы: «16,42 BHD (43,56 $)»
+      «16,42» → «13,2»
+      «(43,56» → «(35,02»
+  • пункт списка: «Риффа – один из самых престижных городов, который делится на западную и восточную части. …»
+      «Восточная Риффа предлагает» → «В Восточной Риффе»
+  • пункт списка: «Джидхафс – быстроразвивающийся город, расположенный недалеко от Манамы. Здесь можно найти …»
+      «Mall, предлагающий сочетание международных» → «Mall с международными»
+      «местных брендов. Город предлагает налаженную транспортную систему» → «местными брендами. В городе налаженная транспортная система»
+      «выгодную» → «выгодная»
+  • пункт списка: «Хамад – спокойный город в 20 км от столицы, известный своими просторными виллами и …»
+      «Он предлагает» → «Дорожное движение здесь»
+      «плотное дорожное движение и более доступную стоимость жизни,» → «плотное, а жизнь доступнее,»
+  • пункт списка: «Золотая виза выдается на 10 лет при инвестициях в недвижимость от 200 000 BHD (530 500 …»
+      «200» → «130»
+      «(530 500» → «(345 800»
+  • пункт списка: «Иностранцы имеют право оформить гражданство по натурализации после 20 лет постоянного …»
+      «20» → «25»
+      добавлено: «(для выходцев из арабских стран — 15 лет)»
+  • ответ FAQ: «При оформлении золотой визы через покупку недвижимости минимальный порог инвестиций …»
+      «530 500» → «345 800»
+      «13» → «11»
+  • ответ FAQ: «Одному человеку на проживание в стране требуется в среднем 870 $ в месяц, а семье из 4 …»
+      «870» → «809»
+      «–3084 $.» → «– 2888 $ без учёта аренды.»
+  • ответ FAQ: «Да, иностранцы могут получить золотую визу через покупку недвижимости стоимостью от 530 …»
+      «530 500 $.» → «345 800 $ (130 000 BHD).»
+ДОБАВЛЕНО:
+  + абзац: Ещё один минус 2026 года — нестабильная обстановка на Ближнем Востоке: весной и в начале лета авиасообщение временно приостанавливали. С сентября аэропорт Бахрейна снова …
+  + абзац: Госпошлина за золотую визу — 300 BHD (около 800 $) на человека, ещё 4 BHD (около 11 $) стоит подача заявления.
+  + абзац: «Для покупателей жилья дешевле 130 000 динаров остаётся самоспонсорство. Порог там ниже, но нужно подтверждать доход от 500 динаров в месяц и продлевать статус каждые 2, …
+  + абзац: Пример бюджета семьи из четырёх человек на месяц:
+  + пункт списка: жизнь без аренды — 1092,7 BHD (2888 $);
+  + пункт списка: квартира с 3 спальнями за пределами центра — 487,5 BHD (1297 $), в центре — 809,4 BHD (2153 $);
+  + пункт списка: итого — около 1580 BHD (4185 $) за пределами центра или 1902 BHD (5041 $) в центре.
+  + абзац: Средней зарплаты хватает примерно на половину этой суммы, так что семье из четырёх человек одного среднего дохода не хватит.
+  + заголовок H2: Когда стоит выбрать другую страну
+  + абзац: Ниже — ситуации, в которых Бахрейн вряд ли станет удачным выбором.
+  + новая таблица (10 ячеек): Ситуация | Что мешает | Рассчитываете на гражданство в ближайшие годы | Натурализация занимает 25 лет (15 для выходцев из арабских стран), двойное гражданство не допускается | Нужен ВНЖ за небольшую квартиру без …
+  + заголовок H2: Новые пороги и цены: обновление на ноябрь 2026 года
+  + абзац: Цифры сверены 9 ноября 2026 года.
+  + новая таблица (18 ячеек): Показатель | Март 2025 | Ноябрь 2026 | Золотая виза за недвижимость | от 200 000 BHD (530 500 $) | от 130 000 BHD (345 800 $), порог снижен в ноябре 2025 года | Ежемесячные траты семьи из четырёх человек, кроме жилья | …
+  + абзац: Бытовые расходы по Numbeo даже снизились на 6%, а аренда в центре выросла почти на 20%. Главное изменение для инвесторов — порог золотой визы стал ниже на 35%.
+
+====================================================================================================
+07 EN - Moving to Saudi Arabia in 2026   (изменено блоков: 26, добавлено: 25, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «Another way to move to the kingdom is to enroll in local universities. International …»
+      «a significant number of» → «many»
+      «remain closed to girls.» → «teach men and women separately, with dedicated campuses and faculties for women.»
+  • пункт списка: «Family reunification is suitable for children of citizens of the state and women whose …»
+      добавлено: «conditions.»
+  • пункт списка: «Investors can obtain a temporary residence permit SP2 by investing 100,000 rials, which …»
+      «residence» → «Premium Residence»
+      удалено: «SP2» [без выделения]
+      удалено: «(SP2)» [без выделения]
+      «residence permit (SP1)» → «one» [без выделения]
+      добавлено: «Since January 2026, foreigners have also been able to buy homes in specially approved districts. The zones and the restrictions for buyers are listed in an overview that …»
+  • абзац: «First, you need to obtain a work visa, the main document for legal employment. This will …»
+      «Labor» → «Human Resources»
+  • абзац: «The primary costs are associated with obtaining a visa and residence permit. For example, …»
+      добавлено: «A separate monthly dependants levy of SAR 400 (about USD 107) per person is usually paid by the employee.»
+  • абзац: «Foreigners can apply for a temporary or permanent residence permit depending on the …»
+      «investment residence» → «Premium Residence»
+      удалено: «(SP1)» [без выделения]
+  • пункт списка: «the ability to transport a spouse and children under 21 years of age;»
+      «transport» → «bring» [без выделения]
+      «spouse and» → «spouse,» [без выделения]
+      «21 years of age;» → «25 and parents;»
+  • абзац: «A language proficiency test is required to obtain permanent residency. Its questions …»
+      «A» → «No»
+      «proficiency» → «skills are required for Premium Residency. The Arabic»
+      «required to obtain permanent residency.» → «taken for naturalisation.»
+  • абзац: «Riyadh attracts many foreigners due to its status as a modern metropolis and its …»
+      «boasts» → «has»
+      добавлено: «Since January 2025, all six lines of the city's metro have been running.»
+      «actively develops and offers» → «is growing fast, bringing»
+  • абзац: «Jeddah, while vying with the capital for the title of the business center, is a trendy …»
+      «provides a unique glimpse into» → «shows what»
+      «architecture.» → «architecture looked like.»
+      «offers» → «has»
+  • абзац: «Foreign citizens can also experience cultural diversity and unique Arab traditions. The …»
+      «offers» → «has»
+  • абзац: «The state is renowned for its high living standards and excellent healthcare. …»
+      добавлено: «In mid-2026, Numbeo placed the kingdom 14th in its global safety ranking (76.8 points).»
+  • абзац: «The locals are known for their hospitality, which makes adaptation easier for newcomers. …»
+      «police.» → «police, although it lost the power to detain people in 2016.»
+  • абзац: «The peculiarities of life in Saudi Arabia also include the segregation of the social …»
+      добавлено: «Since December 2019, restaurants no longer have to provide separate entrances for men and families.»
+  • абзац: «If you ask, can you work in Saudi Arabia as a woman, the answer is yes. However, it is …»
+      «Employment requires the» → «Since 2019, women have not needed a husband's or guardian's»
+      добавлено: «to work. The labour force participation rate»
+      «a husband or guardian.» → «Saudi women is 33.9% (Q1 2026).»
+  • абзац: «According to the Numbeo index, the prices in the country in 2025 for several essential …»
+      «in 2025» → «as of November 2026»
+  • пункт списка: «A family of 4 needs about USD 2,900 to meet household needs;»
+      «2,900» → «2,850»
+      «needs;» → «needs (the average take-home pay is about USD 1,750);»
+  • пункт списка: «The rent for a 1-bedroom apartment is about USD 500;»
+      «500;» → «630 in the city centre and USD 465 outside it;»
+  • пункт списка: «Utilities for an apartment of more than 85 m² cost USD 111, excluding cell phone and …»
+      удалено: «apartment of more than» [без выделения]
+      добавлено: «apartment» [без выделения]
+      «111,» → «98,»
+  • пункт списка: «The cost of a monthly pass for public transportation is USD 35;»
+      «35;» → «37;»
+  • пункт списка: «The price of a liter of gasoline is USD 62;»
+      «62;» → «0.62;»
+  • пункт списка: «The fee for a month of education for a child in school or kindergarten is about USD 1,290;»
+      «The fee for» → «A month at»
+      «month of education for a child in school or» → «private»
+      «is» → «costs»
+      «1,290;» → «450, and a year at an international primary school about USD 14,300;»
+  • пункт списка: «A food basket, including bread and milk, costs about USD 8.»
+      «8.» → «2.80.»
+  • абзац: «The kingdom offers a diverse range of real estate options that appeal to both locals and …»
+      «The kingdom offers» → «There is»
+      добавлено: «in the kingdom»
+  • абзац: «Apartments in Saudi Arabia are also in demand, especially in central city areas with …»
+      «offer» → «come with»
+  • ответ FAQ: «You can get a resident visa in the state when you purchase a home worth SAR 4 million …»
+      «1.1» → «1.07»
+ДОБАВЛЕНО:
+  + абзац: "Owning property does not by itself give you the right to live in the country. A residence permit requires either a property worth SAR 4 million or more, or a job, …
+  + абзац: "Salary is not the only thing negotiated with a Saudi employer. Housing, schooling for children and tickets home are often separate lines in the contract, and they …
+  + абзац: Whichever city you choose, you can only live there with resident status: the grounds and thresholds are listed in a breakdown of a Saudi residence permit .
+  + абзац: In autumn 2026, air travel disruptions joined the list of drawbacks: as tension in the region escalated, Riyadh airport did not handle flights for about two weeks in …
+  + абзац: If a family of four rents a three-bedroom apartment, living costs and housing come to about USD 3,850 a month in the centre (USD 2,850 + USD 1,005) and about USD 3,550 …
+  + заголовок H2: When moving to Saudi Arabia may not be the right fit
+  + абзац: A few situations in which relocating to Saudi Arabia is worth weighing against other countries in the region.
+  + новая таблица (12 ячеек): If what matters to you is | Keep in mind | Changing jobs and professions on your own | A work Iqama is issued through a sponsor, and some professions are reserved for citizens | Living in Mecca | The city is open only …
+  + заголовок H2: How the rules and prices changed by the end of 2026
+  + абзац: Facts last checked: 9 November 2026.
+  + пункт списка: January 2025 — all six Riyadh metro lines opened.
+  + пункт списка: 22 January 2026 — a law allowing foreigners to own property took effect; the first districts open to buyers are in Riyadh and Jeddah.
+  + пункт списка: October 2026 — Riyadh airport was closed for about two weeks and has been partly open since 25 October.
+  + пункт списка: November 2026 — according to Numbeo, a family of four's costs excluding rent fell from USD 2,900 to USD 2,850, while rent for a one-bedroom apartment in the centre rose …
+
+====================================================================================================
+08 RU - Переезд в Саудовскую Аравию   (изменено блоков: 23, добавлено: 25, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «Еще один способ переехать в королевство — поступить в местные университеты. Обучение для …»
+      «значительная часть вузов остается закрытой» → «во многих вузах обучение раздельное:»
+      «девушек.» → «девушек работают отдельные кампусы и факультеты.»
+  • пункт списка: «Для инвесторов предоставлена возможность получения временного вида на жительство SP2 при …»
+      добавлено: «премиального»
+      удалено: «SP2» [без выделения]
+      удалено: «(SP2)» [без выделения]
+      «бессрочный (SP1),» → «бессрочный,» [без выделения]
+      добавлено: «С января 2026 года иностранцы могут и покупать жильё в специально утверждённых районах. Зоны и ограничения для покупателей перечислены в обзоре, где разобрано, может ли …»
+  • абзац: «В первую очередь необходимо получить рабочую визу, которая является основным документом …»
+      «труда» → «людских ресурсов»
+  • абзац: «Основные затраты связаны с получением визы и разрешения на проживание. Например, …»
+      добавлено: «Отдельно идёт ежемесячный сбор за иждивенцев — 400 риялов (около 107 $) с человека, его обычно вносит сам сотрудник.»
+  • абзац: «Иностранцы, планирующие переезд в королевство, могут оформить временный или постоянный …»
+      «инвестиционного» → «премиального»
+      удалено: «(называемого SP1)» [без выделения]
+  • абзац: «Этот вид на жительство предоставляет иммигрантам множество преимуществ. Среди них статус …»
+      «супругу и» → «супругу,» [без выделения]
+      «21 года,» → «25 лет и родителей,»
+  • абзац: «Для получения постоянного места жительства необходимо сдать тест на знание языка. Вопросы …»
+      «получения постоянного места жительства необходимо сдать тест» → «премиального ВНЖ знание языка не требуется. Тест»
+      «знание языка.» → «арабский язык сдают при натурализации.»
+  • абзац: «Выбор города для проживания – один из важнейших вопросов для релоканта. Эр-Рияд …»
+      «Город предлагает развитую инфраструктуру» → «В городе развитая инфраструктура»
+      добавлено: «С января 2025 года в столице работают все шесть линий метро.»
+  • абзац: «Джидда, соперничая со столицей за звание делового центра, является модным курортом с …»
+      «предлагает уникальный взгляд на традиционную архитектуру.» → «даёт представление о традиционной архитектуре.»
+      «предлагает развитую транспортную инфраструктуру,» → «располагает развитой транспортной инфраструктурой,»
+  • абзац: «Саудовская Аравия известна высоким уровнем жизни и качественным медицинским …»
+      добавлено: «Numbeo в середине 2026 года поставил королевство на 14-е место в мировом рейтинге безопасности (76,8 балла).»
+  • абзац: «Местные жители известны своим гостеприимством, что облегчает адаптацию для приезжих. …»
+      «полиция.» → «полиция, хотя с 2016 года она лишена права задерживать людей.»
+  • абзац: «Особенности жизни в Саудовской Аравии также включают разделение социальной сферы по …»
+      добавлено: «С декабря 2019 года ресторанам не обязательно делать отдельные входы для мужчин и семей.»
+  • абзац: «Часто возникает вопрос: можно ли работать в Саудовской Аравии женщинам? Им труднее найти …»
+      «Для трудоустройства требуется» → «С 2019 года»
+      «опекуна.» → «опекуна для работы не требуется. Уровень участия саудовских женщин в рабочей силе — 33,9% (I квартал 2026 года).»
+  • абзац: «По данным индекса Numbeo, в 2025 году в стране можно встретить следующие цены по ряду …»
+      «Numbeo, в 2025 году» → «Numbeo на ноябрь 2026 года,»
+  • пункт списка: «Семье из 4 человек для удовлетворения бытовых потребностей необходимо около 2900 $.»
+      «2900 $.» → «2850 $ (средний доход на руки — около 1750 $).»
+  • пункт списка: «Арендная плата за апартаменты с 1 спальней – около 500 $.»
+      «500 $.» → «630 $ в центре и 465 $ за его пределами.»
+  • пункт списка: «Коммунальные услуги за квартиру площадью более 85 м² обходятся в 111 $ без учета оплаты …»
+      удалено: «более» [без выделения]
+      «111» → «98»
+  • пункт списка: «Стоимость месячного абонемента на проезд в общественном транспорте равна 35 $.»
+      «35» → «37»
+  • пункт списка: «Плата за месяц обучения ребенка в школе или посещения детского сада составляет около 1290 …»
+      «Плата за месяц обучения ребенка» → «Месяц»
+      добавлено: «частном детском саду стоит около 450 $, год в международной начальной»
+      «или посещения детского сада составляет» → «—»
+      «1290» → «14 300»
+  • абзац: «Королевство предлагает разнообразные виды недвижимости, которые привлекают как местных …»
+      «Королевство предлагает разнообразные» → «В королевстве есть разные»
+  • абзац: «Апартаменты в Саудовской Аравии также востребованы, особенно в центральных районах …»
+      «Современные жилые комплексы предлагают» → «В современных жилых комплексах есть»
+  • ответ FAQ: «Задумывающимся о том, как остаться жить в Саудовской Аравии, необходимо подобрать …»
+      «учеты,» → «учебы,»
+  • ответ FAQ: «В государстве можно получить визу резидента при приобретении жилья стоимостью от 4 млн …»
+      «(1,1» → «(1,07»
+ДОБАВЛЕНО:
+  + абзац: «Собственность сама по себе права жить в стране не даёт. Для вида на жительство нужен либо объект от 4 млн риялов, либо работа, учёба или семья. Покупателей, которые …
+  + абзац: «На переговорах с саудовским работодателем обсуждают не только оклад. Жильё, школа для детей и билеты домой часто идут отдельными строками контракта, и их стоит …
+  + абзац: Какой бы город вы ни выбрали, жить в нём можно только со статусом резидента: основания и пороги перечислены в разборе про ВНЖ в Саудовской Аравии .
+  + абзац: Осенью 2026 года к минусам добавились перебои с авиасообщением: из-за обострения обстановки в регионе аэропорт Эр-Рияда в октябре около двух недель не принимал рейсы. С …
+  + абзац: Если семья из четырёх человек арендует трёхкомнатную квартиру, на жизнь и жильё в центре уйдёт около 3850 $ в месяц (2850 $ + 1005 $), на окраине — около 3550 $. Такой …
+  + заголовок H2: Если переезд в Саудовскую Аравию может не подойти
+  + абзац: Несколько ситуаций, в которых стоит взвесить другие страны региона.
+  + новая таблица (12 ячеек): Если для вас важно | Что учесть | Самостоятельно менять работу и профессию | Рабочая икама оформляется через спонсора, а часть профессий закреплена за гражданами | Жить в Мекке | Город открыт только для мусульман | …
+  + заголовок H2: Как изменились правила и цены к концу 2026 года
+  + абзац: Последняя сверка фактов — 9 ноября 2026 года.
+  + пункт списка: Январь 2025 — в Эр-Рияде открылись все шесть линий метро.
+  + пункт списка: 22 января 2026 — заработал закон, разрешивший иностранцам владеть недвижимостью; первые районы для покупки — в Эр-Рияде и Джидде.
+  + пункт списка: Октябрь 2026 — аэропорт Эр-Рияда около двух недель не работал, с 25 октября открыт частично.
+  + пункт списка: Ноябрь 2026 — по Numbeo, расходы семьи из четырёх человек без аренды снизились с 2900 до 2850 $, а аренда однокомнатной квартиры в центре выросла с 500 до 630 $.
+
+====================================================================================================
+09 EN - How to get a residence permit in Bahrain - 2026   (изменено блоков: 17, добавлено: 18, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «buyers of real estate worth BHD 200,000 (USD 530,500) or more;»
+      «200,000» → «130,000»
+      «530,500)» → «345,800)»
+  • абзац: «After 20 years of legal permanent residence in the Kingdom, residents can apply for …»
+      «20» → «25»
+      «Kingdom,» → «Kingdom (15 years for those of Arab descent),»
+  • пункт списка: «Tax benefits. The Kingdom does not tax personal income, capital gains, property, …»
+      удалено: «property,» [без выделения]
+      добавлено: «There is no separate property tax, but foreign homeowners pay an annual municipal levy of 10% of the rental value assessed by the municipality.»
+  • пункт списка: «Owners of houses and apartments in Bahrain with a total value of at least BHD 200,000 …»
+      «200,000» → «130,000»
+      «530,500)» → «345,800)»
+      «purchase;» → «purchase (until November 2025, BHD 200,000 was required);»
+  • абзац: «A self-sponsorship programme is available to foreign nationals, enabling them to legalise …»
+      добавлено: «Thresholds in neighbouring countries differ many times over; see more on how much to invest in property for residency in each of them.»
+  • пункт списка: «A letter or certificate of non-objection issued by the relevant authority for specialised»
+      добавлено: «professions.»
+  • абзац: «If the application is approved, the employer will receive an identification number and …»
+      «If the employee's» → «An employee can sponsor a spouse and children under 24 with a»
+      «exceeds» → «of BHD 400 (about USD 1,060) or more. The»
+      «2,652), they may apply for a residence permit for their family members.» → «2,652) threshold applies only to bringing parents or children over 24.»
+  • абзац: «Holders of this category of permit are not permitted to work in the state. It can be …»
+      «kingdoms.» → «Kingdom.»
+  • пункт списка: «purchase of real estate worth BHD 200,000 (USD 530,500) or more;»
+      «200,000» → «130,000»
+      «530,500)» → «345,800)»
+  • ячейка таблицы: «To obtain a residence permit based on purchasing property in Bahrain , you must choose a …»
+  • пункт списка: «Problems with documentation. Errors in the application, submitting an incomplete set of …»
+      добавлено: «rejection.»
+  • пункт списка: «Lack of financial stability. When applying for a residence permit, it is necessary to …»
+      добавлено: «a refusal.»
+  • абзац: «To extend a residence permit, a foreign national must apply to the Immigration Department …»
+      добавлено: «(NPRA)»
+  • пункт списка: «A foreign national can obtain a 10-year residence permit in Bahrain by investing in real …»
+      «200,000» → «130,000»
+      «530,500)» → «345,800)»
+  • пункт списка: «Family members of a foreigner can be legalised if their income is from BHD 1,000 (USD …»
+      добавлено: «400 (about USD 1,060) for a spouse and children under 24; parents require BHD»
+  • ответ FAQ: «After 20 years of permanent residency in Bahrain, residents can apply for citizenship by …»
+      «20» → «25»
+      «Bahrain,» → «Bahrain (15 years for those of Arab descent),»
+  • ответ FAQ: «Getting Bahrain residency does not grant visa-free entry to other countries. However, …»
+      «more than 85 countries,» → «87 countries (Henley Passport Index, 2026),»
+ДОБАВЛЕНО:
+  + абзац: The golden visa costs BHD 300 (about USD 800) for each applicant, family members included, and the application review costs BHD 4 (about USD 11). Living costs, cities …
+  + абзац: "Registering a company in Bahrain is not enough on its own to get a residence permit. It is granted to the owner or partner once the company is registered and licensed …
+  + абзац: "Renewals are most often held up by small things: an expired insurance policy or a bank statement older than six months. It is easier to gather the documents 1.5–2 …
+  + заголовок H2: Example: what the golden visa costs a family of three
+  + абзац: The calculation is for a buyer of an apartment at the minimum threshold who applies for Bahrain residency together with a spouse and a child.
+  + новая таблица (10 ячеек): Item | Amount | Apartment in a permitted zone | BHD 130,000 (USD 345,800) | Registration of the deal, 2% of the price | BHD 2,600 (USD 6,916) | Golden visa for three: BHD 300 + BHD 4 per person | BHD 912 (USD 2,426) | …
+  + абзац: After that, the owner's municipal levy and health insurance for every family member are added each year.
+  + заголовок H2: Changes over the past year
+  + абзац: Last verified on 9 November 2026. For home buyers, entry into the programme has become a third cheaper: since November 2025, a property worth BHD 130,000 instead of BHD …
+
+====================================================================================================
+10 RU - Как получить ВНЖ в Бахрейне в 2026 году   (изменено блоков: 13, добавлено: 18, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «покупателям недвижимости стоимостью от 200 000 BHD (530 500 $);»
+      «200» → «130»
+      «(530 500» → «(345 800»
+  • абзац: «После 20 лет постоянного проживания в королевстве на легальном основании резиденты могут …»
+      «20» → «25»
+      добавлено: «(выходцам из арабских стран — после 15)»
+  • пункт списка: «Налоговые льготы. В королевстве отсутствуют налоги на доход физических лиц, прирост …»
+      удалено: «имущество,» [без выделения]
+      добавлено: «Отдельного налога на имущество нет, но иностранцы — владельцы жилья ежегодно платят муниципальный сбор: 10% от арендной стоимости, которую оценивает муниципалитет.»
+  • пункт списка: «владельцы домов и квартир в Бахрейне , общая стоимость которых составляла не менее 200 …»
+      «200» → «130»
+      «(530 500» → «(345 800»
+      «покупки;» → «покупки (до ноября 2025 года требовалось 200 000 BHD);»
+  • абзац: «Иностранцам доступна программа самоспонсорства, позволяющая легализовать пребывание в …»
+      добавлено: «Пороги в соседних странах отличаются в разы — подробнее о том, сколько вложить в недвижимость ради ВНЖ , в каждой из них.»
+  • абзац: «В случае одобрения заявления работодатель получает идентификационный номер и уплачивает …»
+      «Если чистый ежемесячный доход сотрудника превышает» → «Супруга и детей младше 24 лет работник может оформить при чистом доходе от 400 BHD (около 1060 $) в месяц. Порог в»
+      «$),» → «$) действует, только если»
+      «может оформить вид на жительство на членов своей семьи.» → «хочет перевезти родителей или детей старше 24 лет.»
+  • пункт списка: «покупка недвижимости стоимостью от 200 000 BHD (530 500 $);»
+      «200» → «130»
+      «(530 500» → «(345 800»
+  • ячейка таблицы: «Для получения вида на жительство на основании покупки недвижимости в Бахрейне необходимо …»
+  • абзац: «Для продления вида на жительство необходимо подать соответствующее заявление в …»
+      добавлено: «(NPRA)»
+  • пункт списка: «10-летний ВНЖ Бахрейна за инвестиции можно получить через покупку недвижимости стоимостью …»
+      «200» → «130»
+      «(530 500» → «(345 800»
+  • пункт списка: «Члены семьи иностранца могут легализоваться, если его доход составляет от 1000 BHD (2652 …»
+      добавлено: «400 BHD (около 1060 $) — для супруга и детей до 24 лет; для родителей нужно от»
+  • ответ FAQ: «Резиденты могут претендовать на гражданство по натурализации после 20 лет постоянного …»
+      «20» → «25»
+      «королевстве.» → «королевстве (выходцы из арабских стран — после 15 лет).»
+  • ответ FAQ: «Владение видом на жительство в королевстве не предоставляет право на безвизовый въезд в …»
+      «более 85 государств,» → «87 государств (Henley Passport Index, 2026),»
+ДОБАВЛЕНО:
+  + абзац: За выдачу золотой визы платят 300 BHD (около 800 $) с каждого заявителя, включая членов семьи, а рассмотрение заявки стоит 4 BHD (около 11 $). Бытовые расходы, города и …
+  + абзац: «Регистрация предприятия в Бахрейне сама по себе вид на жительство не даёт. Его получает владелец или партнёр компании, когда она уже зарегистрирована и получила …
+  + абзац: «Продление чаще всего задерживают мелочи: страховка, срок которой истёк, или банковская выписка старше полугода. Документы удобнее собирать за 1,5–2 месяца до окончания …
+  + заголовок H2: Пример: сколько стоит золотая виза для семьи из трёх человек
+  + абзац: Расчёт для покупателя квартиры по минимальному порогу, который оформляет статус вместе с супругой и ребёнком.
+  + новая таблица (10 ячеек): Статья | Сумма | Квартира в разрешённой зоне | 130 000 BHD (345 800 $) | Регистрация сделки, 2% цены | 2600 BHD (6916 $) | Золотая виза на троих: 300 BHD + 4 BHD с человека | 912 BHD (2426 $) | Итого на старте | около …
+  + абзац: Дальше каждый год добавляется муниципальный сбор с владельца и расходы на медицинскую страховку для всех членов семьи.
+  + заголовок H2: Изменения последнего года
+  + абзац: Сведения в статье проверены 9 ноября 2026 года. Для покупателей жилья вход в программу подешевел на треть: с ноября 2025 года для золотой визы достаточно объекта за 130 …
+
+====================================================================================================
+11 EN - Obtaining a residence permit in Oman - 2026   (изменено блоков: 16, добавлено: 37, удалено: 3)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «an investment in real estate, business, or government bonds from OMR 250,000 (USD …»
+      «250,000 (USD 650,000).» → «200,000 (about USD 520,000).»
+  • абзац: «The final option allows foreigners to obtain a 5-year residency. However, it can be …»
+      «allows foreigners to obtain» → «has given a 10-year Golden Residency straight away since 1 September 2025; previously, OMR 250,000 brought»
+      «residency. However, it can be issued for 10 years if» → «status and»
+      «investment exceeds» → «10-year one required»
+      «500,000 (USD 1.3 million).» → «500,000.»
+      «20 years, but this can sometimes» → «15 years under the new citizenship law in force since February 2025 (it used to»
+      «reduced to 10 or 15.» → «20). Spouses of Omani citizens have shorter periods.»
+  • пункт списка: «Long-term residence. One of the main advantages of Oman residency is the possibility of …»
+      «visas» → «visas. Where to start and what life looks like once you have decided on moving to Oman permanently is covered in a separate article.»
+  • пункт списка: «Opportunity to open a bank account. An Oman resident can open accounts in local banks, …»
+      «state offers a stable» → «country's»
+      добавлено: «is stable,»
+  • пункт списка: «Tax benefits. The sultanate's tax system attracts residents and investors with its …»
+      «It offers zero» → «There is no»
+      «tax,» → «tax for now,»
+      добавлено: «From 1 January 2028, a 5% income tax will apply to individuals earning more than OMR 42,000 (about USD 109,000) a year, and rental income will be included.»
+  • абзац: «Foreigners interested in long-term residence in the sultanate can obtain a residence …»
+      добавлено: «(Golden Residency)»
+  • пункт списка: «purchase of government bonds.»
+      «bonds.» → «bonds;»
+  • абзац: «The minimum investment threshold for a 5-year residency is OMR 250,000 (approximately USD …»
+      «The» → «Since 1 September 2025, the»
+      «threshold» → «has been OMR 200,000 (about USD 520,000), and the status is granted»
+      добавлено: «10 years at once, with renewal and family included. For a property route, the home must be completed, located in an Integrated Tourism Complex (ITC) and come with a …»
+      «residency is» → «status cost»
+      удалено: «(approximately USD 650,000)» [без выделения]
+      удалено: «OMR 500,000 (approximately USD 1.3 million) for» [без выделения]
+      «residency.» → «one OMR 500,000.»
+  • ячейка таблицы: «Real estate investments, business or government bonds from OMR 250,000 (USD 650,000) or …»
+      «business» → «business, shares»
+      «250,000 (USD 650,000) or OMR 500,000 (USD 1.3 million)» → «200,000 (about USD 520,000)»
+  • ячейка таблицы: «Foreigners can only purchase real estate in specially designated areas known as …»
+      «areas known as» → «areas, above all»
+      добавлено: «In June 2026, the Ministry of Housing added Sultan Haitham City, Al Thuraya City, Al Jabal Al Aali and the Surooh district.»
+  • ячейка таблицы: «Property owners in ITC zones can apply for a residence permit through the Ministry of …»
+      «e-portal.» → «e-portal; Golden Residency applications go through the Invest Oman platform.»
+  • пункт списка: «Investments of OMR 250,000 (approximately USD 650,000) grant the right to a 5-year …»
+      «250,000 (approximately» → «200,000 (about»
+      «650,000) grant the right to a 5-year residence permit, and investments of OMR 500,000 (approximately USD 1.3 million)» → «520,000)»
+      «residence permit;» → «Golden Residency;»
+  • пункт списка: «Real estate can only be purchased in ITC zones;»
+      удалено: «only» [без выделения]
+      «zones;» → «zones and several districts opened to foreigners in June 2026;»
+  • пункт списка: «Residents are exempt from income tax;»
+      «tax;» → «tax until 2028;»
+  • абзац: «A Golden Visa is a long-term residence permit issued to foreigners who make a significant …»
+      «Depending on the size» → «Since September 2025, it has been issued for 10 years for investments»
+      «the investment, the validity period is either 5» → «OMR 200,000»
+      «10 years.» → «more.»
+  • абзац: «No, foreigners cannot own real estate outside ITC zones. Such properties can only be …»
+      «No,» → «For Golden Residency, the property must be in an ITC. Since June 2026,»
+      «cannot» → «may also»
+      «real estate outside ITC zones. Such properties» → «homes in four new districts, but what kind of right is granted there and whether it leads to residency should be checked with the developer and the registry. Properties …»
+ДОБАВЛЕНО:
+  + пункт списка: purchase of shares on the Muscat Stock Exchange.
+  + абзац: Since 22 June 2026, there has also been a simpler route: the Owner Visa, introduced by Royal Oman Police decision No. 87/2026. It is granted to a property owner without …
+  + абзац: Whether this is more or less than in neighbouring states becomes clear from a comparison of how much to invest in property for residency across the region.
+  + абзац: "Golden Residency and the Owner Visa serve different purposes. The first gives 10 years and requires at least OMR 200,000. The second is issued for a year at most, with …
+  + заголовок H2: When Oman is not the best option
+  + абзац: A few limitations worth comparing with your plans before buying.
+  + новая таблица (10 ячеек): Your goal | Why it becomes complicated | An inexpensive apartment for long-term residency | Golden Residency starts at OMR 200,000, and the Owner Visa is issued for a year at most | A home in any part of the country | …
+  + заголовок H2: Oman's residency rules: what changed in 2025–2026
+  + абзац: The table reflects the rules as of 9 November 2026.
+  + новая таблица (18 ячеек): Rule | Before 2025 | Now | Time to citizenship | 20 years | 15 years, since 2 February 2025 | Investor residency | 5 years for OMR 250,000, 10 years for OMR 500,000 | 10 years for OMR 200,000, since 1 September 2025 | …
+  + абзац: Since 2 February 2025, a new citizenship law (Royal Decree No. 17/2025) has been in force. Naturalisation requires 15 years of continuous residence, and absences of up …
+УДАЛЕНО (в .docx этого текста нет):
+  − абзац: The naturalisation process in the state takes 20 years. This period can be reduced to:
+  − пункт списка: 15 years for spouses of female citizens who have a common son with them, as well as widows and divorced women who were previously married to citizens and have a common …
+  − пункт списка: 10 years for wives of citizens who have a common son with them (if the marriage lasted at least 10 years) and minor children of female citizens who were widowed or …
+
+====================================================================================================
+12 RU - Получение ВНЖ в Омане в 2026 году   (изменено блоков: 16, добавлено: 37, удалено: 3)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «инвестиции в недвижимое имущество, бизнес или государственные облигации от 250 000 OMR …»
+      «250» → «200»
+      «(650» → «(около 520»
+  • абзац: «Последняя опция позволяет получить резидентство на 5 лет, однако срок будет увеличен до …»
+      «позволяет получить резидентство» → «с 1 сентября 2025 года даёт золотую резиденцию сразу на 10 лет; раньше за 250 000 OMR выдавали статус»
+      «однако срок будет увеличен до 10 лет, если размер капиталовложений превысит» → «а 10-летний требовал»
+      «OMR (1,3 млн $).» → «OMR.»
+      добавлено: «15 лет: такой срок установил новый закон о гражданстве, действующий с февраля 2025 года, раньше он составлял»
+      «В некоторых случаях он может быть сокращен до 10 или 15 лет.» → «Для супругов граждан страны сроки короче.»
+  • пункт списка: «Право на долгосрочное проживание. Одно из главных преимуществ резидентства в Омане …»
+      добавлено: «С чего начать и как устроена жизнь после того, как решён переезд в Оман на ПМЖ , рассказано в отдельной статье.»
+  • пункт списка: «Возможность открытия банковского счета. Иностранцы с видом на жительство получают право …»
+      «Государство предлагает стабильную банковскую систему» → «В стране стабильная банковская система»
+  • пункт списка: «Налоговые льготы. Налоговая система султаната привлекает резидентов и инвесторов своими …»
+      «Она предлагает нулевой налог» → «Налога»
+      «лиц,» → «лиц пока нет,»
+      добавлено: «С 1 января 2028 года вводится подоходный налог 5% для физлиц с годовым доходом выше 42 000 OMR (около 109 000 $), в него войдёт и доход от аренды.»
+  • абзац: «Иностранцы, заинтересованные в долгосрочном проживании в султанате, могут оформить ВНЖ …»
+      добавлено: «(золотая резиденция)»
+  • пункт списка: «приобретение государственных облигаций.»
+      «облигаций.» → «облигаций;»
+  • абзац: «Минимальный порог вложений для оформления 5-летнего резидентства составляет 250 000 OMR …»
+      «Минимальный» → «С 1 сентября 2025 года минимальный»
+      добавлено: «— 200 000 OMR (около 520 000 $), статус выдают сразу на 10 лет с продлением, семья включается в программу. Недвижимость»
+      «оформления 5-летнего резидентства составляет» → «этого должна быть готовой, находиться в интегрированном туристическом комплексе (ITC) и иметь документ о праве собственности. Раньше 5-летний статус стоил»
+      «OMR (650 000 $),» → «OMR,»
+      «для 10-летнего» → «10-летний»
+      «OMR (1,3 млн $).» → «OMR.»
+  • ячейка таблицы: «Инвестиции в недвижимость, бизнес или государственные облигации от 250 000 OMR (650 000 …»
+      «бизнес» → «бизнес, акции»
+      «250» → «200»
+      «(650» → «(около 520»
+      удалено: «или 500 000 OMR (1,3 млн $)» [без выделения]
+  • ячейка таблицы: «Иностранцы могут приобретать недвижимость только в специально отведенных зонах – …»
+      добавлено: «прежде всего в»
+      добавлено: «В июне 2026 года Министерство жилищного строительства добавило к ним город Султана Хайтама, Аль-Сурайю, Аль-Джабаль-Аль-Аали и район Сурух.»
+  • ячейка таблицы: «Владельцы недвижимости в ITC-зонах могут подать заявление на вид на жительство через …»
+      «Министерство» → «Министерства»
+      «Promotion).» → «Promotion), заявки на золотую резиденцию принимает платформа Invest Oman.»
+  • пункт списка: «Инвестиции от 250 000 OMR (650 000 $) дают право на 5-летний ВНЖ, а от 500 000 OMR (1,3 …»
+      «250» → «200»
+      «(650» → «(около 520»
+      «5-летний ВНЖ, а от 500 000 OMR (1,3 млн $) – на 10-летний.» → «10-летнюю золотую резиденцию.»
+  • пункт списка: «Недвижимость можно покупать только в ITC-зонах.»
+      удалено: «только» [без выделения]
+      «ITC-зонах.» → «ITC-зонах и нескольких районах, открытых для иностранцев в июне 2026 года.»
+  • пункт списка: «Резиденты освобождены от подоходного налога.»
+      «налога.» → «налога до 2028 года.»
+  • абзац: «Золотая виза – это долгосрочный вид на жительство, который выдается иностранцам за …»
+      «Срок его действия может составлять 5 или» → «С сентября 2025 года её выдают на»
+      «в зависимости» → «при вложениях»
+      «размера инвестиций.» → «200 000 OMR.»
+  • абзац: «Нет, иностранцы не имеют права на владение недвижимым имуществом за пределами ITC-зон. …»
+      «Нет, иностранцы не имеют права на владение недвижимым имуществом за пределами ITC-зон. Такие объекты» → «Для золотой резиденции объект должен находиться в ITC. С июня 2026 года иностранцам разрешено владеть жильём ещё в четырёх новых районах, но какое право там …»
+ДОБАВЛЕНО:
+  + пункт списка: покупка акций на Маскатской фондовой бирже.
+  + абзац: С 22 июня 2026 года появился и более простой путь — вид на жительство собственника (Owner Visa), введённый решением Королевской полиции Омана № 87/2026. Его выдают …
+  + абзац: Насколько это больше или меньше, чем у соседей, видно из разбора того, сколько вложить в недвижимость ради ВНЖ в регионе.
+  + абзац: «Золотая резиденция и ВНЖ собственника решают разные задачи. Первая даёт 10 лет и требует от 200 000 риалов. Второй выдают максимум на год, зато без порога по стоимости, …
+  + заголовок H2: В каких случаях Оман — не лучший вариант
+  + абзац: Несколько ограничений, которые стоит сопоставить со своими планами до покупки.
+  + новая таблица (10 ячеек): Ваша цель | Почему возникнут сложности | Недорогая квартира ради долгого ВНЖ | Золотая резиденция начинается с 200 000 OMR, а ВНЖ собственника выдают максимум на год | Жильё в любом районе страны | Иностранцам доступны …
+  + заголовок H2: Правила резидентства Омана: перемены 2025–2026 годов
+  + абзац: Таблица отражает правила на 9 ноября 2026 года.
+  + новая таблица (18 ячеек): Правило | До 2025 года | Сейчас | Срок до гражданства | 20 лет | 15 лет, с 2 февраля 2025 года | Инвестиционный ВНЖ | 5 лет за 250 000 OMR, 10 лет за 500 000 OMR | 10 лет за 200 000 OMR, с 1 сентября 2025 года | ВНЖ …
+  + абзац: С 2 февраля 2025 года действует новый закон о гражданстве (королевский указ № 17/2025). Срок натурализации — 15 лет непрерывного проживания, при этом отсутствие в стране …
+УДАЛЕНО (в .docx этого текста нет):
+  − абзац: Процесс натурализации в государстве занимает 20 лет. Данный период может быть сокращен до:
+  − пункт списка: 15 лет для супругов гражданок страны, имеющих с ними общего сына, а также вдов и разведенных женщин, ранее состоявших в браке с гражданами и имеющих с ними общего сына;
+  − пункт списка: 10 лет для супруг граждан, имеющих с ними общего сына (если брак длился не менее 10 лет), и несовершеннолетних детей гражданок, которые овдовели или развелись с …
+
+====================================================================================================
+13 EN - Moving to Oman for permanent residence in 2026   (изменено блоков: 32, добавлено: 12, удалено: 1)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Immigration to Oman involves obtaining a residence permit, which is valid for 1 to 10 …»
+      «golden visa for 5 years» → «10-year Golden Residency»
+      «250,000 ($650,000) or for 10 years by investing OMR 500,000 ($1.3 million).» → «200,000 (about $520,000).»
+  • абзац: «Foreign nationals aged 60 and over who retire in Oman can legalise their status by …»
+      «20» → «15»
+      «(sometimes after 10-15 years).» → «(spouses of citizens sooner).»
+  • пункт списка: «Economic opportunities. The Sultanate has a rapidly developing economy, particularly in …»
+      добавлено: «at purchasing power parity»
+      «$42,360» → «about $46,200»
+      «2025. It offers favourable conditions» → «2026 (IMF estimate). Conditions»
+      «entrepreneurs, along with a stable» → «entrepreneurs are favourable, and the»
+      «system.» → «system is stable.»
+  • пункт списка: «High level of security. The Sultanate is also one of the safest countries in the world …»
+      «It ranks 5th in the Numbeo Safety Index for 2025.» → «In Numbeo's mid-2026 safety index, Oman has 81.7 points and sixth place.»
+  • пункт списка: «Attractive living conditions. The country is distinguished by its lenient visa regime, …»
+      «offer» → «provide»
+      «Summer temperatures rarely reach extreme values,» → «In summer, the coast can be hotter than 40 °C, but the Al Hajar Mountains»
+      «the proximity of mountainous regions allows one to find coolness even» → «Salalah»
+      «hottest months.» → «south are noticeably cooler during the monsoon season. Foreigners can not only rent homes here but also buy them in certain zones; the rules for each country in the …»
+  • пункт списка: «Tax benefits. One of the main pros of living in Oman is the absence of income tax for …»
+      добавлено: «That said, high incomes will be taxed from 2028: 5% on amounts above OMR 42,000 a year.»
+  • пункт списка: «Cultural diversity and a thriving tourism industry. The Sultanate combines the traditions …»
+      «Between January» → «In 2025, about 4 million people visited the country,»
+      «November 2024, the country was visited by 3.5 million tourists, of whom 1.93 million stayed in 3-5-star hotels.» → «tourists spent more than OMR 1 billion.»
+  • абзац: «To obtain a 5-year residence permit, one must invest at least OMR 250,000 ($650,000) and …»
+      «To obtain a 5-year residence permit, one must invest at least» → «Since September 2025, an investment of»
+      «250,000 ($650,000)» → «200,000 (about $520,000) is enough for Golden Residency,»
+      «at least OMR 500,000 ($1.3 million)» → «the status is granted»
+      «years.» → «years straight away. Home buyers have also had a short option since 22 June 2026: an owner's residence permit for up to a year, with no minimum property value. The …»
+  • пункт списка: «Fulfilling investment conditions. Foreigners have the right to own commercial properties, …»
+      «(ITCs).» → «(ITCs) or, since June 2026, in one of four new districts; only ITCs still qualify for Golden Residency.»
+  • пункт списка: «Applying for a golden visa. Investors apply through the electronic portal of the Ministry …»
+      «Promotion,» → «Promotion (this is now done on the Invest Oman platform)»
+  • абзац: «The country's legislation does not provide permanent residence permits. Residents can …»
+      «20» → «15»
+      «The naturalisation» → «This»
+      «is reduced to:» → «was set by the citizenship law that took effect in February 2025; before that, the wait was 20 years. In effect, these are the Oman permanent residency requirements for …»
+  • пункт списка: «15 years for husbands of female citizens who have a common son with them, widows and …»
+      «15 years for husbands» → «spouses»
+      «female» → «Omani»
+      удалено: «who» [без выделения]
+      «a common son with them, widows and divorced women who were previously married to citizens and have a common son with …» → «shorter periods.»
+  • абзац: «As of March 2025, the average monthly living expenses in the country (excluding rent) …»
+      «As» → «According to Numbeo, as»
+      «March 2025,» → «November 2026,»
+      «288 ($748)» → «317 ($825)»
+      «1,001 ($2,600)» → «1,122 ($2,918)»
+      «198 ($514)» → «227 ($590)»
+      «136 ($353)» → «152 ($395)»
+      «631 ($1,639)» → «914 ($2,378)»
+      «438 ($1,138)» → «546 ($1,421)»
+      добавлено: «The average net salary is about OMR 669 ($1,740).»
+  • ячейка таблицы: «OMR 10 ($25.97)»
+      «($25.97)» → «($26.01)»
+  • ячейка таблицы: «OMR 0.73 ($1.9)»
+      «0.73 ($1.9)» → «0.85 ($2.21)»
+  • ячейка таблицы: «OMR 0.45 ($1.17)»
+      «0.45 ($1.17)» → «0.47 ($1.21)»
+  • ячейка таблицы: «OMR 2.19 ($5.69)»
+      «2.19 ($5.69)» → «2.63 ($6.85)»
+  • ячейка таблицы: «OMR 0.95 ($2.47)»
+      «0.95 ($2.47)» → «1.23 ($3.20)»
+  • ячейка таблицы: «OMR 19.33 ($50.21)»
+      «19.33 ($50.21)» → «24.76 ($64.39)»
+  • ячейка таблицы: «OMR 3.57 ($9.27)»
+      «3.57 ($9.27)» → «3.69 ($9.60)»
+  • ячейка таблицы: «OMR 3,317 ($8,616)»
+      «3,317 ($8,616)» → «5,712 ($14,857)»
+  • ячейка таблицы: «OMR 37.65 ($97.79)»
+      «37.65 ($97.79)» → «49.70 ($129.25)»
+  • ячейка таблицы: «OMR 28.4 ($73.77)»
+      «28.4 ($73.77)» → «28.98 ($75.36)»
+  • абзац: «The prices vary depending on location. For example, the cost of living in Muscat is …»
+      «3,925 ($10,196).» → «6,094 ($15,848).»
+  • пункт списка: «Muscat is the capital and largest city of the country, attracting expats with its high …»
+      «It offers numerous opportunities for employment» → «There are many jobs»
+  • пункт списка: «Sohar is an industrial centre that contributes to developing the state's economy thanks …»
+      «knowned» → «known»
+  • пункт списка: «The validity of a golden visa for investments from OMR 250,000 ($650,000) is 5 years, and …»
+      «The validity of a golden visa» → «A 10-year Golden Residency is granted»
+      «250,000 ($650,000) is 5 years, and 10 years» → «200,000 (about $520,000); homeowners can also get an owner's residence permit»
+      «investments from OMR 500,000 ($1.3 million).» → «up to a year.»
+  • пункт списка: «Foreigners can own property only in ITC zones.»
+      «zones.» → «zones and four districts added in 2026.»
+  • пункт списка: «Residents can apply for citizenship by naturalisation after 20 years of living in the …»
+      «20» → «15»
+      «(in some cases, the period may be reduced to 15 or 10 years).» → «(spouses of citizens sooner).»
+  • ответ FAQ: «The relocation cost includes residence permit expenses, depending on its category. For …»
+      «$650,000» → «$520,000»
+  • ответ FAQ: «One person needs approximately $748 per month for living expenses, and a family of four …»
+      «$748» → «$825»
+      «$2,600.» → «$2,918, excluding rent.»
+  • ответ FAQ: «Residents wishing to stay in the country permanently can obtain citizenship after 20 …»
+      «20» → «15»
+ДОБАВЛЕНО:
+  + пункт списка: residence must be continuous, with no more than 90 days abroad a year;
+  + пункт списка: Arabic and a legal income are required;
+  + пункт списка: previous citizenship is given up, and dual nationality is allowed only by royal decree;
+  + абзац: "The road to citizenship is shorter now, but only continuous residence counts. Spend more than 90 days a year abroad and the count is broken, so people who live between …
+  + абзац: A monthly budget for a family of four in Muscat with one schoolchild adds up like this:
+  + пункт списка: Living costs without rent — about $3,130.
+  + пункт списка: A three-bedroom apartment — about $757 on the outskirts or $1,196 in the centre.
+  + пункт списка: An international primary school — about $15,850 a year, or roughly another $1,320 a month.
+  + абзац: The total comes to $5,200–5,650 a month, while the average salary in the country is about $1,740.
+  + абзац: "The school almost always decides both the district and the budget. Families first secure a place at an international school and then look for a flat nearby," says a …
+  + заголовок H2: Moving to Oman: what is new by the end of 2026
+  + абзац: Facts verified on 9 November 2026. Since early 2025, the rules for moving have eased noticeably: citizenship now takes 15 years instead of 20, the investment threshold …
+УДАЛЕНО (в .docx этого текста нет):
+  − пункт списка: 10 years for wives of citizens who have a common son with them (if the marriage lasted at least 10 years), and minor children of female citizens who were widowed or …
+
+====================================================================================================
+14 RU - Переезд в Оман на ПМЖ в 2026 году   (изменено блоков: 30, добавлено: 13, удалено: 2)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Для релокации в Оман иностранцы должны получить вид на жительство, срок действия которого …»
+      «виза на 5 лет за вложения от 250 000 OMR (650 000 $) или» → «резиденция»
+      «500» → «200»
+      «(1,3 млн» → «(около 520 000»
+  • абзац: «Пенсионеры в возрасте от 60 лет могут легализоваться, подтвердив доход от 4000 OMR (10 …»
+      «20» → «15»
+      «(в некоторых случаях после 10–15 лет).» → «(супруги граждан — раньше).»
+  • пункт списка: «Экономические возможности. Султанат является страной с быстроразвивающейся экономикой, …»
+      «в размере 42 360» → «по паритету покупательной способности около 46 200»
+      «2025 году. Он предлагает» → «2026 году (оценка МВФ). Для инвесторов и предпринимателей здесь»
+      удалено: «для инвесторов» [без выделения]
+      «предпринимателей, а также стабильную банковскую систему.» → «стабильная банковская система.»
+  • пункт списка: «Высокий уровень безопасности. Султанат также является одним из самых безопасных …»
+      «Он занимает 5-е место в» → «В индексе безопасности»
+      «Safety Index за 2025 год.» → «середины 2026 года у Омана 81,7 балла и шестая строчка.»
+  • пункт списка: «Привлекательные условия для жизни. Страна отличается лояльным визовым режимом, …»
+      «Большинство» → «В большинстве»
+      удалено: «предлагает» [без выделения]
+      «температура редко достигает экстремальных значений, а близость горных районов позволяет находить прохладу даже» → «на побережье бывает жарче +40 °C, но»
+      «самые жаркие месяцы.» → «горах Аль-Хаджар и на юге, в Салале, в сезон муссонов заметно прохладнее. Жильё здесь иностранцы могут не только снимать, но и покупать в отдельных зонах; правила для …»
+  • пункт списка: «Налоговые льготы. Одним из главных плюсов жизни в Омане является отсутствие подоходного …»
+      добавлено: «Правда, с 2028 года высокие доходы начнут облагаться: 5% с суммы свыше 42 000 OMR в год. Какие основания для статуса есть у иностранцев и во что обходится каждое, …»
+  • пункт списка: «Культурное разнообразие и процветающая туристическая индустрия. Султанат сочетает …»
+      «период с января по ноябрь 2024 года» → «2025 году»
+      «3,5» → «около 4»
+      «туристов, из них 1,93 млн останавливались в отелях с 3–5 звездами.» → «человек, туристы потратили больше 1 млрд OMR.»
+  • абзац: «Чтобы получить вид на жительство сроком на 5 лет, необходимо инвестировать не менее 250 …»
+      «Чтобы получить вид на жительство сроком на 5 лет, необходимо инвестировать не менее 250» → «С сентября 2025 года для золотой резиденции достаточно вложить 200»
+      «(650» → «(около 520»
+      «а» → «и статус выдают сразу»
+      «лет» → «лет. Для покупателей жилья с 22 июня 2026 года есть и короткий вариант»
+      «не менее 500 000 OMR (1,3 млн $).» → «ВНЖ собственника сроком до года, без порога стоимости объекта.»
+  • пункт списка: «Выполнение инвестиционных условий. Иностранцы имеют право на владение коммерческими …»
+      «ITCs).» → «ITCs) или, с июня 2026 года, в одном из четырёх новых районов; для золотой резиденции по-прежнему подходит только ITC.»
+  • пункт списка: «Подача заявления на золотую визу. Инвесторы подают заявление через электронный портал …»
+      «Министерство» → «Министерства»
+      добавлено: «сейчас это делается на платформе Invest Oman,»
+  • абзац: «Законодательство страны не предусматривает выдачу постоянного вида на жительство. …»
+      «20» → «15»
+      «Срок натурализации сокращен до:» → «Такой срок закрепил закон о гражданстве, вступивший в силу в феврале 2025 года, до этого ждать приходилось 20 лет. Требования остались строгими:»
+  • абзац: «По данным на март 2025 года, средние ежемесячные расходы на проживание в государстве (без …»
+      добавлено: «Numbeo»
+      «март 2025» → «ноябрь 2026»
+      «288» → «317»
+      «(748» → «(825»
+      «1001» → «1122»
+      «(2600» → «(2918»
+      «198» → «227»
+      «(514» → «(590»
+      «136» → «152»
+      «(353» → «(395»
+      «631» → «914»
+      «(1639» → «(2378»
+      «438» → «546»
+      «(1138» → «(1421»
+      добавлено: «Средняя зарплата после налогов — около 669 OMR (1740 $).»
+  • ячейка таблицы: «10 OMR (25,97 $)»
+      «(25,97» → «(26,01»
+  • ячейка таблицы: «0,73 OMR (1,9 $)»
+      «0,73» → «0,85»
+      «(1,9» → «(2,21»
+  • ячейка таблицы: «0,45 OMR (1,17 $)»
+      «0,45» → «0,47»
+      «(1,17» → «(1,21»
+  • ячейка таблицы: «2,19 OMR (5,69 $)»
+      «2,19» → «2,63»
+      «(5,69» → «(6,85»
+  • ячейка таблицы: «0,95 OMR (2,47 $)»
+      «0,95» → «1,23»
+      «(2,47» → «(3,20»
+  • ячейка таблицы: «19,33 OMR (50,21 $)»
+      «19,33» → «24,76»
+      «(50,21» → «(64,39»
+  • ячейка таблицы: «3,57 OMR (9,27 $)»
+      «3,57» → «3,69»
+      «(9,27» → «(9,60»
+  • ячейка таблицы: «3317 OMR (8616 $)»
+      «3317» → «5712»
+      «(8616» → «(14 857»
+  • ячейка таблицы: «37,65 OMR (97,79 $)»
+      «37,65» → «49,70»
+      «(97,79» → «(129,25»
+  • ячейка таблицы: «28,4 OMR (73,77 $)»
+      «28,4» → «28,98»
+      «(73,77» → «(75,36»
+  • абзац: «Следует учитывать, что цены варьируются в зависимости от локации. Например, стоимость …»
+      «3925» → «6094»
+      «(10 196» → «(15 848»
+  • пункт списка: «Маскат – столица и крупнейший город страны, привлекающий экспатов высоким уровнем жизни и …»
+      «Он предлагает множество возможностей для работы» → «Здесь много вакансий»
+  • пункт списка: «Срок действия золотой визы за инвестиции от 250 000 OMR (650 000 $) составляет 5 лет, а …»
+      «Срок действия золотой визы» → «Золотую резиденцию на 10 лет выдают»
+      «250» → «200»
+      «(650» → «(около 520»
+      «$) составляет 5 лет, а за инвестиции от 500 000 OMR (1,3 млн $) – 10 лет.» → «$); владельцам жилья доступен и ВНЖ собственника на срок до года.»
+  • пункт списка: «Иностранцы имеют право на владение недвижимостью только в ITC-зонах.»
+      «ITC-зонах.» → «ITC-зонах, а также в четырёх районах, добавленных в 2026 году.»
+  • пункт списка: «Резиденты могут претендовать на гражданство по натурализации после 20 лет проживания в …»
+      «20» → «15»
+      «(в некоторых случаях срок может быть сокращен до 15 или 10 лет).» → «(для супругов граждан — раньше).»
+  • ответ FAQ: «В стоимость релокации входят расходы на ВНЖ, размер которых зависит от его категории. …»
+      «650» → «520»
+  • ответ FAQ: «Одному человеку на проживание требуется около 748 $ в месяц, а семье из 4 человек – 2600 …»
+      «748» → «825»
+      «2600 $.» → «2918 $ без учёта аренды.»
+  • ответ FAQ: «Резиденты, желающие остаться в стране навсегда, могут оформить гражданство после 20 лет …»
+      «20» → «15»
+ДОБАВЛЕНО:
+  + пункт списка: проживание должно быть непрерывным, разрешено уезжать не больше чем на 90 дней в году;
+  + пункт списка: нужно владеть арабским языком и иметь законный доход;
+  + пункт списка: от прежнего гражданства отказываются, двойное допускается лишь по королевскому указу;
+  + пункт списка: для супругов граждан Омана предусмотрены более короткие сроки.
+  + абзац: «Срок до гражданства стал короче, но считается он только при непрерывном проживании. Если уезжать дольше 90 дней в году, стаж прерывается, поэтому тем, кто живёт на две …
+  + абзац: Как складывается месячный бюджет семьи из четырёх человек в Маскате с одним школьником:
+  + пункт списка: Жизнь без аренды — около 3130 $.
+  + пункт списка: Квартира с тремя спальнями — около 757 $ на окраине или 1196 $ в центре.
+  + пункт списка: Международная начальная школа — около 15 850 $ в год, то есть ещё примерно 1320 $ в месяц.
+  + абзац: Итого выходит 5200–5650 $ в месяц при средней зарплате по стране около 1740 $.
+  + абзац: «Школа почти всегда определяет и район, и бюджет. Семьи сначала договариваются о месте в международной школе, а квартиру подбирают уже рядом с ней», — говорит специалист …
+  + заголовок H2: Переезд в Оман: что нового к концу 2026 года
+  + абзац: Сверка фактов — 9 ноября 2026 года. С начала 2025 года правила переезда заметно смягчились: ждать гражданства теперь нужно 15 лет вместо 20, инвестиционный порог — с 250 …
+УДАЛЕНО (в .docx этого текста нет):
+  − пункт списка: 15 лет для супругов гражданок, имеющих с ними общего сына, а также вдов и разведенных женщин, ранее состоявших в браке с гражданами и имеющих с ними общего сына;
+  − пункт списка: 10 лет для супруг граждан, имеющих с ними общего сына (если брак длился не менее 10 лет), и несовершеннолетних детей гражданок, которые овдовели или развелись с …
+
+====================================================================================================
+15 EN - How to get a residence permit in Qatar   (изменено блоков: 12, добавлено: 29, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «As the country ranks among the top destinations for work and life opportunities, many …»
+      «is expected to increase» → «has grown»
+      «2025.» → «recent years.»
+  • пункт списка: «Opening a new business or transferring an existing one to the Emirate are viable In many …»
+      «In many sectors,» → «options. Under Law No. 1 of 2019,»
+      «Qatari citizen is required to» → «foreigner can»
+      добавлено: «a company in full in most sectors with approval from»
+      «majority» → «Ministry»
+      «the company's shares.» → «Commerce and Industry. The exceptions are banking, insurance, natural resource extraction and commercial agencies.»
+  • пункт списка: «Investments in the economy totalling USD 825,000 (QAR 3 million) grant access to a …»
+      «Investments in the economy totalling USD 825,000 (QAR 3 million) grant access to» → «Since February 2026, entrepreneurs and senior executives can apply for»
+      добавлено: «10-year»
+      добавлено: «without a sponsor. An entrepreneur needs a recommendation from one of Qatar's business incubators, and an executive is expected to have at least 5 years in top …»
+      «a special programme.» → «the website of the state-owned company Jusour; investment thresholds for this programme have not been officially published.»
+  • пункт списка: «Purchasing an apartment or house in Qatar worth more than USD 200,000 grants the right to …»
+      добавлено: «QAR 730,000 (about USD 200,000) or»
+      удалено: «than USD 200,000» [без выделения]
+      добавлено: «locations: since June 2026, there are 10 freehold zones and 16 areas where foreigners get a 99-year usufruct right.»
+      «The» → «Sources give different validity periods for the»
+      «card» → «card, from 1 to 5 years, so it»
+      «valid for 1 year.» → «confirmed when applying.»
+      «maintained.» → «maintained, and the owner must spend at least 90 days a year in the country. How life in Qatar differs from neighbouring countries and how to plan moving to Qatar is …»
+  • абзац: «The minimum cost of a residence permit in Qatar through the property investment programme …»
+      добавлено: «QAR 730,000 (about»
+      «200,000.» → «200,000). A property worth QAR 3,650,000 (about USD 1 million) gives access to the same healthcare, education and certain types of business as permanent residents have.»
+      добавлено: «When the deal is registered, the Ministry of Justice charges a fee of 0.25% of the price, about QAR 1,825 (USD 500) for a QAR 730,000 apartment. To compare Qatar's …»
+  • пункт списка: «First, you must choose the basis and study the conditions for obtaining a residence …»
+      добавлено: «citizen.»
+  • пункт списка: «The next stage involves gathering documents, which varies based on the selected option. …»
+      добавлено: «The chain is: the foreign ministry of the issuing country, the Qatari embassy and, after arrival, Qatar's Ministry of Foreign Affairs.»
+  • пункт списка: «The application is submitted to the Emirate's migration service either independently or …»
+      добавлено: «documents.»
+  • абзац: «Foreign nationals whose activities are of particular interest to Qatar or who have made …»
+      «For example, they can invest USD 1 million in real estate.» → «Buying a home worth QAR 3,650,000 does not move an applicant into this category: it brings permanent-residency benefits, but not the status itself. Permanent residency …»
+  • пункт списка: «medical examination (tests for HIV, syphilis, hepatitis B and C, fluorography)»
+      «fluorography)» → «fluorography);»
+  • абзац: «Documents must be translated into Arabic and English and notarised. The package can be …»
+      «and» → «or»
+      «notarised.» → «legalised: notarisation alone is not enough.»
+  • ответ FAQ: «To obtain a residence permit, you can invest in real estate, the economy, or business. …»
+      добавлено: «QAR 730,000 (about USD 200,000) or»
+      удалено: «than USD 200,000» [без выделения]
+      «for one year. To obtain a permanent residence permit» → «that is renewed while the home stays»
+      «Qatar, you must invest» → «your name. A home from QAR 3,650,000 (about»
+      «million.» → «million) adds permanent-residency benefits, but the permanent status itself still requires 20 years of residence or special merit.»
+ДОБАВЛЕНО:
+  + заголовок H2: Six grounds for a residence permit in Qatar: a comparison
+  + абзац: The table compares the main grounds for a State of Qatar residency permit.
+  + новая таблица (21 ячеек): Ground | Who vouches | Key condition | Work | Employer | Employment contract and a medical check in Qatar | Family | A family member who is a resident or citizen | The sponsor's private-sector salary is usually QAR …
+  + абзац: "Most of our clients choose between two routes: a contract with an employer or buying an apartment. The first is faster but depends on a sponsor. The second gives …
+  + пункт списка: Since September 2020, a worker can change employers without the previous employer's permission, giving 1–2 months' notice depending on length of service.
+  + пункт списка: Most workers have not needed their employer's permission to leave the country since 2020.
+  + пункт списка: Since March 2021, a minimum wage of QAR 1,000 (about USD 275) a month has applied to all workers.
+  + заголовок H2: Qatar residence rules: what matters as of November 2026
+  + абзац: Information checked on 9 November 2026. Two changes were added this year. In February, a 10-year residence permit without a sponsor appeared for entrepreneurs and senior …
+
+====================================================================================================
+16 RU - Как получить ВНЖ в Катаре   (изменено блоков: 9, добавлено: 29, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Переезд в Катар становится все более популярным. Страна занимает одно из ведущих мест в …»
+      «2025 году» → «последние годы»
+  • пункт списка: «Открытие нового бизнеса или перевод существующего в эмират также являются возможными …»
+      «Во многих сферах требуется, чтобы катарский гражданин владел большей частью акций компании.» → «По закону № 1 2019 года иностранец может владеть компанией полностью в большинстве отраслей, получив одобрение Министерства торговли и промышленности. Исключения — …»
+  • пункт списка: «Инвестиции в экономику в размере 825 000 $ (3 млн QAR) открывают доступ к виду на …»
+      «Инвестиции в экономику в размере 825 000 $ (3 млн QAR) открывают доступ к виду» → «Предприниматели и топ-менеджеры с февраля 2026 года могут претендовать»
+      «жительство» → «10-летний ВНЖ без спонсора. Предпринимателя должен рекомендовать один из бизнес-инкубаторов Катара, от руководителя ждут опыта работы на высших должностях от 5 лет. …»
+      «специальной программе.» → «этой программе официально не опубликованы.»
+  • пункт списка: «Покупка квартиры или дома в Катаре стоимостью более 200 000 $ также дает право на …»
+      «более» → «от 730 000 QAR (около»
+      «$» → «$)»
+      «локациях.» → «локациях: с июня 2026 года это 10 зон полной собственности и 16 районов, где иностранцу дают право пользования на 99 лет.»
+      «Карта» → «Срок карты»
+      «действует» → «источники называют по-разному, от»
+      «год.» → «года до 5 лет, его уточняют при подаче.»
+      «недвижимость.» → «недвижимость, а владельцу нужно проводить в стране не меньше 90 дней в году. Чем жизнь в Катаре отличается от соседних стран и как спланировать переезд в Катар , …»
+  • абзац: «Минимальная стоимость ВНЖ в Катаре по программе инвестиций в недвижимость равна 200 000 …»
+      добавлено: «730 000 QAR (около»
+      «$.» → «$). Объект от 3 650 000 QAR (около 1 млн $) даёт доступ к той же медицине, образованию и части видов бизнеса, что и у держателей ПМЖ.»
+      добавлено: «При регистрации сделки Министерство юстиции берёт сбор — 0,25% цены объекта, то есть около 1825 QAR (500 $) с квартиры за 730 000 QAR. Сравнить катарский порог с …»
+  • пункт списка: «Следующий этап – сбор документов, список которых варьируется в зависимости от выбранного …»
+      добавлено: «Цепочка такая: МИД страны выдачи, посольство Катара, а после приезда — МИД Катара.»
+  • абзац: «Иностранцы, чья деятельность представляет особый интерес для Катара или которые внесли …»
+      удалено: «например, инвестировав в недвижимость от 1 млн $,» [без выделения]
+      добавлено: «Покупка жилья от 3 650 000 QAR в эту категорию не переводит: она даёт льготы держателей ПМЖ, но не сам статус. Сам ПМЖ ограничен квотой — 100 человек в год.»
+  • абзац: «Все документы должны быть переведены на арабский и английский языки и заверены …»
+      добавлено: «или английский язык»
+      «английский языки и заверены нотариально.» → «легализованы: одного нотариального заверения недостаточно.»
+  • ответ FAQ: «Для оформления вида на жительство можно инвестировать в недвижимость, экономику или …»
+      «более» → «от 730 000 QAR (около»
+      «$» → «$)»
+      «резидента на 1 год. Для получения постоянного вида на жительство» → «резидента, который продлевают, пока объект»
+      «Катаре требуется инвестировать» → «собственности. Жильё»
+      добавлено: «3 650 000 QAR (около»
+      «$.» → «$) добавляет льготы держателей ПМЖ, но сам постоянный статус по-прежнему требует 20 лет проживания или особых заслуг.»
+ДОБАВЛЕНО:
+  + заголовок H2: Шесть оснований для ВНЖ в Катаре: сравнение
+  + абзац: Основные условия по каждому виду статуса в одной таблице.
+  + новая таблица (21 ячеек): Основание | Кто поручается | Ключевое условие | Работа | Работодатель | Трудовой договор и медосмотр в Катаре | Семья | Член семьи — резидент или гражданин | Зарплата спонсора в частном секторе обычно от 10 000 QAR в …
+  + абзац: «Большинство наших клиентов выбирают между двумя путями: контрактом с работодателем и покупкой квартиры. Первый быстрее, но держится на спонсоре. Второй даёт …
+  + пункт списка: С сентября 2020 года работник может сменить работодателя без разрешения прежнего, предупредив его за 1–2 месяца в зависимости от стажа.
+  + пункт списка: Разрешение работодателя на выезд из страны большинству работников не требуется с 2020 года.
+  + пункт списка: С марта 2021 года в стране действует минимальная зарплата — 1000 QAR (около 275 $) в месяц для всех работников.
+  + заголовок H2: Правила ВНЖ в Катаре: что важно на ноябрь 2026 года
+  + абзац: Сведения проверены 9 ноября 2026 года. В этом году добавились два изменения. В феврале появился 10-летний ВНЖ без спонсора для предпринимателей и топ-менеджеров, а в …
+
+====================================================================================================
+17 EN - How to move to UAE permanently   (изменено блоков: 30, добавлено: 23, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «The UAE offers numerous residence visa options, valid for up to 10 years. Foreigners can …»
+      «5-year» → «10-year»
+  • абзац: «Foreigners who have legally resided in the Emirates for 30 years may apply for …»
+      «Individuals» → «Since 2021, citizenship can be offered by nomination to investors»
+      «have become citizens through purchasing high-value properties have invested a minimum of AED 10 million ($2.72 …» → «own property in the UAE, as well as to doctors, scientists, inventors and cultural figures. There»
+      «not automatic» → «no fixed investment amount,»
+      «requires individual consideration» → «you cannot apply yourself: candidates are put forward»
+      добавлено: «emirates'»
+  • пункт списка: «High standard of living: The standard of living in the UAE reaches the world's largest …»
+      «state offers» → «country has»
+      «ranked 2nd» → «second worldwide»
+      «for 2025.» → «(mid-2026 edition) with 86.4 points, after Andorra.»
+  • пункт списка: «Business opportunities: Dubai and Abu Dhabi are among the world's leading business …»
+      «entrepreneurs can do business without incurring taxes.» → «qualifying income is taxed at 0%.»
+      «offering» → «which opens up opportunities for»
+      «excellent opportunities for» → «in»
+      «activities.» → «business.»
+  • ячейка таблицы: «5 years»
+      «5» → «10»
+  • ячейка таблицы: «Buyers of one or more properties in the UAE valued at $544,500 or more can be legalised …»
+      «5» → «10»
+      «The transaction must be concluded using a loan from a specific local bank approved» → «In Dubai in 2026, both mortgaged and off-plan (Oqood) properties count if their value certified»
+      «competent authority.» → «Land Department is AED 2 million or more. A mortgaged flat needs a no-objection letter from the bank, an off-plan one a letter from the developer.»
+  • абзац: «As of March 2025, the average monthly living expenses in the UAE (excluding rent) are AED …»
+      «As» → «According to Numbeo, as»
+      «March 2025,» → «November 2026,»
+      «3,687 ($1,004)» → «3,548 ($966)»
+      «12,834 ($3,493)» → «12,502 ($3,404)»
+      «6,083 ($1,656)» → «5,546 ($1,510)»
+      «4,289 ($1,167)» → «3,927 ($1,069)»
+      «22,387 ($6,094)» → «20,207 ($5,502)»
+      «12,823 ($3,490)» → «11,173 ($3,042)»
+      добавлено: «Take-home pay averages about AED 10,860 ($2,957).»
+  • ячейка таблицы: «AED 250 ($68)»
+      «250 ($68)» → «230 ($62.63)»
+  • ячейка таблицы: «AED 6.75 ($1.78)»
+      «6.75 ($1.78)» → «6.57 ($1.79)»
+  • ячейка таблицы: «AED 5.17 ($1.41)»
+      «5.17 ($1.41)» → «5.25 ($1.43)»
+  • ячейка таблицы: «AED 30.82 ($8.39)»
+      «30.82 ($8.39)» → «32.58 ($8.87)»
+  • ячейка таблицы: «AED 8.45 ($2.3)»
+      «8.45 ($2.3)» → «8.78 ($2.39)»
+  • ячейка таблицы: «AED 2.87 ($0.78)»
+      «2.87 ($0.78)» → «3.49 ($0.95)»
+  • ячейка таблицы: «AED 261.45 ($71.17)»
+      «261.45 ($71.17)» → «274.59 ($74.77)»
+  • ячейка таблицы: «AED 41,443 ($11,281)»
+      «41,443 ($11,281)» → «46,268 ($12,598)»
+  • ячейка таблицы: «AED 662.87 ($180.43)»
+      «662.87 ($180.43)» → «693.07 ($188.72)»
+  • ячейка таблицы: «AED 371.5 ($101.12)»
+      «371.5 ($101.12)» → «340.92 ($92.83)»
+  • абзац: «Dubai is the most popular emirate for living and working in the UAE. In 2024, the local …»
+      «2024,» → «September 2026,»
+      «local» → «emirate's»
+      «reached 3.8» → «exceeded 4.8»
+  • абзац: «Dubai actively attracts private business specialists. It houses the headquarters of major …»
+      «DHCC, where entrepreneurs can do business without incurring taxes.» → «DHCC. Since June 2023, the UAE has levied a 9% corporate tax on profits above AED 375,000, while free zone companies pay 0% on qualifying income.»
+  • абзац: «The local infrastructure offers high-speed internet, an advanced transportation network, …»
+      «offers» → «has»
+  • пункт списка: «Downtown Dubai. The central district, where the Burj Khalifa and The Dubai Mall, one of …»
+      добавлено: «In 2026, the market turned: Dubai prices fell year on year for the first time since the pandemic, with apartments about 6% cheaper by September, and in Downtown and …»
+  • пункт списка: «Palm Jumeirah is an artificial island in the shape of a palm, known for its elite villas, …»
+      удалено: «for» [без выделения]
+  • пункт списка: «Jumeirah Village Circle is a quiet community with villas, townhouses, and apartment …»
+      «The community offers» → «Housing here is»
+      «housing compared to» → «than in»
+  • пункт списка: «A 5-year Golden Visa can be obtained by purchasing a property worth $544,500 or investing …»
+      «5-year» → «10-year»
+      добавлено: «the same amount in an investment fund, and a 5-year one by investing from $136,000»
+      «project from $136,000, while an investment of $544,500 in an investment fund provides a 10-year residency.» → «project.»
+  • ответ FAQ: «The UAE visa cost depends on the chosen type of residence permit, the number of family …»
+      «5-year» → «10-year»
+  • ответ FAQ: «The average monthly living expenses in the country (excluding rent) are $1,004 for a …»
+      «$1,004» → «$966»
+      «$3,493» → «$3,404»
+  • ответ FAQ: «In Dubai, the average monthly living expenses (excluding rent) are $1,116 for one person …»
+      «$1,116» → «$1,164»
+      «$3,890» → «$4,106»
+  • ответ FAQ: «No, foreigners applying for an Emirati passport must renounce their previous status.»
+      «No,» → «As a rule, no:»
+      добавлено: «The exception is citizenship by nomination: since 2021, its holders may keep their original passport.»
+  • ответ FAQ: «Residents wishing to stay forever can naturalise after 30 years of residence in the …»
+      «Foreigners can obtain UAE» → «Property owners may be offered»
+      удалено: «immediately» [без выделения]
+      «investing in real estate worth about $2.72 million,» → «nomination,»
+      добавлено: «the authorities' decision,»
+      «guaranteed by law, and each case is considered individually.» → «a programme with a fixed investment amount.»
+  • ответ FAQ: «Yes, foreign property buyers can obtain a 2-year residence permit or a 5-year Golden Visa.»
+      «5-year» → «10-year»
+      добавлено: «How the categories differ and which documents each requires is explained in a separate guide to UAE residency .»
+ДОБАВЛЕНО:
+  + абзац: A case from Middle East's practice: in 2025, a one-bedroom apartment in an off-plan complex in Dubai cost the buyer about AED 1.03 million (around $281,500), which is …
+  + абзац: "Buyers often expect a Golden Visa with an apartment worth AED 1–1.5 million, but it requires a valuation of at least AED 2 million. If the budget is smaller, it is more …
+  + заголовок H2: When moving to the UAE may disappoint
+  + абзац: The expectations people most often bring when emigrating to the UAE, and what is worth knowing in advance.
+  + новая таблица (12 ячеек): Expectation | Reality | Getting citizenship over time | The standard route takes 30 years; nomination is solely at the authorities' discretion | A Golden Visa for a small apartment | A certified value of AED 2 million …
+  + заголовок H2: What is new for people moving to the United Arab Emirates in 2026
+  + абзац: Status as of 9 November 2026.
+  + пункт списка: For the property-based Golden Visa in Dubai, mortgaged and off-plan units with a valuation of AED 2 million or more now count.
+  + пункт списка: Dubai's population has grown to 4.8 million.
+  + пункт списка: Dubai home prices fell year on year for the first time since the pandemic, apartments by about 6%.
+  + пункт списка: A family of four spends $3,404 a month excluding rent nationwide, against $3,493 in March 2025, and about $4,100 in Dubai.
+  + пункт списка: Air travel was temporarily restricted in spring and September; before travelling, check your carrier's schedule and your foreign ministry's advice.
+
+====================================================================================================
+18 RU - Как переехать в ОАЭ на ПМЖ   (изменено блоков: 29, добавлено: 23, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Одним из главных плюсов переезда в ОАЭ является разнообразие способов оформления ВНЖ …»
+      «5-летняя» → «10-летняя»
+  • абзац: «Иностранцы, легально прожившие в Эмиратах 30 лет, могут претендовать на гражданство. Срок …»
+      «Лица, которым удалось стать гражданами через покупку дорогостоящей недвижимости, вложили не менее 10 млн AED (2,72 млн …» → «С 2021 года гражданство могут предложить по номинации инвесторам — владельцам недвижимости в ОАЭ, а также врачам, учёным, изобретателям»
+      «требует индивидуального рассмотрения со стороны властей.» → «деятелям культуры. Фиксированной суммы вложений для этого нет, и подать заявку самостоятельно нельзя: кандидатов выдвигают власти эмиратов.»
+  • пункт списка: «Высокий уровень жизни. Уровень жизни в ОАЭ можно сравнить с крупнейшими мегаполисами …»
+      «Государство предлагает множество» → «В стране много»
+      «(2-е» → «(второе»
+      «рейтинге» → «мире по индексу безопасности»
+      удалено: «Safety Index» [без выделения]
+      «2025 год).» → «середину 2026 года, 86,4 балла — после Андорры).»
+  • пункт списка: «Возможности для бизнеса. Дубай и Абу-Даби являются одними из ведущих мировых …»
+      «предлагая» → «что открывает»
+      удалено: «отличные» [без выделения]
+  • ячейка таблицы: «5 лет»
+      «5» → «10»
+  • ячейка таблицы: «Покупатели одного или нескольких объектов недвижимости в ОАЭ стоимостью от 544 500 $ …»
+      «5» → «10»
+      «При выборе этой опции необходимо заключить сделку с использованием кредита» → «В 2026 году в Дубае в зачёт принимают и объекты в ипотеке, и строящиеся по договору Oqood, если их оценочная стоимость по данным Земельного департамента —»
+      «определенного местного банка, одобренного компетентным органом.» → «2 млн AED. Для ипотечной квартиры нужно письмо банка об отсутствии возражений, для строящейся — письмо застройщика.»
+  • абзац: «По данным на март 2025 года, средние ежемесячные расходы на жизнь в ОАЭ (без учета …»
+      добавлено: «Numbeo»
+      «март 2025» → «ноябрь 2026»
+      «3687» → «3548»
+      «(1004» → «(966»
+      «834» → «502»
+      «(3493» → «(3404»
+      «6083» → «5546»
+      «(1656» → «(1510»
+      «4289» → «3927»
+      «(1167» → «(1069»
+      «22 387 (6094» → «20 207 AED (5502»
+      «12 823» → «11 173»
+      «(3490» → «(3042»
+      добавлено: «Средняя чистая зарплата — около 10 860 AED (2957 $).»
+  • ячейка таблицы: «250 AED (68 $)»
+      «250» → «230»
+      «(68» → «(62,63»
+  • ячейка таблицы: «6,75 AED (1,78 $)»
+      «6,75» → «6,57»
+      «(1,78» → «(1,79»
+  • ячейка таблицы: «5,17 AED (1,41 $)»
+      «5,17» → «5,25»
+      «(1,41» → «(1,43»
+  • ячейка таблицы: «30,82 AED (8,39 $)»
+      «30,82» → «32,58»
+      «(8,39» → «(8,87»
+  • ячейка таблицы: «8,45 AED (2,3 $)»
+      «8,45» → «8,78»
+      «(2,3» → «(2,39»
+  • ячейка таблицы: «2,87 AED (0,78 $)»
+      «2,87» → «3,49»
+      «(0,78» → «(0,95»
+  • ячейка таблицы: «261,45 AED (71,17 $)»
+      «261,45» → «274,59»
+      «(71,17» → «(74,77»
+  • ячейка таблицы: «41 443 AED (11 281 $)»
+      «41 443» → «46 268»
+      «(11 281» → «(12 598»
+  • ячейка таблицы: «662,87 AED (180,43 $)»
+      «662,87» → «693,07»
+      «(180,43» → «(188,72»
+  • ячейка таблицы: «371,5 AED (101,12 $)»
+      «371,5» → «340,92»
+      «(101,12» → «(92,83»
+  • абзац: «Популярнейшим эмиратом для переезда является Дубай. В 2024 году численность местного …»
+      «2024 году численность местного населения достигла 3,8» → «сентябре 2026 года население эмирата превысило 4,8»
+  • абзац: «Дубай активно привлекает специалистов частного бизнеса. Здесь сосредоточены штаб-квартиры …»
+      «DHCC, где предприниматели могут вести бизнес без уплаты налогов.» → «DHCC. С июня 2023 года в ОАЭ действует корпоративный налог 9% с прибыли выше 375 000 AED, но компании свободных зон платят 0% с квалифицирующего дохода.»
+  • абзац: «Местная инфраструктура обеспечивает высокоскоростной интернет, передовую транспортную …»
+      «Дубай предлагает» → «в Дубае»
+      «насыщенную социальную» → «насыщенная социальная» [без выделения]
+  • пункт списка: «Downtown Dubai. Центральный район, где находятся Burj Khalifa и The Dubai Mall – один из …»
+      добавлено: «В 2026 году рынок развернулся: цены в Дубае впервые с пандемии снизились в годовом выражении, квартиры подешевели примерно на 6% за год к сентябрю, а в Downtown и …»
+  • пункт списка: «Jumeirah Village Circle. Спокойное комьюнити с виллами, таунхаусами и многоквартирными …»
+      «Сообщество предлагает более доступное жилье по сравнению с центральными районами,» → «Жильё здесь доступнее, чем в центральных районах,»
+  • пункт списка: «Золотую визу на 5 лет можно оформить через покупку недвижимости стоимостью от 544 500 $ …»
+      «5» → «10»
+      добавлено: «вложение такой же суммы в инвестиционный фонд, а 5-летнюю — за»
+      «$, а за вложение от 544 500 $ в инвестиционный фонд выдается 10-летнее резидентство.» → «$.»
+  • ответ FAQ: «Стоимость переезда зависит от выбранного типа ВНЖ, количества членов семьи, страны …»
+      «5-летнюю» → «10-летнюю»
+  • ответ FAQ: «Средние ежемесячные расходы на проживание в стране (без учета аренды) составляют 1004 $ …»
+      «1004» → «966»
+      «3493» → «3404»
+  • ответ FAQ: «В Дубае средние ежемесячные расходы на проживание (без учета аренды) составляют 1116 $ …»
+      «1116» → «1164»
+      «3890» → «4106»
+  • ответ FAQ: «Нет, иностранцы, претендующие на эмиратский паспорт, должны отказаться от предыдущего …»
+      «Нет,» → «Как правило, нет:»
+      добавлено: «Исключение — гражданство по номинации: с 2021 года его обладателям разрешено сохранить прежний паспорт.»
+  • ответ FAQ: «Резиденты, желающие остаться в государстве навсегда, могут натурализоваться после 30 лет …»
+      «Также существует возможность получить» → «Владельцам недвижимости»
+      «сразу за инвестиции в недвижимость около 2,72 млн $,» → «могут предложить по номинации,»
+      «она» → «это решение властей, а»
+      «гарантирована законом, и каждый случай рассматривается индивидуально.» → «программа с фиксированной суммой вложений.»
+  • ответ FAQ: «Да, иностранные покупатели недвижимого имущества могут получить 2-летний ВНЖ или 5-летнюю …»
+      «5-летнюю» → «10-летнюю»
+      добавлено: «Чем отличаются категории и какие документы нужны для каждой, объясняет отдельный гид про ВНЖ в ОАЭ .»
+ДОБАВЛЕНО:
+  + абзац: Пример из практики Middle East: в 2025 году квартира с одной спальней в строящемся комплексе Дубая обошлась покупателю примерно в 1,03 млн AED (около 281 500 $), то есть …
+  + абзац: «Покупатели часто рассчитывают на золотую визу с квартирой за 1–1,5 млн дирхамов, а для неё нужна оценка от 2 млн. Если бюджет меньше, честнее сразу говорить о 2-летнем …
+  + заголовок H2: Когда переезд в ОАЭ может разочаровать
+  + абзац: Ожидания, с которыми чаще всего приезжают, и то, что стоит знать заранее.
+  + новая таблица (12 ячеек): Ожидание | Реальность | Со временем получить гражданство | Обычный путь занимает 30 лет, номинация — только по решению властей | Золотая виза за небольшую квартиру | Нужна оценочная стоимость от 2 млн AED, за 750 000 …
+  + заголовок H2: Что нового для переезжающих в ОАЭ в 2026 году
+  + абзац: Состояние на 9 ноября 2026 года.
+  + пункт списка: Для золотой визы за недвижимость в Дубае засчитывают ипотечные и строящиеся объекты с оценкой от 2 млн AED.
+  + пункт списка: Население Дубая выросло до 4,8 млн человек.
+  + пункт списка: Цены на жильё в Дубае впервые с пандемии снизились за год, квартиры — примерно на 6%.
+  + пункт списка: Расходы семьи из четырёх человек без аренды по стране — 3404 $ в месяц против 3493 $ в марте 2025 года, а в Дубае — около 4100 $.
+  + пункт списка: Весной и в сентябре авиасообщение временно ограничивали, перед поездкой стоит сверить расписание перевозчика и рекомендации МИД своей страны.
+
+====================================================================================================
+19 EN - How to obtain UAE residency in 2026   (изменено блоков: 12, добавлено: 15, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • пункт списка: «a 5-year Golden Visa for investments from AED 2 million (USD 544,500) in real estate or …»
+      «5-year» → «10-year»
+      «estate or» → «estate, and a 5-year one from»
+  • пункт списка: «Safety. The United Arab Emirates is among the world's safest countries, ranking among the …»
+      добавлено: «holding second place worldwide in Numbeo's mid-2026»
+      «among the top 3 in the Numbeo Safety Index 2025.» → «with a score of 86.4.»
+  • пункт списка: «Permanent relocation is possible. Residency allows staying in the country for an extended …»
+      «status,which» → «status, which»
+      добавлено: «Family budgets and choosing a district are covered in a separate piece on moving to the UAE permanently .»
+  • пункт списка: «Tax optimisation. The country offers tax advantages that benefit entrepreneurs, …»
+      «The country offers tax advantages that» → «Tax rules here»
+  • пункт списка: «Quality medical services. Emirati healthcare is known for its high quality. The country …»
+      «It offers» → «There is»
+      добавлено: «Since 1 January 2025, a policy paid for by the employer has been mandatory for private-sector employees and domestic workers in every emirate.»
+  • пункт списка: «Business and work opportunities. As an international business center, the country …»
+      «country» → «state»
+      «offers favorable conditions» → «runs support programmes»
+  • цитата эксперта: «Emirati legislation provides several ways of legalisation for investors. Foreign …»
+      «years).» → «years, or 10 years for property).»
+      «It offers a lower» → «Its»
+      «threshold,» → «threshold is lower,»
+  • абзац: «Investors must purchase one or more properties worth at least AED 2 million (USD …»
+      добавлено: «A mortgage is no obstacle: in 2026, Dubai's authorities look at the certified value of the property rather than the amount paid, and they accept off-plan homes with a …»
+      «transaction can be concluded using credit from certain local banks approved by» → «status is granted for 10 years. For a comparison with»
+      «competent authority. This option allows» → «neighbours — Saudi Arabia, Qatar, Oman and Bahrain — see a breakdown of how much to invest in property»
+      «legalisation for a period» → «residency in each»
+      «5 years.» → «these countries.»
+  • пункт списка: «Buyers of real estate worth AED 2 million (USD 544,500) in any emirate can obtain a …»
+      «5-year» → «10-year»
+  • ответ FAQ: «Emirates ID is an identification card issued to all citizens and residents of the …»
+      добавлено: «Since 2022, it has replaced the visa sticker in the passport.»
+  • ответ FAQ: «The naturalisation process takes 30 years, but it can be reduced to 37 years for people …»
+      «Foreign nationals interested in obtaining» → «The law offers no fast track through buying property. Since 2021, there has been a nomination route:»
+      «quickly can invest a substantial amount in real estate. The minimum investment» → «may be offered to property owners, doctors, scientists and artists, but the authorities choose the candidates, and no fixed»
+      «is not established. However, according to Arab media, individuals who became citizens purchased properties worth USD …» → «applies.»
+  • ответ FAQ: «Visa-free countries for UAE residents include Azerbaijan, Georgia, Maldives, Seychelles, …»
+      «Citizens» → «UAE citizens»
+      «access to more than 180» → «188»
+      «destinations.» → «destinations (Henley Passport Index, July 2026).»
+ДОБАВЛЕНО:
+  + абзац: "The Green Visa is often underrated. For a freelancer earning AED 360,000 a year, it gives the same 5 years without a sponsor as the Golden Visa for an innovation …
+  + заголовок H2: UAE residency rules: what applies as of November 2026
+  + абзац: Information verified on 9 November 2026. Below are the changes of recent years that older guides on how to become a Dubai resident tend to miss.
+  + новая таблица (12 ячеек): Rule | Current position | Golden Visa for property | 10 years from AED 2 million; Dubai counts mortgaged and off-plan homes | Proof of status | Since 2022, no residence sticker is placed in the passport; Emirates …
+
+====================================================================================================
+21 RU - Как получить ВНЖ в ОАЭ в 2026 году   (изменено блоков: 13, добавлено: 15, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Для иммиграции в ОАЭ иностранцы должны получить ВНЖ, срок действия которого может …»
+      «Местное законодательство предлагает множество» → «В местном законодательстве много»
+  • пункт списка: «5-летняя золотая виза за вложение от 2 млн AED (544 500 $) в недвижимость или от 500 000 …»
+      «5-летняя» → «10-летняя»
+      «недвижимость или» → «недвижимость, 5-летняя —»
+  • пункт списка: «Безопасная страна. Арабские Эмираты входят в число самых безопасных государств в мире …»
+      «(топ-3 в рейтинге» → «(по оценке»
+      «Safety Index 2025).» → «на середину 2026 года — вторая строчка мирового рейтинга, 86,4 балла).»
+  • пункт списка: «Возможность переезда на ПМЖ. Вид на жительство дает иностранцам право на длительное …»
+      добавлено: «Бюджету семьи и выбору района посвящён отдельный материал про переезд в ОАЭ на ПМЖ .»
+  • пункт списка: «Оптимизация налогообложения. Страна предоставляет налоговые преимущества, которые делают …»
+      «Страна предоставляет» → «В стране действуют»
+  • пункт списка: «Качественные медицинские услуги. Эмиратская медицина отличается высоким качеством. Страна …»
+      «Она предлагает широкий выбор» → «Выбор»
+      «клиник,» → «клиник широкий,»
+      добавлено: «С 1 января 2025 года полис обязателен для работников частного сектора и домашнего персонала во всех эмиратах, его оплачивает работодатель.»
+  • пункт списка: «Возможности для бизнеса и работы. Страна является международным бизнес-центром, который …»
+      «государство предлагает благоприятные условия для» → «у государства есть программы поддержки»
+  • цитата эксперта: «Эмиратское законодательство предусматривает несколько способов легализации для …»
+      добавлено: «лет, за недвижимость — 10»
+      «Она предлагает более низкий порог инвестиций,» → «Порог инвестиций в ней ниже,»
+  • абзац: «Инвесторы должны приобрести один или несколько объектов недвижимости, стоимость которых …»
+      «Сделка может быть заключена» → «Покупка в ипотеку не мешает: дубайские власти в 2026 году учитывают оценочную стоимость объекта, а не выплаченную сумму, и так же принимают строящееся жильё»
+      «использованием кредита от определенных местных банков, одобренных компетентным органом. Данная опция позволяет …» → «зарегистрированным договором. Статус выдают»
+      «5» → «10»
+      добавлено: «Для сравнения с соседями — Саудовской Аравией, Катаром, Оманом и Бахрейном — пригодится разбор, сколько вложить в недвижимость ради ВНЖ , в каждой из этих стран.»
+  • пункт списка: «Покупатели недвижимости стоимостью от 2 млн AED (544 500 $) в любом эмирате могут …»
+      «5» → «10»
+  • ответ FAQ: «Emirates ID – это идентификационная карта, которая выдается всем гражданам и резидентам …»
+      добавлено: «С 2022 года оно заменяет визовую наклейку в паспорте.»
+  • ответ FAQ: «Процесс натурализации занимает 30 лет. Для лиц арабского происхождения он может быть …»
+      «Иностранцы, заинтересованные в быстром получении эмиратского паспорта, могут вложить крупную сумму в недвижимость. …» → «Ускоренного пути через покупку недвижимости закон»
+      «установлен, однако, по данным арабских СМИ, лица, которым удалось стать гражданами, приобретали объекты стоимостью от …» → «предусматривает. С 2021 года действует номинация: эмиратский паспорт вправе предложить владельцам недвижимости, врачам, учёным и людям искусства, но кандидатов выбирают …»
+  • ответ FAQ: «Резиденты могут посещать Азербайджан, Грузию, Мальдивы, Сейшельские Острова, Узбекистан и …»
+      «Гражданам доступно более 180» → «У граждан ОАЭ — 188»
+      «направлений.» → «направлений (Henley Passport Index, июль 2026 года).»
+ДОБАВЛЕНО:
+  + абзац: «Зелёную визу часто недооценивают. Фрилансеру с доходом от 360 000 дирхамов в год она даёт те же 5 лет без спонсора, что и золотая по инновационному проекту, но без …
+  + заголовок H2: Правила резидентства ОАЭ: что действует на ноябрь 2026 года
+  + абзац: Сведения сверены 9 ноября 2026 года. Ниже — изменения последних лет, которые чаще всего упускают в старых инструкциях.
+  + новая таблица (12 ячеек): Правило | Как сейчас | Золотая виза за недвижимость | 10 лет от 2 млн AED, в Дубае засчитывают ипотечное и строящееся жильё | Подтверждение статуса | С 2022 года наклейку о резидентстве в паспорт не ставят, статус …
+
+====================================================================================================
+22 EN - What Taxes and Fees Does a Foreigner Pay When Buying and Owning Property in the   (изменено блоков: 3, добавлено: 3, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «The rules for buying the property are set out in the article on can a foreigner buy …»
+      «can» → «whether»
+      добавлено: «can»
+      «Saudi Arabia, Qatar, Oman and Bahrain» → «the Gulf»
+      удалено: «in the middle east,» [без выделения]
+      «do you need» → «whether»
+      добавлено: «is needed»
+  • абзац: «Saudi Arabia. The charge on vacant land applies to undeveloped urban plots of 5,000 m² or …»
+      добавлено: «Since 13 May 2026, regulations on a fee for vacant buildings within city limits have also been in force: it is calculated from the rental value, and the rate depends on …»
+  • пункт списка: «money transfers: bank fees for transfers and currency conversion. These are covered in …»
+      «middle east,» → «Middle East,» [без выделения]
+ДОБАВЛЕНО:
+  + абзац: "VAT of 5% is charged only on the first sale by a developer. That is why a new build and a resale flat at the same price are compared with this difference in mind: for a …
+  + абзац: Rates re-checked on 9 November 2026.
+  + пункт списка: Since 13 May 2026, regulations on the vacant buildings fee have applied in Saudi Arabia; in Riyadh, the first bills for undeveloped land were issued in January 2026.
+
+====================================================================================================
+23 RU - Какие налоги и сборы платит иностранец при покупке и владении недвижимостью в   (изменено блоков: 2, добавлено: 3, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Правила покупки объекта разобраны в статье о том, может ли иностранец купить недвижимость …»
+      «Саудовской Аравии, Катаре, Омане и Бахрейне» → «странах Залива»
+      удалено: «на Ближнем Востоке» [без выделения]
+  • абзац: «Саудовская Аравия. Сбор на пустующую землю касается незастроенных городских участков от 5 …»
+      добавлено: «С 13 мая 2026 года действуют и регламенты сбора с пустующих зданий в городской черте: его считают от арендной стоимости, а ставка зависит от типа объекта. Касается ли он …»
+ДОБАВЛЕНО:
+  + абзац: «НДС 5% начисляют только на первую продажу от застройщика. Поэтому новостройку и готовую квартиру той же цены сравнивают с учётом этой разницы: на объекте за 115 000 …
+  + абзац: Ставки пересверены 9 ноября 2026 года.
+  + пункт списка: С 13 мая 2026 года в Саудовской Аравии действуют регламенты сбора с пустующих зданий; в Эр-Рияде первые счета за незастроенную землю выставлены в январе 2026 года.
+
+====================================================================================================
+24 EN - Where to Pay for Property in the Middle East, and Do You Need a Local Account   (изменено блоков: 11, добавлено: 7, удалено: 2)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «The rules for buying the property are set out in the article on can a foreigner buy …»
+      «can» → «whether»
+      добавлено: «can»
+      «Saudi Arabia, Qatar, Oman and Bahrain» → «the Gulf»
+  • абзац: «Payments for the transaction go through electronic systems approved by the Saudi Central …»
+      добавлено: «A non-resident obtains the digital ID through a Saudi embassy or mission abroad and submits the purchase application on the Saudi Properties portal. This REGA platform, …»
+  • абзац: «Every transaction involving a unit under construction is recorded in an interim register, …»
+      добавлено: «The register was set up by Decision No. 4/2026 of the Minister of Justice, published on 15 January 2026.»
+  • абзац: «For a property under construction, the developer must open an escrow account for the …»
+      «According to a legal review, a 2025 law» → «The Real Estate Regulation Law (Royal Decree No. 79/2025) has been in force since 10 March 2026. It»
+      добавлено: «The developer may withdraw money from the account only in line with approved construction stages. Since 18 May 2026, the Real Estate Register Law (Royal Decree No. …»
+  • абзац: «The Development Law No. 28 of 2014 and Ministerial Order No. 28 of 2015 set the escrow …»
+      добавлено: «Real Estate Regulatory Law No. 27 of 2017, which repealed»
+      «2014 and Ministerial Order No. 28 of 2015 set» → «2014, sets»
+  • пункт списка: «buyers' payments under the contract go only into the escrow account for that project;»
+      удалено: «buyers' payments under» [без выделения]
+      «contract go only into the» → «project's»
+      «for that project;» → «is managed by a bank licensed by the Central Bank of Bahrain;»
+  • пункт списка: «money is released from the account for construction only after confirmation by an …»
+      удалено: «is released» [без выделения]
+      «for construction» → «is spent»
+      «after confirmation by an engineer registered with RERA;» → «on constructing, executing and managing the project;»
+  • пункт списка: «the funds in the account are protected from the developer's creditors.»
+      «creditors.» → «creditors, except for obligations of the project itself, including buyers' rights.»
+  • абзац: «The buyer may obtain from the SLRB a certificate showing the property's area, the common …»
+      «buyer may» → «escrow account details are entered in the register of off-plan sale projects. RERA keeps this register, and anyone can»
+      добавлено: «a certified extract»
+      добавлено: «it for»
+      «SLRB a certificate showing the property's area, the common parts, the payment schedule and the completion date.» → «set fee.»
+  • абзац: «Bank fees for transfer and currency conversion should be included in the budget. The …»
+      добавлено: «The currencies of all four countries are pegged to the US dollar: $1 buys SAR 3.75, QAR 3.64, BHD 0.376 or OMR 0.3845. So when you pay in dollars, the exchange rate …»
+  • пункт списка: «In 2026, the implementing regulations of Saudi Arabia's law on property ownership by …»
+      «In» → «On 23 June»
+      добавлено: «Saudi Arabia's Council of Ministers approved»
+      «Saudi Arabia's» → «the»
+      «foreigners» → «foreigners. They»
+ДОБАВЛЕНО:
+  + абзац: The price of the property is not the only payment: taxes and fees on buying and owning property go to the state, not to the developer. In Qatar, the registration fee is …
+  + абзац: "Many people only learn about the bank's requirements after choosing a property. A non-resident's account is opened for property transactions only, so it is worth having …
+  + пункт списка: the bank holds back part of the construction value and releases it to the developer no earlier than a year after the last unit is handed over;
+  + абзац: Updated for the payment rules in force on 9 November 2026.
+  + пункт списка: In January 2026, Qatar introduced an interim register of off-plan units and interim title documents for them.
+  + пункт списка: On 10 March 2026, Oman's Real Estate Regulation Law (Royal Decree No. 79/2025) came into force. It made an escrow account mandatory for sales of property under …
+  + пункт списка: On 18 May 2026, Oman's Real Estate Register Law took effect, with a separate register for off-plan units.
+УДАЛЕНО (в .docx этого текста нет):
+  − пункт списка: a broker may not accept the buyer's payments under a contract for a property under construction;
+  − пункт списка: In 2025, a law came into force in Oman that, according to a legal review, made an escrow account mandatory for sales of property under construction.
+
+====================================================================================================
+25 RU - Куда платить за недвижимость на Ближнем Востоке и нужен ли местный счёт   (изменено блоков: 10, добавлено: 9, удалено: 3)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «Правила покупки объекта описаны в статье о том, может ли иностранец купить недвижимость в …»
+      «Саудовской Аравии, Катаре, Омане и Бахрейне» → «странах Залива»
+  • абзац: «Платежи по сделке проходят через электронные системы, одобренные Центральным банком …»
+      добавлено: «Цифровое удостоверение нерезидент оформляет через посольство или представительство Саудовской Аравии за рубежом, а заявку на покупку подаёт на портале Saudi Properties. …»
+  • абзац: «Каждую операцию с объектом на этапе строительства записывают во временный реестр, а …»
+      добавлено: «Такой реестр ввело решение министра юстиции № 4/2026, опубликованное 15 января 2026 года.»
+  • абзац: «Для строящегося жилья застройщик обязан открыть эскроу-счёт на проект в местном банке. По …»
+      «По сообщению юридического обзора, закон 2025 года» → «Закон о регулировании недвижимости (королевский указ № 79/2025) действует с 10 марта 2026 года. Он»
+      удалено: «королевский» [без выделения]
+      добавлено: «Снимать деньги со счёта застройщик может только по утверждённым этапам строительства. С 18 мая 2026 года действует и закон о реестре недвижимости (указ № 56/2026): права …»
+  • абзац: «Закон № 28 2014 года о девелопменте и приказ министра № 28 2015 года устанавливают …»
+      добавлено: «о регулировании сектора недвижимости № 27 2017 года, который отменил закон»
+      «девелопменте и приказ министра № 28 2015 года устанавливают» → «девелопменте, устанавливает»
+  • пункт списка: «деньги со счёта выплачивают на строительство только после подтверждения инженера, …»
+      «выплачивают» → «тратят только»
+      «строительство только после подтверждения инженера, зарегистрированного в RERA;» → «строительство, исполнение и управление проектом;»
+  • пункт списка: «средства на счёте защищены от требований кредиторов застройщика.»
+      «застройщика.» → «застройщика, кроме обязательств по самому проекту, включая права покупателей.»
+  • абзац: «Покупатель вправе получить в SLRB справку, где указаны площадь объекта, общее имущество, …»
+      «Покупатель вправе» → «Реквизиты эскроу-счёта вносят в реестр проектов, которые продаются на этапе строительства. Его ведёт RERA, и заверенную выписку из него может»
+      «в SLRB справку, где указаны площадь объекта, общее имущество, график платежей и срок завершения.» → «любой желающий за установленную плату.»
+  • абзац: «Комиссии банков за перевод и конвертацию нужно заложить в бюджет. Расчёт простой: каждый …»
+      добавлено: «Валюты четырёх стран привязаны к доллару США: за $1 дают 3,75 SAR, 3,64 QAR, 0,376 BHD или 0,3845 OMR. Поэтому при платеже в долларах курс почти не влияет на сумму, и в …»
+  • пункт списка: «В 2026 году исполнительные регламенты закона о владении недвижимостью иностранцами в …»
+      «В» → «23 июня»
+      «году» → «года Совет министров Саудовской Аравии утвердил»
+      «иностранцами в Саудовской Аравии» → «иностранцами. Они»
+ДОБАВЛЕНО:
+  + абзац: Цена объекта — не единственный платёж: налоги и сборы при покупке и владении получает не застройщик, а государство. Регистрационный сбор в Катаре принимает Министерство …
+  + абзац: «Многие узнают о требованиях банка уже после выбора объекта. Счёт нерезидента открывают только под операции с недвижимостью, поэтому выписку из банка своей страны лучше …
+  + пункт списка: эскроу-счёт проекта ведёт банк с лицензией Центрального банка Бахрейна;
+  + пункт списка: часть стоимости строительства банк удерживает и выплачивает застройщику не раньше чем через год после передачи последнего объекта;
+  + заголовок H2: Кому будет сложнее
+  + абзац: Правила по платежам перепроверены 9 ноября 2026 года.
+  + пункт списка: В январе 2026 года в Катаре ввели временный реестр строящихся объектов и временные документы о праве собственности на них.
+  + пункт списка: 10 марта 2026 года в Омане вступил в силу закон о регулировании недвижимости (указ № 79/2025), который сделал эскроу-счёт обязательным при продаже строящихся объектов.
+  + пункт списка: 18 мая 2026 года в Омане заработал закон о реестре недвижимости с отдельным реестром для строящихся объектов.
+УДАЛЕНО (в .docx этого текста нет):
+  − пункт списка: платежи покупателей по договору поступают только на эскроу-счёт этого проекта;
+  − пункт списка: брокер не может принимать платежи покупателя по договору на строящийся объект;
+  − пункт списка: В 2025 году в Омане вступил в силу закон, который, по сообщению юридического обзора, сделал эскроу-счёт обязательным при продаже строящихся объектов.
+
+====================================================================================================
+27 RU - Может ли иностранец купить недвижимость в Саудовской Аравии, Катаре, Омане и   (изменено блоков: 8, добавлено: 5, удалено: 0)
+====================================================================================================
+ИЗМЕНЕНО:
+  • абзац: «О том, как получить вид на жительство, рассказано в отдельных материалах: Саудовская …»
+      удалено: «нужно» [без выделения]
+      «недвижимость, чтобы получить вид на жительство в странах Залива» → «недвижимость ради ВНЖ»
+      удалено: «— в статье о том, какие налоги и сборы платит иностранец» [без выделения]
+      «недвижимостью ,» → «разобраны отдельно, а»
+      удалено: «на Ближнем Востоке» [без выделения]
+  • абзац: «Покупать можно только в зонах, которые определяет Совет министров по предложению REGA. …»
+      добавлено: «Перечень зон Совет министров утвердил 23 июня 2026 года вместе с исполнительными регламентами, а REGA выложила их карту на портале Saudi Properties.»
+      «на сайте REGA.» → «по этой карте.»
+  • абзац: «По данным юридических обзоров, иностранные резиденты могут владеть одним жилым объектом …»
+      «зон.» → «зон, кроме Мекки и Медины.»
+  • абзац: «Права иностранцев в Катаре определяют закон № 16 2018 года и решение кабинета министров № …»
+      добавлено: «июне»
+      «году» → «года» [без выделения]
+  • абзац: «Полная собственность — в зонах, среди которых:»
+      добавлено: «десяти»
+      «среди которых:» → «причём Аль-Дафна занимает в перечне две из них:»
+  • абзац: «Узуфрукт на срок до 99 лет — в районах Дохи, среди которых Мушейриб, Аль-Садд, Наджма, …»
+      «районах Дохи, среди которых» → «16 районах, в том числе в Дохе:»
+  • абзац: «Иностранец может купить объект в полную собственность в инвестиционных зонах. К ним …»
+      «пополняется.» → «пополняется: в апреле 2025 года в него вошёл Биладж-аль-Джазаир.»
+  • пункт списка: «В Катаре в 2026 году изменили решение № 28 2020 года, которое определяет права …»
+      добавлено: «июне»
+      «году» → «года» [без выделения]
+      добавлено: «К зонам собственности добавили курорт Симайсма, теперь их десять.»
+ДОБАВЛЕНО:
+  + абзац: Нерезиденту до сделки понадобятся цифровое удостоверение личности (digital ID), которое выдают саудовские посольства, и счёт в местном банке на своё имя.
+  + абзац: «Название района в рекламе ещё ничего не гарантирует: статус определяет номер участка. Поэтому его проверяют в SLRB до задатка, а не после подписания договора», — …
+  + абзац: Если покупка связана со сменой страны жительства, пригодятся разборы о жизни, документах и бюджете семьи в Саудовской Аравии и Катаре: переезд в Саудовскую Аравию и …
+  + абзац: Зоны и правила — по состоянию на 9 ноября 2026 года.
+  + пункт списка: Исполнительные регламенты саудовского закона и карту зон для иностранцев правительство утвердило 23 июня 2026 года. Ими же установлен сбор REGA при продаже объекта — 2% …
