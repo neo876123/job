@@ -1,0 +1,165 @@
+<p>The cost of completing a purchase in the four countries varies by dozens of times: from 0.25% of the price in Qatar to 8% in Oman if the flat is bought from a developer. In Saudi Arabia, the transaction tax is 5% of the price and by law the seller pays it, but contracts often shift the obligation to the buyer. In Bahrain, registration costs 2% of the price, and foreigners also pay a municipal tax every year. There is no annual property tax in Qatar or Oman, and from 2028 rental income in Oman will become subject to income tax. This article sets out the taxes and fees at each stage and gives a calculation for a property worth $300,000.</p>
+<p>The rules for buying the property are set out in the article&nbsp;on <a href="[:ALIAS_URL:]/faq/can-a-foreigner-buy-property-in-saudi-arabia-qatar-oman-and-bahrain">whether a foreigner can buy property in the Gulf</a>, and residence through property in the article&nbsp;on <a href="[:ALIAS_URL:]/faq/how-much-do-you-need-to-invest-in-property-to-get-residency-in-the-gulf-states">how much do you need to invest in property to get residency in the Gulf States</a>. Bank accounts and transfers for non-residents are described in the article&nbsp;on <a href="[:ALIAS_URL:]/faq/where-to-pay-for-property-in-the-middle-east-and-do-you-need-a-local-account">where to pay for property and whether a local account is needed</a>.</p>
+<pre>[auto_headings title="Content" title_tag="h2"]</pre>
+<h2 id="id1">Costs at purchase: a comparison for $300,000</h2>
+<p>The calculation is for a property worth about $300,000 and shows only taxes and government fees, without the agent's and lawyer's fees. The currencies of the four countries are pegged to the dollar, so the conversion does not shift from month to month.</p>
+<div class="mobile_table">
+<table class="w100">
+<tbody>
+<tr><th style="text-align: center;">Country</th><th style="text-align: center;">Tax or fee</th><th style="text-align: center;">Rate</th><th style="text-align: center;">Amount in local currency</th><th style="text-align: center;">Amount in dollars</th></tr>
+<tr>
+<td style="text-align: center;">Saudi Arabia</td>
+<td style="text-align: center;">Real estate transaction tax (RETT)</td>
+<td style="text-align: center;">5%</td>
+<td style="text-align: center;">SAR&nbsp;56,250</td>
+<td style="text-align: center;">about $15,000</td>
+</tr>
+<tr>
+<td style="text-align: center;">Qatar</td>
+<td style="text-align: center;">Registration fee</td>
+<td style="text-align: center;">0.25%</td>
+<td style="text-align: center;">QAR&nbsp;2,750 and QAR&nbsp;100 for the document</td>
+<td style="text-align: center;">about $780</td>
+</tr>
+<tr>
+<td style="text-align: center;">Oman, resale</td>
+<td style="text-align: center;">Registration fee</td>
+<td style="text-align: center;">3%</td>
+<td style="text-align: center;">OMR&nbsp;3,450</td>
+<td style="text-align: center;">about $9,000</td>
+</tr>
+<tr>
+<td style="text-align: center;">Oman, new build from a developer</td>
+<td style="text-align: center;">Registration fee and VAT</td>
+<td style="text-align: center;">3% and 5%</td>
+<td style="text-align: center;">OMR&nbsp;3,450 and OMR&nbsp;5,750</td>
+<td style="text-align: center;">about $24,000</td>
+</tr>
+<tr>
+<td style="text-align: center;">Bahrain</td>
+<td style="text-align: center;">Registration fee</td>
+<td style="text-align: center;">2% (1.7% with the discount)</td>
+<td style="text-align: center;">BHD&nbsp;2,260 (BHD&nbsp;1,921)</td>
+<td style="text-align: center;">about $6,000 (about $5,100)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>The calculation starts from SAR&nbsp;1,125,000 in Saudi Arabia, QAR&nbsp;1,100,000 in Qatar, OMR&nbsp;115,000 in Oman and BHD&nbsp;113,000 in Bahrain. Bahrain's municipal tax and charges at later stages are not included in the table.</p>
+<p>[read_also ids="220224" title="Read more"]</p>
+<h2 id="id2">Saudi Arabia</h2>
+<p>The Real Estate Transaction Tax (RETT) has applied since October 2020. It is 5% of the price and replaced the 15% VAT that used to be charged on the sale of real estate. The tax applies to sales, bequests, lease-to-own arrangements and long-term usufruct of more than 50 years.</p>
+<p>How the tax works, according to the tax authority's guide (ZATCA):</p>
+<ul>
+<li>the base is the price agreed by the parties, but not less than the market value on the day of the transaction;</li>
+<li>by law the seller pays the tax, before or during the transfer;</li>
+<li>a late-payment penalty of 5% of the unpaid amount applies for each month;</li>
+<li>for understating the price, the penalty ranges from the amount of the tax up to three times the tax.</li>
+</ul>
+<p>In practice, the contract often places the tax on the buyer. If this condition is included for a property priced at SAR&nbsp;1,125,000, the buyer pays SAR&nbsp;56,250, which is why the tax clause is read before signing.</p>
+<p>"The law places the transaction tax on the seller, but contracts often shift it to the buyer. This clause needs to be read before signing: the sum of 5% of the price depends on it," says a tax consultant from Riyadh.</p>
+<p>The broker's commission is usually about 2.5% of the price, and 15% VAT is charged on it, so about 2.9% together. Agency services, lawyers and valuers are subject to 15% VAT.</p>
+<h2 id="id3">Qatar</h2>
+<p>Ownership is registered by the Ministry of Justice. The fee is 0.25% of the property's value. A separate charge, about QAR&nbsp;100, is paid for printing the title deed. For a property priced at QAR&nbsp;1,100,000, the fee is QAR&nbsp;2,750. The exact amount for a particular transaction is confirmed with the Ministry of Justice.</p>
+<p>There is no property tax in Qatar.</p>
+<h2 id="id4">Oman</h2>
+<p>The buyer has two payments to make:</p>
+<ul>
+<li>a registration fee of 3% of the property's value, paid to the Ministry of Housing (it was 5% until November 2020);</li>
+<li>5% VAT on the first sale of a new home by a developer. Resale of homes is exempt from VAT.</li>
+</ul>
+<p>For a resale flat priced at OMR&nbsp;115,000, the fee is OMR&nbsp;3,450. If the flat is bought from a developer, OMR&nbsp;5,750 of VAT is added, OMR&nbsp;9,200 in total.</p>
+<p>Service charges are paid to the developer every year. The developer sets the amount under the project's regulations, and it can be raised. Ask for the amount in the contract before buying.</p>
+<p>"VAT of 5% is charged only on the first sale by a developer. That is why a new build and a resale flat at the same price are compared with this difference in mind: for a property worth OMR&nbsp;115,000, it comes to OMR&nbsp;5,750," points out a tax accountant from Muscat.</p>
+<pre>[gallery style="slider" columns="4"] </pre>
+<pre>[item url="https://s3.middle-east.realestate/files/65rye0gc2ykhyoe14/9pm839bh/h1cd3wj2eqa9mv0f/amxwwqeva7gz6h/tfif6miwqv6cn/what-taxes-and-fees-does-a-foreigner-pay-when-buying-and-owning-property-in-the-gulf-states(1).jpg"] <br />[item url="https://s3.middle-east.realestate/files/65rye0gc2ykhyoe14/9pm839bh/h1cd3wj2eqa9mv0f/amxwwqeva7gz6h/tfif6miwqv6cn/what-taxes-and-fees-does-a-foreigner-pay-when-buying-and-owning-property-in-the-gulf-states(2).jpg"] <br />[item url="https://s3.middle-east.realestate/files/65rye0gc2ykhyoe14/9pm839bh/h1cd3wj2eqa9mv0f/amxwwqeva7gz6h/tfif6miwqv6cn/what-taxes-and-fees-does-a-foreigner-pay-when-buying-and-owning-property-in-the-gulf-states(3).jpg"] <br />[item url="https://s3.middle-east.realestate/files/itri5r1o4ei5gjeen2yv/rpp8kcfazhlaxswqp/qz1yb0wohks9rf9/e032epsmfcd7/what-taxes-and-fees-does-a-foreigner-pay-when-buying-and-owning-property-in-the-gulf-states(4).jpg"] <br />[/gallery]</pre>
+<h2 id="id5">Bahrain</h2>
+<p>Registration is carried out by the Survey and Land Registration Bureau (SLRB). The fee is 2% of the price. According to consultants' reviews, if the application is submitted within two months of the contract being notarised, the fee falls by 15%, to 1.7%. The terms of the discount should be confirmed with the bureau. For a property priced at BHD&nbsp;113,000, the fee is BHD&nbsp;2,260, or BHD&nbsp;1,921 with the discount.</p>
+<p>Sources differ on who pays the fee: some name the buyer, others both parties equally. This is fixed in the contract.</p>
+<p>Additional costs of buying, according to consultants:</p>
+<ul>
+<li>legal checks and notarisation: about 1–1.5% of the price;</li>
+<li>the agent's commission: about 2%, shared between buyer and seller;</li>
+<li>a reservation deposit: about 10% of the price.</li>
+</ul>
+<h2 id="id6">Taxes on ownership, rental and sale</h2>
+<div class="mobile_table">
+<table class="w100">
+<tbody>
+<tr><th style="text-align: center;">Country</th><th style="text-align: center;">Annual property tax</th><th style="text-align: center;">Tax on rental income</th><th style="text-align: center;">Tax on sale</th></tr>
+<tr>
+<td style="text-align: center;">Saudi Arabia</td>
+<td style="text-align: center;">None for an individual's home; a charge on undeveloped urban land of 5,000 m² or more</td>
+<td style="text-align: center;">Sources differ for non-residents</td>
+<td style="text-align: center;">The 5% RETT is paid by the seller; for non-citizens the law allows a fee of up to 5%</td>
+</tr>
+<tr>
+<td style="text-align: center;">Qatar</td>
+<td style="text-align: center;">None</td>
+<td style="text-align: center;">Not taxed for an individual not carrying on a taxable activity</td>
+<td style="text-align: center;">According to PwC's summary, exempt for an individual; 10% for a non-resident on Qatar-sourced income</td>
+</tr>
+<tr>
+<td style="text-align: center;">Oman</td>
+<td style="text-align: center;">None</td>
+<td style="text-align: center;">None at present; income tax from 1 January 2028</td>
+<td style="text-align: center;">None at present</td>
+</tr>
+<tr>
+<td style="text-align: center;">Bahrain</td>
+<td style="text-align: center;">Municipal tax of 10% of the assessed rental value for foreign owners</td>
+<td style="text-align: center;">No personal income tax</td>
+<td style="text-align: center;">Not found in the sources</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Saudi Arabia.</strong> The charge on vacant land applies to undeveloped urban plots of 5,000 m² or more: the rate depends on the zone's priority and is 2.5%, 5%, 7.5% or 10% a year. It does not apply to a flat. When selling property, non-citizens pay a separate fee of up to 5% of the value: it is introduced by the law on property ownership by foreigners, in force since 22 January 2026. Rates by type of property are set by regulations, which should be confirmed with REGA. Since 13 May 2026, regulations on a fee for vacant buildings within city limits have also been in force: it is calculated from the rental value, and the rate depends on the type of property. Whether it applies to an individual flat that the owner does not let should be checked with the Ministry of Municipalities and Housing.</p>
+<p><strong>Qatar.</strong> A capital gain made by an individual on the sale of property is not taxed if the property is not part of a taxable activity. But according to PwC's summary, non-residents' income from Qatari sources is taxed at 10%, and the return is filed within 30 days of the sale. How this applies to a non-resident's private sale of a flat should be confirmed with a tax consultant.</p>
+<p><strong>Oman.</strong> The personal income tax law (Royal Decree No. 56/2025) takes effect on 1 January 2028. The rate is 5% on annual income above OMR&nbsp;42,000 (about $109,000). Rent from property is part of taxable income. Residents who spend more than 183 days a year in the country pay on worldwide income; non-residents pay only on income from Oman. The law's implementing rules had not been found at the time this article was prepared.</p>
+<p><strong>Bahrain.</strong> Foreign owners pay a municipal tax of 10% of the assessed rental value of the property. The assessed value is set by the municipality, not by the purchase price or the actual rent. Sources differ on whether the tax applies to a vacant property or one occupied by the owner, so the conditions should be confirmed with the municipality.</p>
+<h2 id="id7">Costs other than taxes and fees</h2>
+<p>Taxes and government fees are joined by costs that depend on the transaction:</p>
+<ul>
+<li>the agent's commission: about 2–3% of the price in Oman, about 2% in Bahrain, about 2.5% plus 15% VAT in Saudi Arabia;</li>
+<li>legal checks and paperwork: about 1–1.5% of the price in Bahrain; in Oman, according to consultants, about OMR&nbsp;500–1,500;</li>
+<li>service charges from the developer or management company: annual, the amount depends on the project;</li>
+<li>a mortgage: valuation, the bank's fee, registration of the charge and insurance; in Oman, registering the charge costs about 0.5%;</li>
+<li>money transfers: bank fees for transfers and currency conversion. These are covered in the article&nbsp;on <a href="[:ALIAS_URL:]/faq/where-to-pay-for-property-in-the-middle-east-and-do-you-need-a-local-account">where to pay for property in the Middle East, and do you need a local account</a>.</li>
+</ul>
+<h2 id="id8">Choosing property in the Gulf States</h2>
+<pre>[objects_list ids="58723,54383,57072,56509" per_page="4" button_text="See all" button_link="53048" title="Properties for sale in the Gulf States"][/objects_list]</pre>
+<h2 id="id8">How to work out your budget</h2>
+<p>The procedure is the same for any country:</p>
+<ol>
+<li>Establish the price of the property and the type of deal: resale or a new build from a developer.</li>
+<li>Find the registration fee or transaction tax: Saudi Arabia 5%, Qatar 0.25%, Oman 3%, Bahrain 2%.</li>
+<li>Add VAT if you are buying a new build in Oman: 5% of the price.</li>
+<li>Establish from the contract who pays the fee: the buyer, the seller or both.</li>
+<li>Add the agent's commission and the lawyer's costs.</li>
+<li>Allow for annual costs: service charges, Bahrain's municipal tax, insurance.</li>
+<li>Check the tax on rental income and sale in the country where you live: it can arise regardless of the taxes in the country of the property.</li>
+</ol>
+<h2 id="id9">Who will pay more than expected</h2>
+<ul>
+<li>Those buying a new build in Oman. VAT of 5% is added to the 3% registration fee, 8% of the price in all.</li>
+<li>Those buying in Saudi Arabia without reading the tax clause in the contract. If the 5% tax is shifted to the buyer, the budget rises by that amount.</li>
+<li>Those planning to sell a property in Saudi Arabia without being a citizen of the country. The law allows a fee of up to 5% on sale on top of the 5% transaction tax, and consultants estimate the total burden of ownership at about 10% of the price.</li>
+<li>Those renting out a property in Oman after 2028. Rent will become part of taxable income.</li>
+<li>Those who have not allowed for Bahrain's municipal tax. It accrues every year and, according to a number of sources, even if the property is not let.</li>
+</ul>
+<h2 id="id10">What has changed in taxes</h2>
+<p>Rates re-checked on 9 November 2026.</p>
+<ul>
+<li>Since 22 January 2026, Saudi Arabia has had a law on property ownership by non-citizens. It introduces a fee of up to 5% on sale.</li>
+<li>Since 13 May 2026, regulations on the vacant buildings fee have applied in Saudi Arabia; in Riyadh, the first bills for undeveloped land were issued in January 2026.</li>
+<li>Oman has adopted a personal income tax law, which takes effect on 1 January 2028. Rent from property will become part of taxable income. Until then, there is no tax on individuals' rental income.</li>
+</ul>
+<pre>[faqs title_tag="h2" title="Frequently asked questions"]
+[item question="Who pays the tax when buying property in Saudi Arabia?"]By law, the seller pays the 5% transaction tax. In practice, the contract often places it on the buyer, so this condition is checked before signing.[/item]
+[item question="Is there an annual property tax in Qatar and Oman?"]No. Qatar has no property tax, and in Oman no annual property tax has been found either, but the developer charges service fees.[/item]
+[item question="Is rental income taxed?"]In Qatar, rent received by an individual not carrying on a taxable activity is not taxed. In Oman, rental income will become taxable from 1 January 2028. In Bahrain there is no personal income tax, but foreign owners pay a municipal tax.[/item]
+[item question="Do you have to pay VAT when buying in Oman?"]If the flat is bought from a developer on first sale, VAT is 5%. VAT is not charged on resale of homes.[/item]
+[item question="What costs are there besides taxes?"]The agent's commission, a lawyer, service charges, valuation and insurance with a mortgage, and bank fees for transfers.[/item][/faqs]</pre>
+<h2 id="id11">Find property in the Gulf states</h2>
+<p>Once you have settled your budget, browse the listings in the Middle-East.Realestate catalogue. Before choosing, work out the taxes and fees for the country of the property using the list above.</p>

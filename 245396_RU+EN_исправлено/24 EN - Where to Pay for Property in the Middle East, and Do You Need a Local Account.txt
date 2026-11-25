@@ -1,0 +1,141 @@
+<p>In Saudi Arabia, a non-resident must obtain a digital ID and open an account with a local bank in their own name before buying. This is required by the implementing regulations of the law on property ownership by foreigners. In Qatar, Oman and Bahrain, no such requirement is stated for the buyer: payments for a property under construction are sent to a special project account called an escrow account. The money in it is held separately from the developer's funds and is spent only on construction. In the Gulf states, banks, developers and brokers check where money comes from. This article explains where and how to send a payment and what to prepare in advance.</p>
+<p>The rules for buying the property are set out in the article&nbsp;on <a href="[:ALIAS_URL:]/faq/can-a-foreigner-buy-property-in-saudi-arabia-qatar-oman-and-bahrain">whether a foreigner can buy property in the Gulf</a>, and taxes and fees in the article&nbsp;on <a href="[:ALIAS_URL:]/faq/what-taxes-and-fees-does-a-foreigner-pay-when-buying-and-owning-property-in-the-gulf-states">what taxes and fees does a foreigner pay when buying and owning property in the Gulf States</a>.</p>
+<pre>[auto_headings title="Content" title_tag="h2"]</pre>
+<h2 id="id1">Do you need a local account: comparing the countries</h2>
+<p>The price of the property is not the only payment: <a href="[:ALIAS_URL:]/faq/what-taxes-and-fees-does-a-foreigner-pay-when-buying-and-owning-property-in-the-gulf-states/">taxes and fees on buying and owning property</a> go to the state, not to the developer. In Qatar, the registration fee is paid to the Ministry of Justice, in Oman to the Ministry of Housing and Urban Planning and in Bahrain to the SLRB, while Saudi Arabia's transaction tax goes to the tax authority, ZATCA.</p>
+<div class="mobile_table">
+<table class="w100">
+<tbody>
+<tr><th style="text-align: center;">Country</th><th style="text-align: center;">Is an account with a local bank needed to buy</th><th style="text-align: center;">Where payment for a property under construction goes</th><th style="text-align: center;">What to check</th></tr>
+<tr>
+<td style="text-align: center;">Saudi Arabia</td>
+<td style="text-align: center;">Yes, for a non-resident: an account in your own name and a digital ID</td>
+<td style="text-align: center;">Through electronic systems approved by the central bank, before the documents are transferred in the register</td>
+<td style="text-align: center;">The bank's rules, the Real Estate General Authority (REGA)</td>
+</tr>
+<tr>
+<td style="text-align: center;">Qatar</td>
+<td style="text-align: center;">Not stated</td>
+<td style="text-align: center;">To the project's escrow account at a bank</td>
+<td style="text-align: center;">Aqarat, the developer's bank</td>
+</tr>
+<tr>
+<td style="text-align: center;">Oman</td>
+<td style="text-align: center;">Not stated</td>
+<td style="text-align: center;">To the project's escrow account</td>
+<td style="text-align: center;">The Ministry of Housing and Urban Planning</td>
+</tr>
+<tr>
+<td style="text-align: center;">Bahrain</td>
+<td style="text-align: center;">Not stated</td>
+<td style="text-align: center;">To the project's escrow account</td>
+<td style="text-align: center;">The Survey and Land Registration Bureau (SLRB), RERA</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>[read_also ids="220225" title="Read more"]</p>
+<h2 id="id2">Saudi Arabia</h2>
+<p>The law on property ownership by foreigners and its implementing regulations introduced mandatory steps for non-residents before buying:</p>
+<ul>
+<li>obtain a digital ID approved by the Ministry of Interior;</li>
+<li>open a bank account in Saudi Arabia in their own name;</li>
+<li>register a Saudi mobile number linked to the digital ID.</li>
+</ul>
+<p>Payments for the transaction go through electronic systems approved by the Saudi Central Bank (SAMA), before the title documents are transferred in the register. A non-resident obtains the digital ID through a Saudi embassy or mission abroad and submits the purchase application on the Saudi Properties portal. This REGA platform, linked to SAMA's payment system, handles both the payment and the issue of the title document.</p>
+<p>The rules for opening such an account are set out in the SAMA rulebook (section 200.2.4). The bank asks for:</p>
+<ul>
+<li>a copy of the digital ID and the passport;</li>
+<li>a residential address and a Saudi contact number linked to the digital ID;</li>
+<li>a contract with a licensed broker or developer, if there is one;</li>
+<li>account details and a certified bank statement from the country of residence.</li>
+</ul>
+<p>Restrictions on the account, according to the SAMA rulebook:</p>
+<ul>
+<li>the account is for property transactions only;</li>
+<li>a non-resident may open no more than one account remotely;</li>
+<li>no payment or credit cards are issued;</li>
+<li>a joint account and authorised signatories located outside the country are not permitted;</li>
+<li>transactions are carried out through approved electronic channels, and the bank continuously checks that the digital ID is valid.</li>
+</ul>
+<p>Outside property purchases, the rules are stricter. A non-resident from a country outside the GCC obtains an account only with written approval from the Ministry of Interior or the Ministry of Foreign Affairs through SAMA.</p>
+<p>The penalty for giving false information to obtain property rights reaches 5% of the value of the right, but no more than SAR&nbsp;10&nbsp;million (about $2.7m).</p>
+<p>"Many people only learn about the bank's requirements after choosing a property. A non-resident's account is opened for property transactions only, so it is worth having the statement from your home bank certified in advance and adding the fee and bank charges to the transfer amount right away," explains a relationship manager for foreign clients at a bank in Jeddah.</p>
+<h2 id="id3">Qatar</h2>
+<p>For a property under construction, the buyer's money must be held in a separate project account. Law No. 6 of 2014 on regulating the real estate sector requires the developer to open an escrow account and obtain the regulator's consent to sell units before construction is complete. In May 2025, Commercial Bank became the first bank in the country to launch such accounts, together with Aqarat. Aqarat, the real estate regulator, and the Qatar Central Bank have required developers to open a separate account for each project, so that buyers' money goes only to construction.</p>
+<p>Every transaction involving a unit under construction is recorded in an interim register, and an entry that is not in the register is invalid. When construction is complete, the interim title document is replaced by an ordinary one. The register was set up by Decision No. 4/2026 of the Minister of Justice, published on 15 January 2026.</p>
+<p>The conditions for a non-resident to open an account are set by the bank, so before buying, ask it for a written list of documents, the minimum balance and the services available.</p>
+<p>A bank, developer or broker may ask for proof of where the money comes from, to check a payment. The Ministry of Justice does not include it in the standard list of documents for registering title.</p>
+<pre>[gallery style="slider" columns="4"] </pre>
+<pre>[item url="https://s3.middle-east.realestate/files/itri5r1o4ei5gjeen2yv/rpp8kcfazhlaxswqp/qz1yb0wohks9rf9/e032epsmfcd7/where-to-pay-for-property-in-the-middle-east-and-do-you-need-a-local-account(1).jpg"] <br />[item url="https://s3.middle-east.realestate/files/itri5r1o4ei5gjeen2yv/rpp8kcfazhlaxswqp/qz1yb0wohks9rf9/e032epsmfcd7/where-to-pay-for-property-in-the-middle-east-and-do-you-need-a-local-account(2).jpg"] <br />[item url="https://s3.middle-east.realestate/files/mcr7n/6wvj1ui0l30bmrf58/mtdrt1x2snzwwzak/frrrle3k68bp5q5/where-to-pay-for-property-in-the-middle-east-and-do-you-need-a-local-account(3).jpg"] <br />[item url="https://s3.middle-east.realestate/files/mcr7n/6wvj1ui0l30bmrf58/mtdrt1x2snzwwzak/frrrle3k68bp5q5/where-to-pay-for-property-in-the-middle-east-and-do-you-need-a-local-account(4).jpg"] <br />[/gallery]</pre>
+<h2 id="id4">Oman</h2>
+<p>For a property under construction, the developer must open an escrow account for the project at a local bank. The Real Estate Regulation Law (Royal Decree No. 79/2025) has been in force since 10 March 2026. It replaced Royal Decree No. 30/2018 and made the account and an agreement with the bank mandatory when units are sold before completion. The developer may withdraw money from the account only in line with approved construction stages. Since 18 May 2026, the Real Estate Register Law (Royal Decree No. 56/2026) has also applied: rights to off-plan units can be provisionally recorded in a separate register. The Ministry of Housing and Urban Planning has begun publishing the details of projects' escrow accounts, so check the account details on the ministry's website.</p>
+<p>Money is sent only to the project's escrow account in the developer's name. A transfer to the personal account of the seller or an intermediary to "reserve" a property has been described as one of the common types of fraud.</p>
+<p>The conditions for a non-resident to open an account differ between banks: some sources report that banks refuse without a residence permit. Confirm the conditions with the bank, and ask the developer which account details it accepts.</p>
+<h2 id="id5">Bahrain</h2>
+<p>The Real Estate Regulatory Law No. 27 of 2017, which repealed Development Law No. 28 of 2014, sets the escrow rules for property under construction:</p>
+<ul>
+<li>the project's escrow account is managed by a bank licensed by the Central Bank of Bahrain;</li>
+<li>money from the account is spent only on constructing, executing and managing the project;</li>
+<li>the bank holds back part of the construction value and releases it to the developer no earlier than a year after the last unit is handed over;</li>
+<li>the funds in the account are protected from the developer's creditors, except for obligations of the project itself, including buyers' rights.</li>
+</ul>
+<p>The escrow account details are entered in the register of off-plan sale projects. RERA keeps this register, and anyone can obtain a certified extract from it for the set fee.</p>
+<p>RERA's rules for licensed market participants require them to verify the identity of the client and the beneficial owner, and where the money comes from. In December 2025, according to a legal news portal, RERA introduced new anti-money-laundering rules for brokers. The conditions for a non-resident's account are set by the bank.</p>
+<h2 id="id6">How to prove where your money comes from</h2>
+<p>Banks, developers and brokers in the Gulf states check where funds come from. The list depends on the amount and the country. As a rule, they ask for:</p>
+<ul>
+<li>bank statements for several months, stamped by the bank;</li>
+<li>documents showing the source of the funds: a contract for the sale of property, an income certificate, a tax return, a gift or inheritance document;</li>
+<li>a passport and proof of address;</li>
+<li>in Saudi Arabia, in addition, a certified bank statement from the country of residence.</li>
+</ul>
+<p>Ask the bank and the developer for the exact list in writing before transferring: checking a payment takes time, and it is better to gather the documents in advance.</p>
+<h2 id="id7">How to send the payment</h2>
+<p>The procedure for any country:</p>
+<ol>
+<li>Get from the developer a written payment schedule and the details of the project's escrow account.</li>
+<li>Check the details against the regulator's data: Aqarat in Qatar, the Ministry of Housing and Urban Planning in Oman, the SLRB and RERA in Bahrain.</li>
+<li>Find out which currency the payment is accepted in and who pays the transfer fee.</li>
+<li>Check that the payee's name in the payment order matches the name of the developer or project in the documents.</li>
+<li>Send the payment from a bank in your country, giving the contract number and the property in the payment reference.</li>
+<li>Keep the proof of transfer and the developer's receipt.</li>
+</ol>
+<p>Bank fees for transfer and currency conversion should be included in the budget. The calculation is simple: each percent of bank costs on a $150,000 transfer is $1,500. The currencies of all four countries are pegged to the US dollar: $1 buys SAR&nbsp;3.75, QAR&nbsp;3.64, BHD&nbsp;0.376 or OMR&nbsp;0.3845. So when you pay in dollars, the exchange rate barely affects the amount, and the budget mainly needs to cover bank charges.</p>
+<p>"The account details for a payment are checked against the project's documents, not against a letter from the seller or the broker. A transfer to an intermediary's personal account is one of the common ways of losing money on a purchase," says a property lawyer from Muscat.</p>
+<h2 id="id8">How to avoid losing money to fraud</h2>
+<ul>
+<li>Pay only into the project's escrow account in the developer's name.</li>
+<li>Do not send money to the personal account of a seller, a broker or a "booking manager".</li>
+<li>Check the details against the project's documents and the regulator's data, not against a message in a messenger app.</li>
+<li>Check that the developer is licensed and the project is registered.</li>
+<li>Do not hand over payment before the contract is signed and you have the payment schedule.</li>
+<li>Keep correspondence and payment documents until ownership is registered.</li>
+</ul>
+<h2 id="id8">Choosing property in the Middle East</h2>
+<pre>[objects_list ids="59893,54303,56865,59421" per_page="4" button_text="See all" button_link="53048" title="Properties for sale in the Middle East"][/objects_list]</pre>
+<h2 id="id9">Who will find it harder</h2>
+<ul>
+<li>Those buying in Saudi Arabia who are not ready to obtain a digital ID. Without it, you cannot open an account or buy.</li>
+<li>Those who count on cards and online banking. A non-resident's account in Saudi Arabia is opened without cards and only for property transactions.</li>
+<li>Those who want to pay in cash or through an intermediary. Banks and developers are required to check where money comes from, and such a payment will not pass the check.</li>
+<li>Those who cannot document the source of their funds. The payment will be held up or returned.</li>
+</ul>
+<h2 id="id10">What has changed since 2025</h2>
+<p>Updated for the payment rules in force on 9 November 2026.</p>
+<ul>
+<li>In May 2025, Qatar launched escrow accounts for property under construction: Commercial Bank introduced them first, together with Aqarat.</li>
+<li>In December 2025, RERA in Bahrain introduced new anti-money-laundering rules for property brokers.</li>
+<li>In January 2026, Qatar introduced an interim register of off-plan units and interim title documents for them.</li>
+<li>On 10 March 2026, Oman's Real Estate Regulation Law (Royal Decree No. 79/2025) came into force. It made an escrow account mandatory for sales of property under construction.</li>
+<li>On 18 May 2026, Oman's Real Estate Register Law took effect, with a separate register for off-plan units.</li>
+<li>On 23 June 2026, Saudi Arabia's Council of Ministers approved the implementing regulations of the law on property ownership by foreigners. They required non-residents to have a digital ID and a local account in their own name.</li>
+</ul>
+<pre>[faqs title_tag="h2" title="Frequently asked questions"]
+[item question="Do you need a bank account to buy property in Saudi Arabia?"]A non-resident needs an account with a local bank in their own name and a digital ID. The account is opened only for property transactions, with no payment or credit cards.[/item]
+[item question="Do you need a local account in Qatar, Oman and Bahrain?"]This requirement is not stated. For a property under construction, you pay into the project's escrow account, whose details the developer provides.[/item]
+[item question="What is an escrow account?"]It is a separate project account at a bank. Buyers' money is held in it separately from the developer's funds and is spent only on construction.[/item]
+[item question="What documents are requested to prove where the money comes from?"]Bank statements, documents on the sale of property, on income or on inheritance, a passport and proof of address. Confirm the list with the bank and the developer in writing.[/item]
+[item question="Can you pay into the seller's personal account?"]No. Pay into the project's escrow account in the developer's name. A transfer to an intermediary's personal account is regarded as one of the common types of fraud.[/item][/faqs]</pre>
+<h2 id="id11">Find property in the Middle East</h2>
+<p>Once you have decided how to pay, browse the listings in the Middle-East.Realestate catalogue. Before transferring, check the developer's details against the regulator's data in the country concerned.</p>

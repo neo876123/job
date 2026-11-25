@@ -1,0 +1,245 @@
+﻿Title (EN): ⟨нет данных — нужен Word-файл EN-версии⟩
+Description (EN): ⟨нет данных — нужен Word-файл EN-версии⟩
+
+Title (RU): ⟨нет данных — нужен Word-файл RU-версии⟩
+Description (RU): ⟨нет данных — нужен Word-файл RU-версии⟩
+
+
+==================== EN ====================
+
+<p>When moving to the UAE, for example, to Dubai, it is quite difficult to choose housing because of the many properties on offer. First of all, you need to decide what you are looking for, whether it’s a house or an apartment. To understand which <a href="../property/dubai/">property in Dubai</a> is better for purchase, you need to compare both options and assess your needs.</p>
+<p>Permanent residence as many people understand it is not available in the UAE: foreign residents hold visas that need renewing — an employment visa, a five-year retirement visa or a ten-year Golden Visa. The type of home makes no difference to the visa. The Dubai Land Department (DLD) issues a 10-year Golden Visa to the owner of an apartment or villa priced at AED 2 million ($544,600) and above. Since April 29, 2026, the 2-year property owner visa has had no minimum price if the home is finished and registered fully in the applicant’s name; in a joint purchase, every co-owner must hold a stake of AED 400,000 ($108,900) or more.</p>
+<pre>[auto_headings title="Contents:" title_tag="h2"]</pre>
+<h2 id="id1">Types of Real Estate and their suitability</h2>
+<p>Urban lifestyle enthusiasts or professionals who need to live close to the workplace often choose <a href="../property/dubai/apartments/">apartments in Dubai</a> for permanent residence.</p>
+<p>Families with children, pensioners, and people who live more secluded lives and desire more freedom prefer spacious houses.</p>
+<p>Between the two sits the townhouse: a home in a row of adjoining units, with a separate entrance and a little yard. Dubai market reports track its prices and yields separately from villas.</p>
+<h2 id="id2">Demand Trends</h2>
+<p>In the May 2022 report of the real estate consulting company Asteco, villas and houses remained the leading demand. Switching to remote work during the coronavirus pandemic led tenants to look for more spacious spaces, which increased the demand for villas in the suburbs. As a result, rental rates in Arabian Ranches and Dubai Hills rose by 47% and 48% year-on-year, respectively. In 2022, the focus was still on houses. A limited number of offers increased rental rates and accelerated the process of buying real estate.</p>
+<p>The annual rental growth in the Dubai villa market in the first half of 2022 averaged 25%, while the average apartment rental rates increased by 14%.</p>
+<p>Prices also grew in 2022, especially in the villa segment. The average quarterly increase in value was 5%, and the average annual increase was 40%. The high demand for villas led to a rise in apartment sales, which increased in the first quarter of 2022 by 5% compared to the fourth quarter of 2021 and by 22% compared to the first quarter of 2021. A separate overview of <a href="../faq/types-of-real-estate-what-apartments-and-houses-are-there-in-dubai/">property types in Dubai</a> explains how a townhouse differs from a villa and what other home formats the emirate offers.</p>
+<h3>Demand for Apartments and Villas in 2026</h3>
+<p>According to Property Monitor, 33,969 residential deals were registered in Dubai in Q3 2026. Apartments accounted for 87.6% of them, townhouses for 9.3% and villas for 3.1%. Villas are more often bought ready: 624 resale deals against 431 off-plan. For apartments and townhouses, off-plan deals are the majority.</p>
+<p>A year earlier, houses had a larger share. By betterhomes’ count based on DLD data, villas and townhouses made up about 18% of deals in 2025 and about 40% of their total value — AED 221 billion ($60.2 billion) out of AED 547 billion.</p>
+<p>The drop came mainly from off-plan houses. According to Cavendish Maxwell, villas and townhouses made up close to 15% of off-plan sales in H1 2026 (almost 24% a year earlier), while their share of the resale market rose from 17% to 20%.</p>
+<p>Purchase prices fell over the year. In ValuStrat’s valuation-based index, villa values dropped 4.8% and apartment values 7.2% between October 2025 and October 2026. In October, the index gained 0.1% month on month after a cumulative 10.2% decline since February.</p>
+<p>The REIDIN index, built on median prices per m², shows a milder picture: over the same year, apartments lost 2.16% and villas gained 0.52%. The two companies use different methods, so calculations should stick to one index.</p>
+<p>Rents are falling for both formats in 2026. By the REIDIN index, apartment rents slipped 7.2% and villa rents 6.7% in the year through October 2026, and the decline sped up toward the fall.</p>
+<p>Cavendish Maxwell reaches the opposite result: an average rent of AED 77.3 per sq ft a year (≈AED 832 per m²) in September 2026, +5.5% on September 2025. The company counts all contracts, including renewals, which explains the gap. The two sets of figures should be read separately.</p>
+<h2 id="id3">Apartment and House Comparison</h2>
+<p>Both villas and flats have their advantages. To determine which housing is right for you, let's analyze their characteristics.</p>
+<p>For reference, here are the three home formats in 2026 figures:</p>
+<table>
+<tbody>
+<tr><th>Indicator</th><th>Apartment</th><th>Townhouse</th><th>Villa</th></tr>
+<tr>
+<td>Average deal price, AED per sq ft (≈ per m²), October 2026, Property Monitor</td>
+<td>1,907 (≈20,530)</td>
+<td>1,391 (≈14,970)</td>
+<td>2,352 (≈25,320)</td>
+</tr>
+<tr>
+<td>Gross rental yield, November 2026, Property Monitor</td>
+<td>6.96%</td>
+<td>5.20%</td>
+<td>4.67%</td>
+</tr>
+<tr>
+<td>Share of residential deals, Q3 2026, Property Monitor</td>
+<td>87.6%</td>
+<td>9.3%</td>
+<td>3.1%</td>
+</tr>
+<tr>
+<td>Price change over the year, October 2026, ValuStrat</td>
+<td>−7.2%</td>
+<td>no separate data</td>
+<td>−4.8%</td>
+</tr>
+<tr>
+<td>Rent change over the year, October 2026, REIDIN</td>
+<td>−7.2%</td>
+<td>no separate data</td>
+<td>−6.7%</td>
+</tr>
+</tbody>
+</table>
+<p>The average deal price depends on what sold that month. In 2026, many deals involve expensive off-plan apartments, so an apartment’s price per sq ft comes out higher on average than a townhouse’s.</p>
+<h3>Space</h3>
+<p>Houses are more spacious than apartments. Unlike the latter, they include a plot of land, a private garden, a swimming pool, a children's playground, and private parking, making them advantageous for families with children and pets.</p>
+<p>When moving into a flat, you have to face limitations regarding space, privacy, and parking spaces.</p>
+<h3>Return on Investment</h3>
+<p>Depending on the area, the return on investment in houses and apartments may differ. Flats are more profitable, with an average return of 6.96% per year (Property Monitor, November 2026). The yield of the villas varies from 3.22% in Jumeirah Islands to 7.45% in Al Barari per year, with an average of 4.67%; townhouses average 5.20%.</p>
+<p>These are the areas of Dubai with the highest apartment yields, according to Property Monitor for November 2026:</p>
+<ul>
+<li>International City – 8.94%;</li>
+<li>Dubai Silicon Oasis – 8.11%;</li>
+<li>Dubai Sports City – 8.04%;</li>
+<li>Jumeirah Village Circle – 7.53%;</li>
+<li>Arjan – 7.48%.</li>
+</ul>
+<p>Of the 2022 list, only International City remains in the top five. Property Monitor has no fresh estimates for Barsha Heights, The Greens or Dubai Studio City: it calculates yields for areas popular with investors, not for the whole city.</p>
+<p>Dubai's most profitable districts with detached houses, based on the same data:</p>
+<ul>
+<li>Al Barari – 7.45%;</li>
+<li>Mudon – 5.58%;</li>
+<li>Jumeirah Golf Estates – 5.55%;</li>
+<li>Villanova – 5.55%;</li>
+<li>The Sustainable City – 5.46%.</li>
+</ul>
+<p>Dubai areas with the highest townhouse yields (Property Monitor, November 2026):</p>
+<ul>
+<li>Jumeirah Golf Estates – 5.95%;</li>
+<li>Jumeirah Village Circle – 5.77%;</li>
+<li>DAMAC Hills 2 – 5.71%;</li>
+<li>Mudon – 5.50%;</li>
+<li>Villanova – 5.48%.</li>
+</ul>
+<p>Of the former villa leaders, only Mudon is still in the top five; Meydan, The Lakes, Reem and Green Community are not in Property Monitor’s sample. All of these figures are gross yields, before service charges, insurance and vacant periods between tenants.</p>
+<h3>Prices for Houses and Apartments in Dubai</h3>
+<p>Prices for villas are higher on average than for flats.</p>
+<p>Fresh per-property averages come from ValuStrat, which works from valuations. In August 2026, it valued the typical Dubai apartment at AED 1.782 million ($485,200) and the typical villa at AED 12.969 million ($3.53 million).</p>
+<p>Between communities, villa and townhouse prices per sq ft differ several times over. According to Property Monitor (average deal price, October 2026), it was AED 907 (≈AED 9,760 per m²) in DAMAC Hills 2, AED 1,536 in Mudon, AED 2,352 in Arabian Ranches, AED 3,311 in Dubai Hills Estate and AED 5,821 (≈AED 62,660 per m²) on Palm Jumeirah.</p>
+<h3>Expenses</h3>
+<p>Owners of private houses in Dubai, as a rule, pay more than apartment owners. This is due to the larger area of the property. The house has higher electricity and water consumption, especially in summer and if the territory has a swimming pool and garden.</p>
+<p>Utility costs in Dubai and home upkeep in 2026:</p>
+<table>
+<tbody>
+<tr><th>Cost item</th><th>Apartment</th><th>Villa or townhouse</th></tr>
+<tr>
+<td>Electricity (DEWA)</td>
+<td>23–38 fils per kWh, with the rate set by the consumption slab; about 6 fils of fuel surcharge on top, then 5% VAT</td>
+<td>same tariff, but a garden, a pool and a larger area push the bill into the upper slabs</td>
+</tr>
+<tr>
+<td>Water (DEWA)</td>
+<td>AED 7.70–10.12 per m³ depending on volume</td>
+<td>same tariff; watering and a pool raise the volume</td>
+</tr>
+<tr>
+<td>District cooling (Empower), if the home is connected</td>
+<td>AED 750 annually for each ton of refrigeration of connected capacity, with cooling used billed separately; deposit AED 2,000</td>
+<td>deposit AED 3,000</td>
+</tr>
+<tr>
+<td>Service charge, broker estimates</td>
+<td>typically AED 10–25 per sq ft a year for apartments, e.g. AED 15.03 at Marina Gate 1 (Dubai Marina)</td>
+<td>several times lower per sq ft: about AED 2.4 in Arabian Ranches 2, AED 2.2–2.8 in Damac Hills</td>
+</tr>
+<tr>
+<td>Insurance</td>
+<td>the structure and common areas are paid for within the service charge; contents insurance is separate</td>
+<td>the owner insures the whole house, estimated at 0.1–0.5% of its value a year</td>
+</tr>
+</tbody>
+</table>
+<p>Electricity and water tariffs are DEWA data. Empower has no official 2026 rate card; the figures come from Gulf News and Bayut. To see the exact charge for a given building or community, open the DLD Service Charge Index.</p>
+<p>In addition to the above, a private house has extra costs:</p>
+<ul>
+<li>cleaning of drinking water tanks – annually;</li>
+<li>pool cleaning/lawn or garden maintenance.</li>
+</ul>
+<h3>Atmosphere</h3>
+<p>Houses have more space and are closer to nature. The air in cottage settlements is cleaner, and they are far from any noise pollution. You will have a free-standing house hidden inside a garden and away from the hustle and bustle of the city, with all the benefits of living in a community. Flats cannot provide you with the same level of privacy and freedom.</p>
+<p>[quote]“Families often buy a villa in the first months after moving, before they know what the area is like in summer or how long the drive to work takes. I advise renting the type of home you are considering for the first year and buying after that. Rents are falling in 2026, so a trial year costs less than it did a couple of years ago,” says a residential property consultant for families relocating to the UAE.[/quote]</p>
+<h2 id="id4">When a Villa or an Apartment Is the Wrong Fit</h2>
+<p>A mismatch between the format and the way you live usually shows up before the deal, in the area’s figures and in your own budget:</p>
+<table>
+<tbody>
+<tr><th>Format and buyer</th><th>The difficulty</th><th>Steps before signing</th></tr>
+<tr>
+<td>A villa, for someone counting on rental income to live on</td>
+<td>the average gross villa yield is 4.67% (Property Monitor, November 2026)</td>
+<td>calculate income from leases in the specific community: 7.45% in Al Barari, 3.22% in Jumeirah Islands</td>
+</tr>
+<tr>
+<td>A villa, for a buyer with a tight upkeep budget</td>
+<td>the summer DEWA bill for a house with a pool goes up, and garden care, repairs and home insurance come on top</td>
+<td>ask the seller for summer DEWA bills and see what the community pays according to the DLD Service Charge Index</td>
+</tr>
+<tr>
+<td>A villa, for a family that leaves the UAE for long periods</td>
+<td>the garden, pool and equipment need attention all year round</td>
+<td>agree terms with a management company in advance and include its fees in the budget</td>
+</tr>
+<tr>
+<td>An apartment, for a family that needs its own yard and room for pets</td>
+<td>there is no yard, and parking is limited to the spaces assigned to the unit</td>
+<td>check the building rules and the number of parking spaces in the unit’s documents</td>
+</tr>
+<tr>
+<td>An apartment, for a buyer who wants low annual payments</td>
+<td>apartment service charges are generally AED 10–25 per sq ft a year, and higher in some towers: AED 24.25 at the DAMAC Maison Privé tower</td>
+<td>pull up that tower in the DLD Service Charge Index before the deposit</td>
+</tr>
+<tr>
+<td>An apartment, for a buyer expecting the price to rise within a year or two</td>
+<td>according to ValuStrat, apartments fell 7.2% in the year to October 2026</td>
+<td>match the price to the latest sales in that building in DLD records</td>
+</tr>
+</tbody>
+</table>
+<h2 id="id5">How Apartment and Villa Prices, Rents and Yields Moved Between 2022 and 2026</h2>
+<table>
+<tbody>
+<tr><th>Indicator</th><th>In the 2022 article</th><th>Fall 2026</th></tr>
+<tr>
+<td>Villa rents</td>
+<td>+25% year on year in H1 2022, +47–48% in Arabian Ranches and Dubai Hills (Asteco)</td>
+<td>−6.7% in the year to October 2026 (REIDIN)</td>
+</tr>
+<tr>
+<td>Apartment rents</td>
+<td>+14% year on year, H1 2022</td>
+<td>−7.2% in the year to October 2026 (REIDIN)</td>
+</tr>
+<tr>
+<td>Purchase prices</td>
+<td>villas +40% in 2022</td>
+<td>ValuStrat: villas −4.8%, apartments −7.2% over the year to October 2026</td>
+</tr>
+<tr>
+<td>Apartment yields</td>
+<td>5.5–10%, highest in Dubai Studio City (10.9%)</td>
+<td>6.96% on average, highest in International City (8.94%), Property Monitor</td>
+</tr>
+<tr>
+<td>Villa yields</td>
+<td>4–5.61%, highest in Green Community (5.61%)</td>
+<td>4.67% on average, highest in Al Barari (7.45%), Property Monitor</td>
+</tr>
+<tr>
+<td>Permanent residence</td>
+<td>not explained</td>
+<td>no permanent residency; 2-, 5- and 10-year visas, a Golden Visa at AED 2 million and up in property</td>
+</tr>
+</tbody>
+</table>
+<h2 id="id6">Conclusion</h2>
+<p>Choosing a house or villa is a matter of personal taste, needs, and financial capability. If you are in doubt about which option is better, you can receive professional support from an Emirates.Estate specialist! The consultant will help you choose the right property for you, answer all your questions, and assist you to <a href="../property/dubai/">buy real estate in Dubai</a> profitably and safely.</p>
+<p>It helps to tie the decision to your relocation scenario:</p>
+<ul>
+<li>one or two people working in a business district — an apartment near the office or the metro;</li>
+<li>a family with children and pets — a townhouse or a villa with its own yard;</li>
+<li>moving with plans to rent the home out later — the yield of the specific area rather than the format;</li>
+<li>a Golden Visa is needed — the AED 2 million threshold is the same for an apartment and a villa.</li>
+</ul>
+<p>If no ready-built house fits, there is another route: <a href="../faq/land-plots-for-sale-in-the-uae-great-investment-offers/">buying land</a> and building a home to your own plan.</p>
+<h2 id="id7">Frequently Asked Questions</h2>
+<pre>[faqs title_tag="h2"]
+[item question="Does buying an apartment or a house give permanent residency in the UAE?"]No. The Emirates do not grant foreigners an open-ended status. Buying a home in Dubai for AED 2 million ($544,600) or more qualifies the owner for a renewable 10-year Golden Visa. A cheaper completed property qualifies for a 2-year owner visa. An apartment and a villa give the same rights here.
+[/item]
+[item question="What yields do apartments, townhouses and villas give in Dubai in 2026?"]Apartments bring in 6.96% gross on average, townhouses 5.20% and villas 4.67% (Property Monitor, November 2026). Net income is smaller, since the service charge, insurance, management and vacant months eat into the rent.
+[/item]
+[item question="Why do reports show apartments costing more per sq ft than townhouses?"]Property Monitor calculates the average price from the month’s deals, so the result depends on what sold. In October 2026, the sample included many expensive off-plan apartments, putting their average at AED 1,907 per sq ft against AED 1,391 for townhouses. For a specific community, its own deals give a more accurate picture.
+[/item]
+[item question="Are villa and apartment rents in Dubai falling?"]According to the REIDIN index, yes: in the year to October 2026, apartment rents fell 7.2% and villa rents 6.7%. Cavendish Maxwell, which also counts lease renewals, shows growth, so each company’s figures are best read on their own.
+[/item]
+[item question="How do I check a building’s or community’s service charge before buying?"]Through the DLD Service Charge Index, a free Land Department tool available on its website, via Dubai REST and through the Mollak system. A property is found by project and budget year or by its title deed number; its entry lists the management company and a breakdown of the charge.
+[/item]
+[/faqs]</pre>
+
+
+==================== RU ====================
+
+⟨RU-версии этой статьи нет в присланных файлах⟩
